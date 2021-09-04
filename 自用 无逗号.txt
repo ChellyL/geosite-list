@@ -4,7 +4,7 @@ geosite:twitter
 geosite:youtube
 geosite:discord
 geosite:reddit
-geosite:netfilx
+geosite:netflix
 geosite:facebook
 geosite:telegram
 geosite:instagram
