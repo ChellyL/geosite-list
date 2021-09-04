@@ -52,7 +52,6 @@ geosite:category-scholar-cn,
 geosite:category-securities-cn,
 geosite:category-wiki-cn,
 geosite:cn,
-geosite:cnki,
 geosite:geolocation-cn,
 geosite:tld-cn,
 
