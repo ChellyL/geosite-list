@@ -5,7 +5,7 @@ geosite:twitter,
 geosite:youtube,
 geosite:discord,
 geosite:reddit,
-geosite:netfilx,
+geosite:netflix,
 geosite:facebook,
 geosite:telegram,
 geosite:instagram,
@@ -33,12 +33,12 @@ geosite:category-forums,
 geosite:category-games,
 geosite:category-media,
 geosite:category-orgs,
-geosite:category-vpnservices
+geosite:category-vpnservices,
 
 ## proxy-ip:
 geoip:netflix,
 geoip:telegram,
-geoip:google
+geoip:google,
 
 ######################## direct ########################
 ## direct-site:
@@ -54,15 +54,15 @@ geosite:category-wiki-cn,
 geosite:cn,
 geosite:cnki,
 geosite:geolocation-cn,
-geosite:tld-cn
+geosite:tld-cn,
 
 ## direct-ip:
 geoip:cn,
-geoip:private
+geoip:private,
 
 ######################## block-site ########################
 geosite:category-ads,
-geosite:category-ads-all
+geosite:category-ads-all,
 
 ##### 其实只用上面两个就够了，下面是全部的ads #####
 
@@ -118,4 +118,4 @@ geosite:xhamster-ads,
 geosite:xiaomitv-ads,
 geosite:yahoo-ads,
 geosite:youku-ads,
-geosite:zynga-ads
+geosite:zynga-ads,
