@@ -5,9 +5,7 @@
 
 推荐使用 Loyalsoldier 的 [v2ray-rules-dat](https://github.com/Loyalsoldier/v2ray-rules-dat) 生成的geosite.dat和geoip.dat
 
-ps. Loyalsoldier 版 geoip.dat 新增以下ip，
-
-但有些客户端可以识别，有些认为这不是country code，如果出错可以试着移到domain栏试试
+ps. Loyalsoldier 版 geoip.dat 新增以下ip项目:
 
     geoip:cloudflare
     geoip:cloudfront
