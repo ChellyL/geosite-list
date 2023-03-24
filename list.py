@@ -13,7 +13,7 @@ with zipfile.ZipFile(filename, 'r') as zip_ref:
 
 # 读取data文件夹中所有文件名
 data_dir = os.path.join(os.getcwd(), "domain-list-community-master", "data")
-file_names = os.listdir(data_dir)
+file_names = sorted(os.listdir(data_dir))
 
 # 将文件名写入txt文件
 with open("geosite.txt", "w") as f:
