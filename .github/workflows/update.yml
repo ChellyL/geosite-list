@@ -1,8 +1,9 @@
 name: Update Geo List
 
 on:
-  schedule:
-    - cron: "0 0 */7 * *"
+  push:
+    branches: [master, main]
+
 
 jobs:
   update:
