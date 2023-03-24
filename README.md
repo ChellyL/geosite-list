@@ -15,3 +15,7 @@ ps. Loyalsoldier 版 geoip.dat 新增以下ip项目:
     geoip:netflix
     geoip:telegram
     geoip:twitter
+
+
+-----
+action文档和python脚本均由chatgpt生成
