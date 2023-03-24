@@ -16,6 +16,6 @@ data_dir = os.path.join(os.getcwd(), "domain-list-community-master", "data")
 file_names = os.listdir(data_dir)
 
 # 将文件名写入txt文件
-with open("file_names.txt", "w") as f:
+with open("geosite.txt", "w") as f:
     for name in file_names:
         f.write(name + "\n")
