@@ -11,5 +11,7 @@ ps. Loyalsoldier 版 geoip.dat 新增以下ip项目:
     geoip:cloudfront
     geoip:facebook
     geoip:fastly
+    geoip:google
     geoip:netflix
     geoip:telegram
+    geoip:twitter
