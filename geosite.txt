@@ -119,7 +119,6 @@ bethesda
 betterexplained
 bilibili
 bilibili2
-biliplus
 binance
 bing
 bitauto
@@ -209,7 +208,7 @@ category-ir-travel
 category-media
 category-media-cn
 category-mooc-cn
-category-network-security
+category-network-security-cn
 category-novel
 category-orgs
 category-porn
@@ -234,7 +233,6 @@ chaoxing
 chatango
 chatwhores
 cheetahmobile
-chemequations
 chinabroadnet
 chinamobile
 chinanews
@@ -333,7 +331,6 @@ doi
 douban
 douyu
 dowjones
-downloadly
 dribbble
 dropbox
 dslreports
@@ -724,6 +721,7 @@ notion
 now
 nowcoder
 npmjs
+nudevista
 nurofen
 nutaku
 nvidia
