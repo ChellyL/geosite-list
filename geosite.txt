@@ -175,6 +175,7 @@ category-bank-cn
 category-browser-!cn
 category-cas
 category-collaborate-cn
+category-communication
 category-companies
 category-container
 category-cryptocurrency
@@ -222,6 +223,7 @@ category-social-media-!cn
 category-social-media-cn
 category-vpnservices
 category-wiki-cn
+cavporn
 cbs
 ccb
 cctv
