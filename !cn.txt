@@ -1,1 +1,5 @@
-
+geosite:category-browser-!cn
+geosite:category-scholar-!cn
+geosite:category-social-media-!cn
+geosite:geolocation-!cn
+geosite:tld-!cn
