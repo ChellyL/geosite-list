@@ -19,3 +19,22 @@ file_names = sorted(os.listdir(data_dir))
 with open("geosite.txt", "w") as f:
     for name in file_names:
         f.write(name + "\n")
+
+# 查找某类
+def find(key):
+	txtname = key + '.txt'
+	with open(txtname, "w") as f:
+	    for name in file_names:
+	    	if key in name:
+		        f.write(txtname + "\n")
+
+find("ads")
+
+find("!cn")
+
+find("-cn")
+
+find("@cn")
+
+find("category")
+
