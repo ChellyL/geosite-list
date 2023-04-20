@@ -48,3 +48,6 @@ find("!cn")
 find("-cn")
 
 find("category")
+
+os.rename("-cn.txt", "cn.txt")
+
