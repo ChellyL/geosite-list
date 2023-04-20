@@ -2,7 +2,7 @@ name: Update Geo List
 
 on:
   push:
-    branches: [master, main]
+    branches: [main]
   schedule:
     - cron: "0 0 * * 1"
 
