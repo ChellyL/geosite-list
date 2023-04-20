@@ -4,7 +4,7 @@ on:
   push:
     branches: [master, main]
   schedule:
-    - cron: "0 0 */14 * *"
+    - cron: "0 0 * * 1"
 
 jobs:
   update:
@@ -26,4 +26,9 @@ jobs:
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
           git commit -am "Update geolist.txt"
+          git commit -am "Update !cn.txt"
+          git commit -am "Update -cn.txt"
+          git commit -am "Update @cn.txt"
+          git commit -am "Update ads.txt"
+          git commit -am "Update category.txt"
           git push
