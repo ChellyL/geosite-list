@@ -3,7 +3,7 @@ import urllib.request
 import zipfile
 
 # 下载zip文件
-url = "https://ghproxy.com/https://github.com/v2fly/domain-list-community/archive/refs/heads/master.zip"
+url = "https://github.com/v2fly/domain-list-community/archive/refs/heads/master.zip"
 filename = "master.zip"
 urllib.request.urlretrieve(url, filename)
 
