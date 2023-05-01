@@ -40,8 +40,8 @@ with open("cn.txt", "w") as f:
             if "-cn" in lines:
                 i = "geosite:" + i + "@cn"
                 f.write(i + "\n")
-                f.write("geosite:cn")
-        
+    f.write("geosite:cn")
+
 # 查找某类
 def find(key):
     txtname = key + '.txt'
