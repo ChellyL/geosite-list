@@ -33,7 +33,7 @@ with open("@cn.txt", "w") as f:
 
 # 查找-cn
 with open("cn.txt", "w") as f:
-    f.write("geosite:cn")
+f.write("geosite:cn")
     for name in file_names:
             if "-cn" in name:
                 i = "geosite:" + i + "-cn"
