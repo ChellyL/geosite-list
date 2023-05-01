@@ -28,16 +28,13 @@ with open("@cn.txt", "w") as f:
         with open(ipath, 'r', encoding="utf-8") as txt:
             lines = txt.read()
             if "@cn" in lines:
-                i = "geosite:" + i + "@cn"
+                i = "geosite:" + i
                 f.write(i + "\n")
 
 # 查找cn
 with open("cn.txt", "w") as f:
-    for i in file_names:
-        ipath = os.path.join(data_dir, i)
-        with open(ipath, 'r', encoding="utf-8") as txt:
-            lines = txt.read()
-            if "-cn" in lines:
+    for name in file_names:
+            if "-cn" in name:
                 i = "geosite:" + i + "-cn"
                 f.write(i + "\n")
     f.write("geosite:cn")
