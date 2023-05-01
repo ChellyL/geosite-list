@@ -30,6 +30,17 @@ with open("@cn.txt", "w") as f:
             if "@cn" in lines:
                 i = "geosite:" + i + "@cn"
                 f.write(i + "\n")
+
+# 查找cn
+with open("cn.txt", "w") as f:
+    for i in file_names:
+        ipath = os.path.join(data_dir, i)
+        with open(ipath, 'r', encoding="utf-8") as txt:
+            lines = txt.read()
+            f.write("geosite:cn")
+            if "-cn" in lines:
+                i = "geosite:" + i + "@cn"
+                f.write(i + "\n")
                 
 # 查找某类
 def find(key):
@@ -45,9 +56,4 @@ find("ads")
 
 find("!cn")
 
-find("-cn")
-
 find("category")
-
-os.rename("-cn.txt", "cn.txt")
-
