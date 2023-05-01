@@ -1,4 +1,4 @@
-geosite:cngeosite:zynga-ads-cn
+geosite:zynga-ads-cn
 geosite:geosite:zynga-ads-cn-cn
 geosite:geosite:geosite:zynga-ads-cn-cn-cn
 geosite:geosite:geosite:geosite:zynga-ads-cn-cn-cn-cn
@@ -18,3 +18,4 @@ geosite:geosite:geosite:geosite:geosite:geosite:geosite:geosite:geosite:geosite:
 geosite:geosite:geosite:geosite:geosite:geosite:geosite:geosite:geosite:geosite:geosite:geosite:geosite:geosite:geosite:geosite:geosite:geosite:zynga-ads-cn-cn-cn-cn-cn-cn-cn-cn-cn-cn-cn-cn-cn-cn-cn-cn-cn-cn
 geosite:geosite:geosite:geosite:geosite:geosite:geosite:geosite:geosite:geosite:geosite:geosite:geosite:geosite:geosite:geosite:geosite:geosite:geosite:zynga-ads-cn-cn-cn-cn-cn-cn-cn-cn-cn-cn-cn-cn-cn-cn-cn-cn-cn-cn-cn
 geosite:geosite:geosite:geosite:geosite:geosite:geosite:geosite:geosite:geosite:geosite:geosite:geosite:geosite:geosite:geosite:geosite:geosite:geosite:geosite:zynga-ads-cn-cn-cn-cn-cn-cn-cn-cn-cn-cn-cn-cn-cn-cn-cn-cn-cn-cn-cn-cn
+geosite:cn
