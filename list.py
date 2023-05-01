@@ -2,14 +2,14 @@ import os
 import urllib.request
 import zipfile
 
-# 下载zip文件
-url = "https://github.com/v2fly/domain-list-community/archive/refs/heads/master.zip"
-filename = "master.zip"
-urllib.request.urlretrieve(url, filename)
-
-# 解压缩zip文件
-with zipfile.ZipFile(filename, 'r') as zip_ref:
-    zip_ref.extractall()
+# # 下载zip文件
+# url = "https://github.com/v2fly/domain-list-community/archive/refs/heads/master.zip"
+# filename = "master.zip"
+# urllib.request.urlretrieve(url, filename)
+#
+# # 解压缩zip文件
+# with zipfile.ZipFile(filename, 'r') as zip_ref:
+#     zip_ref.extractall()
 
 # 读取data文件夹中所有文件名
 data_dir = os.path.join(os.getcwd(), "domain-list-community-master", "data")
@@ -35,7 +35,7 @@ with open("@cn.txt", "w") as f:
 with open("cn.txt", "w") as f:
     for name in file_names:
             if "-cn" in name:
-                i = "geosite:" + i + "-cn"
+                i = "geosite:" + name
                 f.write(i + "\n")
 with open("cn.txt", "a") as f:
     f.write("geosite:cn")
