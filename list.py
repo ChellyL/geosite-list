@@ -31,13 +31,14 @@ with open("@cn.txt", "w") as f:
                 i = "geosite:" + i
                 f.write(i + "\n")
 
-# 查找cn
+# 查找-cn
 with open("cn.txt", "w") as f:
+    f.write("geosite:cn")
     for name in file_names:
             if "-cn" in name:
                 i = "geosite:" + i + "-cn"
                 f.write(i + "\n")
-    f.write("geosite:cn")
+
 
 # 查找某类
 def find(key):
