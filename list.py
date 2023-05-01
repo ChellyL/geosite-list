@@ -37,11 +37,11 @@ with open("cn.txt", "w") as f:
         ipath = os.path.join(data_dir, i)
         with open(ipath, 'r', encoding="utf-8") as txt:
             lines = txt.read()
-            f.write("geosite:cn")
             if "-cn" in lines:
                 i = "geosite:" + i + "@cn"
                 f.write(i + "\n")
-                
+                f.write("geosite:cn")
+        
 # 查找某类
 def find(key):
     txtname = key + '.txt'
