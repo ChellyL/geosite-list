@@ -38,7 +38,7 @@ with open("cn.txt", "w") as f:
         with open(ipath, 'r', encoding="utf-8") as txt:
             lines = txt.read()
             if "-cn" in lines:
-                i = "geosite:" + i + "@cn"
+                i = "geosite:" + i + "-cn"
                 f.write(i + "\n")
     f.write("geosite:cn")
 
