@@ -31,7 +31,7 @@ with open("cn.txt", "a") as f:
     f.write("geosite:cn")
 
 # 查找@类
-def find(key):
+def findat(key):
     txtname = key + '.txt'
     at = "-" + str(key).strip("@")
     with open(txtname, "w") as f:
@@ -59,8 +59,8 @@ find("ads")
 
 find("!cn")
 
-find("@ads")
-
-find("@cn")
-
 find("category")
+
+findat("@ads")
+
+findat("@cn")
