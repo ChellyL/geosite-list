@@ -33,11 +33,12 @@ with open("cn.txt", "a") as f:
 # 查找@类
 def find(key):
     txtname = key + '.txt'
+    at = "-" + str(key).strip("@")
     with open(txtname, "w") as f:
         for name in file_names:
-            at = "-" + str(key).strip("@")
+            ipath = os.path.join(data_dir, name)
             if at not in name:
-                with open(txtname, 'r', encoding="utf-8") as txt:
+                with open(ipath, 'r', encoding="utf-8") as txt:
                     lines = txt.read()
                     if key in lines:
                         content = "geosite:" + str(name) + str(key)
