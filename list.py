@@ -34,11 +34,11 @@ with open("cn.txt", "a") as f:
 def find(key):
     txtname = key + '.txt'
     at = "-" + str(key).strip("@")
+    namepath = os.path.join(data_dir, name)
     with open(txtname, "w") as f:
         for name in file_names:
-            ipath = os.path.join(data_dir, name)
             if at not in name:
-                with open(ipath, 'r', encoding="utf-8") as txt:
+                with open(namepath, 'r', encoding="utf-8") as txt:
                     lines = txt.read()
                     if key in lines:
                         content = "geosite:" + str(name) + str(key)
