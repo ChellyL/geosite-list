@@ -34,9 +34,9 @@ with open("cn.txt", "a") as f:
 def find(key):
     txtname = key + '.txt'
     at = "-" + str(key).strip("@")
-    namepath = os.path.join(data_dir, name)
     with open(txtname, "w") as f:
         for name in file_names:
+            namepath = os.path.join(data_dir, name)
             if at not in name:
                 with open(namepath, 'r', encoding="utf-8") as txt:
                     lines = txt.read()
