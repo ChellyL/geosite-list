@@ -1,0 +1,3 @@
+geosite:openai@ads
+geosite:pixiv@ads
+geosite:snap@ads
