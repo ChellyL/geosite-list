@@ -40,6 +40,16 @@ with open("cn.txt", "w") as f:
 with open("cn.txt", "a") as f:
     f.write("geosite:cn")
 
+# 查找@ads
+with open("@ads.txt", "w") as f:
+    for i in file_names:
+        if "-ads" not in i:
+            ipath = os.path.join(data_dir, i)
+            with open(ipath, 'r', encoding="utf-8") as txt:
+                lines = txt.read()
+                if "@ads" in lines:
+                    i = "geosite:" + i + "@ads"
+                    f.write(i + "\n")
 
 # 查找某类
 def find(key):
