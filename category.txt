@@ -5,6 +5,7 @@ geosite:category-android-app-download
 geosite:category-anticensorship
 geosite:category-bank-cn
 geosite:category-bank-ir
+geosite:category-blog-cn
 geosite:category-bourse-ir
 geosite:category-browser-!cn
 geosite:category-cas
@@ -26,6 +27,7 @@ geosite:category-finance
 geosite:category-food-cn
 geosite:category-forums
 geosite:category-forums-ir
+geosite:category-game-accelerator-cn
 geosite:category-games
 geosite:category-gov-ir
 geosite:category-gov-ru

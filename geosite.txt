@@ -65,6 +65,7 @@ geosite:anandtech
 geosite:android
 geosite:anime
 geosite:anon-v
+geosite:anthropic
 geosite:antutu
 geosite:ap
 geosite:apa
@@ -175,6 +176,7 @@ geosite:category-android-app-download
 geosite:category-anticensorship
 geosite:category-bank-cn
 geosite:category-bank-ir
+geosite:category-blog-cn
 geosite:category-bourse-ir
 geosite:category-browser-!cn
 geosite:category-cas
@@ -196,6 +198,7 @@ geosite:category-finance
 geosite:category-food-cn
 geosite:category-forums
 geosite:category-forums-ir
+geosite:category-game-accelerator-cn
 geosite:category-games
 geosite:category-gov-ir
 geosite:category-gov-ru
@@ -666,6 +669,7 @@ geosite:microsoft-dev
 geosite:microsoft-pki
 geosite:mihoyo
 geosite:mihoyo-cn
+geosite:mikrotik
 geosite:mindgeek
 geosite:mindgeek-porn
 geosite:mini
@@ -1122,6 +1126,7 @@ geosite:yandex
 geosite:ycombinator
 geosite:yinxiang
 geosite:ynet
+geosite:ynoproject
 geosite:yomiuri
 geosite:youjizz
 geosite:youku
