@@ -62,7 +62,7 @@ def findallat(key):
             with open(namepath, 'r', encoding="utf-8") as txt:
                 lines = txt.readlines()
                 for line in lines:
-                    if key in line:
+                    if key and "#" not in line:
                         index = line.find('@')  # 查找 '@' 字符的索引位置
                         if index != -1:
                              atcontent = line[index:].rstrip()  # 获取 '@' 字符后面的内容并去除末尾的换行符
