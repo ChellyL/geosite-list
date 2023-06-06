@@ -56,11 +56,9 @@ def findat(key):
 # 查找不含-的@
 def findallat(key):
     txtname = key + '.txt'
-    hyphen = "-" + str(key).strip("@")
     with open(txtname, "w") as f:
         for name in file_names:
             namepath = os.path.join(data_dir, name)
-            if hyphen not in name:
                 with open(namepath, 'r', encoding="utf-8") as txt:
                     lines = txt.readlines()
                     for line in lines:
