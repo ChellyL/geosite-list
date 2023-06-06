@@ -54,7 +54,7 @@ def find(key):
                 content = "geosite:" + str(name)
                 f.write(content + "\n")
                 
-# 查找@
+# 查找不含-的@
 def findallat(key):
     txtname = key + '.txt'
     hyphen = "-" + str(key).strip("@")
