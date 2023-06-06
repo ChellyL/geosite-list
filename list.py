@@ -71,7 +71,7 @@ def findallat(key):
                             content = "geosite:" + str(name) + str(atcontent)
                             f.write(content + "\n")
                             break
-
+                            
 
 find("ads")
 
