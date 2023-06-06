@@ -53,6 +53,8 @@ def find(key):
             if key in name:
                 content = "geosite:" + str(name)
                 f.write(content + "\n")
+    if key = "-":
+        txtname = "special.txt"
 
 
 find("ads")
