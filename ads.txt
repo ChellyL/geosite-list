@@ -11,6 +11,7 @@ geosite:baidu-ads
 geosite:bytedance-ads
 geosite:category-ads
 geosite:category-ads-all
+geosite:category-ads-ir
 geosite:clearbitjs-ads
 geosite:dmm-ads
 geosite:emogi-ads

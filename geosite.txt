@@ -120,6 +120,7 @@ geosite:bestore
 geosite:bethesda
 geosite:betterexplained
 geosite:bilibili
+geosite:bilibili-game
 geosite:bilibili2
 geosite:binance
 geosite:bing
@@ -172,6 +173,7 @@ geosite:catchplay
 geosite:category-acg
 geosite:category-ads
 geosite:category-ads-all
+geosite:category-ads-ir
 geosite:category-android-app-download
 geosite:category-anticensorship
 geosite:category-bank-cn
@@ -632,6 +634,7 @@ geosite:localbitcoins
 geosite:localizejs
 geosite:logitech
 geosite:londonreal
+geosite:lowiro
 geosite:ltn
 geosite:lysol
 geosite:madshi
