@@ -69,6 +69,33 @@ def findallat(key):
                              content = "geosite:" + str(name) + str(atcontent)
                              f.write(content + "\n")
                              break
+
+
+def auto_classify_by_at_content(key):
+    findallat(key)
+    categories = {}  # 用于存储分类结果的字典
+    txtfile = str(key + ".txt")
+
+    with open(txtfile, 'r', encoding="utf-8") as f:
+        lines = f.readlines()
+        for line in lines:
+            line = line.strip()  # 去除首尾的空白字符
+            index = line.find('@')
+            if index != -1:
+                atcontent = line[index + 1:].strip()  # 获取 '@' 后面的内容，去除首尾的空白字符
+                category = categories.get(atcontent, [])  # 获取对应分类的列表，若分类不存在则创建空列表
+                category.append(line)  # 将行内容添加到对应分类的列表中
+                categories[atcontent] = category  # 更新分类字典
+
+    with open(txtfile, 'w') as f:
+        f.truncate(0)
+        for category, lines in categories.items():
+            f.write(f"*Category: {category}\n")
+            for line in lines:
+                f.write(f"{line}\n")
+            f.write("\n")
+
+    return categories
                             
 
 find("ads")
