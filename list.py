@@ -112,4 +112,4 @@ findat("@ads")
 
 findat("@cn")
 
-findallat("@")
+auto_classify_by_at_content("@")
