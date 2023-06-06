@@ -67,10 +67,10 @@ def findallat(key):
                         if key in lines:
                             index = line.find('@')  # 查找 '@' 字符的索引位置
                             if index != -1:
-                                 atcontent= line[index:].rstrip()  # 获取 '@' 字符后面的内容并去除末尾的换行符
-                                    content = "geosite:" + str(name) + str(atcontent)
-                                    f.write(content + "\n")
-                                    break
+                                 atcontent = line[index:].rstrip()  # 获取 '@' 字符后面的内容并去除末尾的换行符
+                                 content = "geosite:" + str(name) + str(atcontent)
+                                 f.write(content + "\n")
+                                 break
                             
 
 find("ads")
