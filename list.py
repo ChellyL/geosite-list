@@ -21,14 +21,14 @@ with open("geosite.txt", "w") as f:
         name = "geosite:" + name
         f.write(name + "\n")
 
-# 查找-cn
-with open("cn.txt", "w") as f:
-    for name in file_names:
-            if "-cn" in name:
-                i = "geosite:" + name
-                f.write(i + "\n")
-with open("cn.txt", "a") as f:
-    f.write("geosite:cn")
+# # 查找-cn
+# with open("cn.txt", "w") as f:
+#     for name in file_names:
+#             if "-cn" in name:
+#                 i = "geosite:" + name
+#                 f.write(i + "\n")
+# with open("cn.txt", "a") as f:
+#     f.write("geosite:cn")
     
 # 查找某类
 def find(key):
@@ -53,7 +53,7 @@ def findat(key):
                         content = "geosite:" + str(name) + str(key)
                         f.write(content + "\n")
                 
-# 查找不含-的@
+# 查找所有@
 def findallat(key):
     txtname = key + '.txt'
     with open(txtname, "w") as f:
@@ -74,6 +74,8 @@ def findallat(key):
 find("ads")
 
 find("!cn")
+
+find("-cn")
 
 find("category")
 
