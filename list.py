@@ -59,16 +59,16 @@ def findallat(key):
     with open(txtname, "w") as f:
         for name in file_names:
             namepath = os.path.join(data_dir, name)
-                with open(namepath, 'r', encoding="utf-8") as txt:
-                    lines = txt.readlines()
-                    for line in lines:
-                        if key in line:
-                            index = line.find('@')  # 查找 '@' 字符的索引位置
-                            if index != -1:
-                                 atcontent = line[index:].rstrip()  # 获取 '@' 字符后面的内容并去除末尾的换行符
-                                 content = "geosite:" + str(name) + str(atcontent)
-                                 f.write(content + "\n")
-                                 break
+            with open(namepath, 'r', encoding="utf-8") as txt:
+                lines = txt.readlines()
+                for line in lines:
+                    if key in line:
+                        index = line.find('@')  # 查找 '@' 字符的索引位置
+                        if index != -1:
+                             atcontent = line[index:].rstrip()  # 获取 '@' 字符后面的内容并去除末尾的换行符
+                             content = "geosite:" + str(name) + str(atcontent)
+                             f.write(content + "\n")
+                             break
                             
 
 find("ads")
