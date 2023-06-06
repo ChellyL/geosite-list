@@ -29,6 +29,15 @@ with open("cn.txt", "w") as f:
                 f.write(i + "\n")
 with open("cn.txt", "a") as f:
     f.write("geosite:cn")
+    
+# 查找某类
+def find(key):
+    txtname = key + '.txt'
+    with open(txtname, "w") as f:
+        for name in file_names:
+            if key in name:
+                content = "geosite:" + str(name)
+                f.write(content + "\n")
 
 # 查找@类
 def findat(key):
@@ -43,16 +52,6 @@ def findat(key):
                     if key in lines:
                         content = "geosite:" + str(name) + str(key)
                         f.write(content + "\n")
-
-
-# 查找某类
-def find(key):
-    txtname = key + '.txt'
-    with open(txtname, "w") as f:
-        for name in file_names:
-            if key in name:
-                content = "geosite:" + str(name)
-                f.write(content + "\n")
                 
 # 查找不含-的@
 def findallat(key):
