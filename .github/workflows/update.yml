@@ -25,6 +25,6 @@ jobs:
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
-          git add geosite.txt @cn.txt ./-cn.txt !cn.txt ads.txt @ads.txt category.txt ./-.txt ./@.txt
+          git add geosite.txt @cn.txt ./-cn.txt !cn.txt ads.txt @ads.txt category.txt ./-.txt ./@.txt hyphen-classification.txt
           git commit -m "Update file"
           git push
