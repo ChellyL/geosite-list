@@ -39,7 +39,6 @@ geosite:calgoncarbon@cn
 geosite:canon@cn
 geosite:category-ads-all@ads
 geosite:category-enhance-gaming@cn
-geosite:category-scholar-!cn@https://pericles.pericles-prod.literatumonline.com/
 geosite:cisco@cn
 geosite:clearasil@cn
 geosite:clearbitjs-ads@ads
