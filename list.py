@@ -70,7 +70,7 @@ def findallat(key):
                              f.write(content + "\n")
                              break
 
-
+# 给 @ 分类
 def auto_classify_by_at_content(key):
     findallat(key)
     categories = {}  # 用于存储分类结果的字典
@@ -96,7 +96,37 @@ def auto_classify_by_at_content(key):
             f.write("\n")
 
     return categories
-                            
+
+# 给 - 中多于1个的分类
+def auto_classify_by_hyphen_content(key):
+    find(key)
+    txtfile = str(key + ".txt")
+    categories = {}  # 用于存储分类结果的字典
+
+    with open(txtfile, 'r', encoding="utf-8") as f:
+        lines = f.readlines()
+        for line in lines:
+            # if "category" not in line:
+            line = line.strip()  # 去除首尾的空白字符
+            hyphen_indices = [i for i, c in enumerate(line) if c == key]  # 获取所有 - 的索引位置
+            if hyphen_indices:
+                last_at_index = hyphen_indices[-1]  # 获取最后一个 - 的索引位置
+                hyphencontent = line[last_at_index + 1:].strip()  # 获取最后一个 - 后面的内容，去除首尾的空白字符
+                category = categories.get(hyphencontent, [])  # 获取对应分类的列表，若分类不存在则创建空列表
+                category.append(line)  # 将行内容添加到对应分类的列表中
+                categories[hyphencontent] = category  # 更新分类字典
+
+    txtname = "hyphen-classification.txt"
+    with open(txtname, 'w') as f:
+        for category, lines in categories.items():
+            if len(lines) > 1:
+                f.write(f"* Category: {category}\n")
+                for line in lines:
+                    f.write(f"{line}\n")
+                f.write("\n")
+
+    return categories
+
 
 find("ads")
 
@@ -113,3 +143,5 @@ findat("@ads")
 findat("@cn")
 
 auto_classify_by_at_content("@")
+
+auto_classify_by_hyphen_content("-")
