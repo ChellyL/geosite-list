@@ -61,6 +61,8 @@ find("!cn")
 
 find("category")
 
+find("-")
+
 findat("@ads")
 
 findat("@cn")
