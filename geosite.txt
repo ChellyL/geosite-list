@@ -577,6 +577,7 @@ geosite:kaggle
 geosite:kanzhongguo
 geosite:kechuang
 geosite:keep
+geosite:kemono
 geosite:kernel
 geosite:khanacademy
 geosite:kindle
