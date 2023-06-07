@@ -116,7 +116,7 @@ def auto_classify_by_hyphen_content(key):
                 category.append(line)  # 将行内容添加到对应分类的列表中
                 categories[hyphencontent] = category  # 更新分类字典
 
-    txtname = "hyphen-classification.txt"
+    txtname = "-classification.txt"
     with open(txtname, 'w') as f:
         for category, lines in categories.items():
             if len(lines) > 1:
