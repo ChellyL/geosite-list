@@ -212,6 +212,7 @@ geosite:category-media
 geosite:category-media-cn
 geosite:category-media-ir
 geosite:category-mooc-cn
+geosite:category-netdisk-cn
 geosite:category-network-security-cn
 geosite:category-news-ir
 geosite:category-novel

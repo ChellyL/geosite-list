@@ -84,6 +84,7 @@ geosite:category-game-accelerator-cn
 geosite:category-hospital-cn
 geosite:category-media-cn
 geosite:category-mooc-cn
+geosite:category-netdisk-cn
 geosite:category-network-security-cn
 geosite:category-scholar-cn
 geosite:category-securities-cn
