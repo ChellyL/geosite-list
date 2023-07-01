@@ -107,6 +107,7 @@ geosite:bahamut
 geosite:baidu
 geosite:baidu-ads
 geosite:baijiayun
+geosite:baltamatica
 geosite:bamtech
 geosite:bandcamp
 geosite:bandwagonhost
@@ -1141,6 +1142,7 @@ geosite:youtube
 geosite:youzan
 geosite:yuanfudao
 geosite:yuewen
+geosite:yuketang
 geosite:yunfanjiasu
 geosite:yunlaopo
 geosite:yy
