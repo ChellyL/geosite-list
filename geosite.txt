@@ -70,6 +70,7 @@ geosite:antutu
 geosite:ap
 geosite:apa
 geosite:aparat
+geosite:apifox
 geosite:apkcombo
 geosite:apkmirror
 geosite:apkpure
