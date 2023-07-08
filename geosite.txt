@@ -815,6 +815,7 @@ geosite:postimages
 geosite:pptv
 geosite:primevideo
 geosite:private
+geosite:projectsekai
 geosite:proquest
 geosite:protonmail
 geosite:pstorage
