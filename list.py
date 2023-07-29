@@ -29,7 +29,8 @@ with open("geosite.txt", "w") as f:
 #                 f.write(i + "\n")
 # with open("cn.txt", "a") as f:
 #     f.write("geosite:cn")
-    
+
+
 # 查找某类
 def find(key):
     txtname = key + '.txt'
