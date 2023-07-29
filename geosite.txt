@@ -248,6 +248,7 @@ geosite:chaoxing
 geosite:chatango
 geosite:chatwhores
 geosite:cheetahmobile
+geosite:chegg
 geosite:chinabroadnet
 geosite:chinamobile
 geosite:chinanews
@@ -307,6 +308,7 @@ geosite:cybertrust
 geosite:cygames
 geosite:cylink
 geosite:dailymail
+geosite:dailymotion
 geosite:dandanzan
 geosite:dangdang
 geosite:dart
@@ -548,6 +550,7 @@ geosite:iqiyi
 geosite:iqiyi-ads
 geosite:isgd
 geosite:itunes
+geosite:iyf
 geosite:j-test
 geosite:jable
 geosite:japonx
@@ -577,6 +580,7 @@ geosite:justav
 geosite:justmysocks
 geosite:jwplayer
 geosite:kaggle
+geosite:kakao
 geosite:kanzhongguo
 geosite:kechuang
 geosite:keep
@@ -1002,6 +1006,7 @@ geosite:thesun
 geosite:thetimes
 geosite:thetype
 geosite:thomsonreuters
+geosite:threads
 geosite:tiancity
 geosite:tianyancha
 geosite:tidal

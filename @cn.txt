@@ -97,6 +97,7 @@ geosite:veet@cn
 geosite:visa@cn
 geosite:vmware@cn
 geosite:volvo@cn
+geosite:walmart@cn
 geosite:webex@cn
 geosite:westerndigital@cn
 geosite:woolite@cn

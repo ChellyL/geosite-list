@@ -49,6 +49,7 @@ geosite:supersonic-ads
 geosite:tagtic-ads
 geosite:tappx-ads
 geosite:tencent-ads
+geosite:threads
 geosite:uberads-ads
 geosite:umeng-ads
 geosite:unity-ads
