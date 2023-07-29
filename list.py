@@ -128,7 +128,7 @@ def auto_classify_by_hyphen_content(key):
     return categories
 
 
-find("ads")
+find("-ads")
 
 find("!cn")
 
