@@ -1102,6 +1102,7 @@ geosite:wikidot
 geosite:wikihow
 geosite:wikimedia
 geosite:windy
+geosite:wise
 geosite:wisekey
 geosite:wish
 geosite:wiwide
