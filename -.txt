@@ -106,6 +106,7 @@ geosite:intel-dev
 geosite:iqiyi-ads
 geosite:j-test
 geosite:jd-ads
+geosite:jetbrains-ai
 geosite:kuaishou-ads
 geosite:kugou-ads
 geosite:leanplum-ads

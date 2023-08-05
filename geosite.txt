@@ -562,6 +562,7 @@ geosite:javwide
 geosite:jd
 geosite:jd-ads
 geosite:jetbrains
+geosite:jetbrains-ai
 geosite:jfrog
 geosite:jianshu
 geosite:jibencaozuo
@@ -760,6 +761,7 @@ geosite:okaapps
 geosite:okx
 geosite:olevod
 geosite:onedrive
+geosite:onekey
 geosite:oneplus
 geosite:onesignal-ads
 geosite:ookla-speedtest
@@ -796,6 +798,7 @@ geosite:pgyer
 geosite:phoenix
 geosite:picacg
 geosite:picsee
+geosite:pikpak
 geosite:pinduoduo
 geosite:pingan
 geosite:pingpe
@@ -1115,6 +1118,7 @@ geosite:wps
 geosite:wsj
 geosite:wteam-ads
 geosite:wwe
+geosite:x
 geosite:x315
 geosite:xbox
 geosite:xda
