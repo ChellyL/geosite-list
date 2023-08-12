@@ -841,6 +841,7 @@ geosite:qingcloud
 geosite:qingtingfm
 geosite:qiniu
 geosite:qixin
+geosite:qnap
 geosite:qt
 geosite:qualcomm
 geosite:quantil

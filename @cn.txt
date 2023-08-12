@@ -14,6 +14,7 @@ geosite:att@cn
 geosite:azure@cn
 geosite:beats@cn
 geosite:bestbuy@cn
+geosite:bilibili-game@cn
 geosite:bing@cn
 geosite:blizzard@cn
 geosite:bmw@cn
@@ -73,6 +74,7 @@ geosite:panasonic@cn
 geosite:paypal@cn
 geosite:pearson@cn
 geosite:primevideo@cn
+geosite:qnap@cn
 geosite:qualcomm@cn
 geosite:rb@cn
 geosite:reabble@cn
