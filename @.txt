@@ -30,6 +30,7 @@ geosite:clearasil@cn
 geosite:cloudflare-cn@cn
 geosite:dettol@cn
 geosite:digicert@cn
+geosite:duolingo@cn
 geosite:durex@cn
 geosite:ebay@cn
 geosite:epicgames@cn

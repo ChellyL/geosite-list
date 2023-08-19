@@ -354,6 +354,7 @@ geosite:dropbox
 geosite:dslreports
 geosite:duckduckgo
 geosite:duitang
+geosite:duolingo
 geosite:duowan
 geosite:durex
 geosite:duyaoss

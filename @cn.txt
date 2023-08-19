@@ -27,6 +27,7 @@ geosite:cisco@cn
 geosite:clearasil@cn
 geosite:dettol@cn
 geosite:digicert@cn
+geosite:duolingo@cn
 geosite:durex@cn
 geosite:ebay@cn
 geosite:epicgames@cn
