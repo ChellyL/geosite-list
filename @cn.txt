@@ -16,7 +16,7 @@ geosite:beats@cn
 geosite:bestbuy@cn
 geosite:bilibili-game@cn
 geosite:bing@cn
-geosite:blizzard@cn
+geosite:bluearchive@cn
 geosite:bmw@cn
 geosite:booking@cn
 geosite:bridgestone@cn

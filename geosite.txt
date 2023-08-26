@@ -136,6 +136,7 @@ geosite:blender
 geosite:blizzard
 geosite:blogspot
 geosite:bloomberg
+geosite:bluearchive
 geosite:blurams
 geosite:bmw
 geosite:boboporn
@@ -541,6 +542,7 @@ geosite:infowars
 geosite:infrapedia
 geosite:inner-active-ads
 geosite:inoreader
+geosite:inshot
 geosite:insider
 geosite:instagram
 geosite:intel
@@ -862,6 +864,7 @@ geosite:realitykings
 geosite:realtype
 geosite:rebrandly
 geosite:reddit
+geosite:redhat
 geosite:redis
 geosite:redtube
 geosite:remirepo
