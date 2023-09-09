@@ -420,6 +420,7 @@ geosite:fontsinuse
 geosite:forbes
 geosite:foundertype
 geosite:fox
+geosite:fqnovel
 geosite:freecodecamp
 geosite:freenode
 geosite:ft
@@ -438,6 +439,7 @@ geosite:geolocation-!cn
 geosite:geolocation-cn
 geosite:gettyimages
 geosite:gfycat
+geosite:giffgaff
 geosite:gigabyte
 geosite:gimy
 geosite:gitbook

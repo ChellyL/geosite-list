@@ -1,3 +1,4 @@
+geosite:fqnovel@ads
 geosite:openai@ads
 geosite:pikpak@ads
 geosite:pixiv@ads

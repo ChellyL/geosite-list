@@ -129,6 +129,7 @@ geosite:clearbitjs-ads@ads
 geosite:dmm-ads@ads
 geosite:emogi-ads@ads
 geosite:flurry-ads@ads
+geosite:fqnovel@ads
 geosite:google-ads@ads
 geosite:growingio-ads@ads
 geosite:hiido-ads@ads
