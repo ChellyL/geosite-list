@@ -1103,6 +1103,7 @@ geosite:wantmedia
 geosite:watchout
 geosite:webex
 geosite:webflow
+geosite:webnovel
 geosite:webtype
 geosite:weiphone
 geosite:westerndigital
