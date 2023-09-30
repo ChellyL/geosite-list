@@ -742,6 +742,7 @@ geosite:nginx
 geosite:niconico
 geosite:nike
 geosite:nikkan-gendai
+geosite:nikke
 geosite:nikkei
 geosite:nintendo
 geosite:nist
