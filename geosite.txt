@@ -242,6 +242,7 @@ geosite:cbs
 geosite:ccb
 geosite:cctv
 geosite:cdn77
+geosite:ceno
 geosite:cern
 geosite:certinomis
 geosite:certum
@@ -272,6 +273,7 @@ geosite:cloudcone
 geosite:cloudconvert
 geosite:cloudflare
 geosite:cloudflare-cn
+geosite:cloudflare-ipfs
 geosite:cloudinary
 geosite:clubhouse
 geosite:cmb
@@ -380,6 +382,7 @@ geosite:emojipedia
 geosite:enfa
 geosite:entermediadb
 geosite:entrust
+geosite:epicbrowser
 geosite:epicgames
 geosite:epochmediagroup
 geosite:erji
@@ -390,11 +393,13 @@ geosite:esri
 geosite:ethereum
 geosite:everbright
 geosite:evernote
+geosite:f-droid
 geosite:facebook
 geosite:facebook-dev
 geosite:falungong
 geosite:familymart
 geosite:fandom
+geosite:fans66
 geosite:fansta
 geosite:farfetch
 geosite:faronics
@@ -792,6 +797,7 @@ geosite:pagecdn
 geosite:panasonic
 geosite:pandanet
 geosite:paofuyun
+geosite:paskoocheh
 geosite:pastebin
 geosite:patreon
 geosite:paypal
@@ -1036,6 +1042,7 @@ geosite:tonec
 geosite:tongcheng
 geosite:topcoder
 geosite:tor
+geosite:torproject
 geosite:translatewiki
 geosite:trello
 geosite:trustwave

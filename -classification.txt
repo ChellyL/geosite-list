@@ -124,6 +124,10 @@ geosite:tld-!cn
 geosite:category-games
 geosite:tencent-games
 
+* Category: ipfs
+geosite:category-ipfs
+geosite:cloudflare-ipfs
+
 * Category: porn
 geosite:category-porn
 geosite:dmm-porn

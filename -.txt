@@ -83,9 +83,11 @@ geosite:category-vpnservices
 geosite:category-wiki-cn
 geosite:clearbitjs-ads
 geosite:cloudflare-cn
+geosite:cloudflare-ipfs
 geosite:dmm-ads
 geosite:dmm-porn
 geosite:emogi-ads
+geosite:f-droid
 geosite:facebook-dev
 geosite:flurry-ads
 geosite:geolocation-!cn
