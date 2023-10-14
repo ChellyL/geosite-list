@@ -821,6 +821,7 @@ geosite:pixhost
 geosite:pixiv
 geosite:pixnet
 geosite:pkoplink
+geosite:playboy
 geosite:playcover
 geosite:playstation
 geosite:plutotv
