@@ -792,6 +792,7 @@ geosite:organicmaps
 geosite:origin
 geosite:oschina
 geosite:osdn
+geosite:osu
 geosite:oup
 geosite:pagecdn
 geosite:panasonic
