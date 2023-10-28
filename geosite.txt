@@ -408,6 +408,7 @@ geosite:fastly
 geosite:faststone
 geosite:fedora
 geosite:feedly
+geosite:fengxing
 geosite:figma
 geosite:filimo
 geosite:finish
@@ -785,6 +786,7 @@ geosite:opensourceinsights
 geosite:openstreetmap
 geosite:openweather
 geosite:openwrt
+geosite:openx-ads
 geosite:oppo
 geosite:oracle
 geosite:oreilly
@@ -981,6 +983,7 @@ geosite:strepsils
 geosite:strikingly
 geosite:stripe
 geosite:subscene
+geosite:suishouji
 geosite:sumkoo
 geosite:suning
 geosite:supersonic-ads

@@ -35,6 +35,7 @@ geosite:newrelic-ads
 geosite:ogury-ads
 geosite:onesignal-ads
 geosite:ookla-speedtest-ads
+geosite:openx-ads
 geosite:pocoiq-ads
 geosite:pubmatic-ads
 geosite:segment-ads

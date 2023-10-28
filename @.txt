@@ -151,6 +151,7 @@ geosite:ogury-ads@ads
 geosite:onesignal-ads@ads
 geosite:ookla-speedtest-ads@ads
 geosite:openai@ads
+geosite:openx-ads@ads
 geosite:pikpak@ads
 geosite:pixiv@ads
 geosite:pocoiq-ads@ads
