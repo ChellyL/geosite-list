@@ -137,6 +137,8 @@ geosite:blizzard
 geosite:blogspot
 geosite:bloomberg
 geosite:bluearchive
+geosite:bluepoch
+geosite:bluepoch-games
 geosite:blurams
 geosite:bmw
 geosite:boboporn

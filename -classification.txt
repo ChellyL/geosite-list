@@ -96,6 +96,11 @@ geosite:geolocation-cn
 geosite:mihoyo-cn
 geosite:tld-cn
 
+* Category: games
+geosite:bluepoch-games
+geosite:category-games
+geosite:tencent-games
+
 * Category: ir
 geosite:category-ads-ir
 geosite:category-bank-ir
@@ -120,10 +125,6 @@ geosite:category-scholar-!cn
 geosite:category-social-media-!cn
 geosite:geolocation-!cn
 geosite:tld-!cn
-
-* Category: games
-geosite:category-games
-geosite:tencent-games
 
 * Category: ipfs
 geosite:category-ipfs

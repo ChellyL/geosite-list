@@ -15,6 +15,7 @@ geosite:atom-data-ads
 geosite:aws-cn
 geosite:baidu-ads
 geosite:bilibili-game
+geosite:bluepoch-games
 geosite:bytedance-ads
 geosite:c-span
 geosite:category-acg

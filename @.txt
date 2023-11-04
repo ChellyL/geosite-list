@@ -19,6 +19,8 @@ geosite:bestbuy@cn
 geosite:bilibili-game@cn
 geosite:bing@cn
 geosite:bluearchive@cn
+geosite:bluepoch@cn
+geosite:bluepoch-games@cn
 geosite:bmw@cn
 geosite:booking@cn
 geosite:bridgestone@cn
