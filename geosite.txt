@@ -810,6 +810,7 @@ geosite:pbs
 geosite:pccw
 geosite:pchome
 geosite:pearson
+geosite:peppy
 geosite:perl
 geosite:pgyer
 geosite:phoenix
@@ -1143,6 +1144,7 @@ geosite:wteam-ads
 geosite:wwe
 geosite:x
 geosite:x315
+geosite:xai
 geosite:xbox
 geosite:xda
 geosite:xdty
