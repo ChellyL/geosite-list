@@ -281,6 +281,7 @@ geosite:clubhouse
 geosite:cmb
 geosite:cn
 geosite:cnbc
+geosite:cnbeta
 geosite:cnblogs
 geosite:cnet
 geosite:cnki
@@ -411,6 +412,7 @@ geosite:faststone
 geosite:fedora
 geosite:feedly
 geosite:fengxing
+geosite:fflogs
 geosite:figma
 geosite:filimo
 geosite:finish

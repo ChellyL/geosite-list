@@ -35,6 +35,7 @@ geosite:ebay@cn
 geosite:epicgames@cn
 geosite:familymart@cn
 geosite:farfetch@cn
+geosite:fflogs@cn
 geosite:finish@cn
 geosite:gigabyte@cn
 geosite:globalsign@cn
