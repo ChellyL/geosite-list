@@ -629,6 +629,7 @@ geosite:lantern
 geosite:lanzou
 geosite:laracasts
 geosite:lark
+geosite:lastfm
 geosite:launchpad
 geosite:lavteam
 geosite:ldmnq
@@ -962,6 +963,7 @@ geosite:soundcloud
 geosite:soundofhope
 geosite:sourceforge
 geosite:spacex
+geosite:spankbang
 geosite:speedtest
 geosite:spiceworks
 geosite:spotify
