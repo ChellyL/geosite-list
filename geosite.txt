@@ -763,6 +763,7 @@ geosite:notion
 geosite:now
 geosite:nowcoder
 geosite:npmjs
+geosite:nubia
 geosite:nudevista
 geosite:nurofen
 geosite:nutaku
