@@ -162,6 +162,7 @@ geosite:btdig
 geosite:bttzyw
 geosite:buymeacoffee
 geosite:buypass
+geosite:bybit
 geosite:bytedance
 geosite:bytedance-ads
 geosite:c-span
@@ -326,6 +327,7 @@ geosite:dedao
 geosite:deepin
 geosite:dell
 geosite:demonoid
+geosite:deribit
 geosite:dettol
 geosite:deviantart
 geosite:dgtle
@@ -341,6 +343,7 @@ geosite:discuz
 geosite:disney
 geosite:disqus
 geosite:divar
+geosite:dji
 geosite:dlercloud
 geosite:dlsite
 geosite:dmm
@@ -441,6 +444,7 @@ geosite:gandi
 geosite:ganji
 geosite:gannett
 geosite:garena
+geosite:gateio
 geosite:gcores
 geosite:geekpark
 geosite:geetest
@@ -1111,6 +1115,7 @@ geosite:vk
 geosite:vmware
 geosite:voanews
 geosite:vodafone
+geosite:volcengine
 geosite:volmoe
 geosite:volvo
 geosite:voxmedia
@@ -1151,6 +1156,7 @@ geosite:x
 geosite:x315
 geosite:xai
 geosite:xbox
+geosite:xd
 geosite:xda
 geosite:xdty
 geosite:xhamster
@@ -1170,6 +1176,7 @@ geosite:xunlei
 geosite:xvideos
 geosite:yahoo
 geosite:yahoo-ads
+geosite:yamibo
 geosite:yandex
 geosite:ycombinator
 geosite:yinxiang
