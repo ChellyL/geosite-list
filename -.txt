@@ -95,6 +95,7 @@ geosite:geolocation-!cn
 geosite:geolocation-cn
 geosite:google-ads
 geosite:google-registry
+geosite:google-registry-tld
 geosite:google-scholar
 geosite:google-trust-services
 geosite:growingio-ads

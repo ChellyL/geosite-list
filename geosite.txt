@@ -472,6 +472,7 @@ geosite:goodreads
 geosite:google
 geosite:google-ads
 geosite:google-registry
+geosite:google-registry-tld
 geosite:google-scholar
 geosite:google-trust-services
 geosite:googlefcm
@@ -1113,6 +1114,7 @@ geosite:vimeo
 geosite:visa
 geosite:visualarts
 geosite:viu
+geosite:vivo
 geosite:vk
 geosite:vmware
 geosite:voanews
