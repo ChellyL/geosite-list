@@ -54,6 +54,7 @@ geosite:icloud@cn
 geosite:ikea@cn
 geosite:intel@cn
 geosite:itunes@cn
+geosite:jetbrains@cn
 geosite:kechuang@cn
 geosite:kindle@cn
 geosite:linkedin@cn

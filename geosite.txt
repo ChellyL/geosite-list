@@ -211,6 +211,7 @@ geosite:category-games
 geosite:category-gov-ir
 geosite:category-gov-ru
 geosite:category-hospital-cn
+geosite:category-httpdns
 geosite:category-insurance-ir
 geosite:category-ipfs
 geosite:category-ir
@@ -970,6 +971,7 @@ geosite:sonypictures
 geosite:soundcloud
 geosite:soundofhope
 geosite:sourceforge
+geosite:sourcehut
 geosite:spacex
 geosite:spankbang
 geosite:speedtest
