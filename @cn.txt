@@ -88,6 +88,7 @@ geosite:samsung@cn
 geosite:sectigo@cn
 geosite:shopee@cn
 geosite:sslcom@cn
+geosite:st@cn
 geosite:starbucks@cn
 geosite:steam@cn
 geosite:strepsils@cn

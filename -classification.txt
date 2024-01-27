@@ -87,6 +87,7 @@ geosite:category-media-cn
 geosite:category-mooc-cn
 geosite:category-netdisk-cn
 geosite:category-network-security-cn
+geosite:category-ntp-cn
 geosite:category-scholar-cn
 geosite:category-securities-cn
 geosite:category-social-media-cn

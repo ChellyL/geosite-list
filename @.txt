@@ -27,6 +27,7 @@ geosite:bridgestone@cn
 geosite:calgoncarbon@cn
 geosite:canon@cn
 geosite:category-enhance-gaming@cn
+geosite:category-ntp-cn@cn
 geosite:cisco@cn
 geosite:clearasil@cn
 geosite:cloudflare-cn@cn
@@ -92,6 +93,7 @@ geosite:samsung@cn
 geosite:sectigo@cn
 geosite:shopee@cn
 geosite:sslcom@cn
+geosite:st@cn
 geosite:starbucks@cn
 geosite:steam@cn
 geosite:strepsils@cn

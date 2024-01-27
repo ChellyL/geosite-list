@@ -45,6 +45,8 @@ geosite:category-netdisk-cn
 geosite:category-network-security-cn
 geosite:category-news-ir
 geosite:category-novel
+geosite:category-ntp
+geosite:category-ntp-cn
 geosite:category-orgs
 geosite:category-payment-ir
 geosite:category-porn

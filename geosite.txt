@@ -223,6 +223,8 @@ geosite:category-netdisk-cn
 geosite:category-network-security-cn
 geosite:category-news-ir
 geosite:category-novel
+geosite:category-ntp
+geosite:category-ntp-cn
 geosite:category-orgs
 geosite:category-payment-ir
 geosite:category-porn
@@ -740,6 +742,7 @@ geosite:myradio
 geosite:mytvsuper
 geosite:mzed
 geosite:n3ro
+geosite:narwal
 geosite:nat-test
 geosite:nationalgeographic
 geosite:naver
@@ -901,6 +904,7 @@ geosite:reurl
 geosite:reuters
 geosite:rferl
 geosite:riot
+geosite:roborock
 geosite:rockstar
 geosite:roku
 geosite:rsshub
@@ -984,6 +988,7 @@ geosite:squirrelvpn
 geosite:sslcom
 geosite:sspai
 geosite:ssrcloud
+geosite:st
 geosite:stackexchange
 geosite:stackpath
 geosite:stage1st
