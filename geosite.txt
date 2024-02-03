@@ -58,6 +58,7 @@ geosite:aljazeera
 geosite:amazon
 geosite:amazon-ads
 geosite:amazontrust
+geosite:amc
 geosite:amd
 geosite:amp
 geosite:anaconda
@@ -768,6 +769,7 @@ geosite:nikke
 geosite:nikkei
 geosite:nintendo
 geosite:nist
+geosite:nixos
 geosite:nodejs
 geosite:nordstrom
 geosite:notion
@@ -827,6 +829,7 @@ geosite:pchome
 geosite:pearson
 geosite:peppy
 geosite:perl
+geosite:perplexity
 geosite:pgyer
 geosite:phoenix
 geosite:picacg
