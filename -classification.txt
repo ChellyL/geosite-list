@@ -13,6 +13,7 @@ geosite:bytedance-ads
 geosite:category-ads
 geosite:clearbitjs-ads
 geosite:dmm-ads
+geosite:duolingo-ads
 geosite:emogi-ads
 geosite:flurry-ads
 geosite:google-ads

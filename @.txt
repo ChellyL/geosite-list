@@ -4,6 +4,7 @@ geosite:adidas@cn
 geosite:adobe@cn
 geosite:aerogard@cn
 geosite:airwick@cn
+geosite:akamai@cn
 geosite:amazon@cn
 geosite:amd@cn
 geosite:amp@cn
@@ -133,6 +134,7 @@ geosite:bytedance-ads@ads
 geosite:category-ads-all@ads
 geosite:clearbitjs-ads@ads
 geosite:dmm-ads@ads
+geosite:duolingo-ads@ads
 geosite:emogi-ads@ads
 geosite:flurry-ads@ads
 geosite:fqnovel@ads

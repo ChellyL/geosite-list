@@ -368,6 +368,7 @@ geosite:dslreports
 geosite:duckduckgo
 geosite:duitang
 geosite:duolingo
+geosite:duolingo-ads
 geosite:duowan
 geosite:durex
 geosite:duyaoss

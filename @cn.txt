@@ -3,6 +3,7 @@ geosite:adidas@cn
 geosite:adobe@cn
 geosite:aerogard@cn
 geosite:airwick@cn
+geosite:akamai@cn
 geosite:amazon@cn
 geosite:amd@cn
 geosite:amp@cn

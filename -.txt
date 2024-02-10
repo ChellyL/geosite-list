@@ -90,6 +90,7 @@ geosite:cloudflare-cn
 geosite:cloudflare-ipfs
 geosite:dmm-ads
 geosite:dmm-porn
+geosite:duolingo-ads
 geosite:emogi-ads
 geosite:f-droid
 geosite:facebook-dev

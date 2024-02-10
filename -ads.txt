@@ -14,6 +14,7 @@ geosite:category-ads-all
 geosite:category-ads-ir
 geosite:clearbitjs-ads
 geosite:dmm-ads
+geosite:duolingo-ads
 geosite:emogi-ads
 geosite:flurry-ads
 geosite:google-ads
