@@ -10,6 +10,7 @@ geosite:3type
 geosite:4399
 geosite:4chan
 geosite:4paradigm
+geosite:4plebs
 geosite:51job
 geosite:51nod
 geosite:54647
@@ -424,6 +425,7 @@ geosite:fflogs
 geosite:figma
 geosite:filimo
 geosite:finish
+geosite:firebase
 geosite:firefox
 geosite:flatpak
 geosite:flickr

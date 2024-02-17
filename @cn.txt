@@ -38,6 +38,7 @@ geosite:familymart@cn
 geosite:farfetch@cn
 geosite:fflogs@cn
 geosite:finish@cn
+geosite:firebase@cn
 geosite:gigabyte@cn
 geosite:globalsign@cn
 geosite:gog@cn
