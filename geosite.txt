@@ -407,6 +407,7 @@ geosite:everbright
 geosite:evernote
 geosite:f-droid
 geosite:facebook
+geosite:facebook-ads
 geosite:facebook-dev
 geosite:falungong
 geosite:familymart
@@ -569,6 +570,7 @@ geosite:inoreader
 geosite:inshot
 geosite:insider
 geosite:instagram
+geosite:instagram-ads
 geosite:intel
 geosite:intel-dev
 geosite:intercom
@@ -701,6 +703,7 @@ geosite:meituan
 geosite:meizu
 geosite:messenger
 geosite:meta
+geosite:meta-ads
 geosite:metart
 geosite:mfuns
 geosite:miaomiaozhe
@@ -1151,6 +1154,7 @@ geosite:webtype
 geosite:weiphone
 geosite:westerndigital
 geosite:whatsapp
+geosite:whatsapp-ads
 geosite:wholefoodsmarket
 geosite:wikidot
 geosite:wikihow

@@ -93,6 +93,7 @@ geosite:dmm-porn
 geosite:duolingo-ads
 geosite:emogi-ads
 geosite:f-droid
+geosite:facebook-ads
 geosite:facebook-dev
 geosite:flurry-ads
 geosite:geolocation-!cn
@@ -110,6 +111,7 @@ geosite:huawei-dev
 geosite:hunantv-ads
 geosite:illusion-nonofficial
 geosite:inner-active-ads
+geosite:instagram-ads
 geosite:intel-dev
 geosite:iqiyi-ads
 geosite:j-test
@@ -119,6 +121,7 @@ geosite:kuaishou-ads
 geosite:kugou-ads
 geosite:leanplum-ads
 geosite:letv-ads
+geosite:meta-ads
 geosite:microsoft-dev
 geosite:microsoft-pki
 geosite:mihoyo-cn
@@ -163,6 +166,7 @@ geosite:uberads-ads
 geosite:umeng-ads
 geosite:unity-ads
 geosite:uu-chat
+geosite:whatsapp-ads
 geosite:wteam-ads
 geosite:xhamster-ads
 geosite:xiaomitv-ads

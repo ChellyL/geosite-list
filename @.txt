@@ -137,6 +137,7 @@ geosite:clearbitjs-ads@ads
 geosite:dmm-ads@ads
 geosite:duolingo-ads@ads
 geosite:emogi-ads@ads
+geosite:facebook-ads@ads
 geosite:flurry-ads@ads
 geosite:fqnovel@ads
 geosite:google-ads@ads
@@ -145,6 +146,7 @@ geosite:hiido-ads@ads
 geosite:hotjar-ads@ads
 geosite:hunantv-ads@ads
 geosite:inner-active-ads@ads
+geosite:instagram-ads@ads
 geosite:iqiyi-ads@ads
 geosite:jd-ads@ads
 geosite:kuaishou-ads@ads
@@ -178,6 +180,7 @@ geosite:tencent-ads@ads
 geosite:uberads-ads@ads
 geosite:umeng-ads@ads
 geosite:unity-ads@ads
+geosite:whatsapp-ads@ads
 geosite:wteam-ads@ads
 geosite:xhamster-ads@ads
 geosite:xiaomitv-ads@ads
