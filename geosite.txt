@@ -650,6 +650,7 @@ geosite:lavteam
 geosite:ldmnq
 geosite:le
 geosite:leanplum-ads
+geosite:lenovo
 geosite:lethalhardcore
 geosite:letsencrypt
 geosite:letv-ads
@@ -1043,6 +1044,7 @@ geosite:tencent
 geosite:tencent-ads
 geosite:tencent-dev
 geosite:tencent-games
+geosite:tendcloud
 geosite:termux
 geosite:tesla
 geosite:test
@@ -1224,6 +1226,7 @@ geosite:zee
 geosite:zeetv
 geosite:zendesk
 geosite:zeplin
+geosite:zhangtao
 geosite:zhanqi
 geosite:zhihu
 geosite:zhihuishu
