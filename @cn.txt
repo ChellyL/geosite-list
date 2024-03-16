@@ -51,6 +51,7 @@ geosite:hm@cn
 geosite:hp@cn
 geosite:huawei-dev@cn
 geosite:icloud@cn
+geosite:ifast@cn
 geosite:ikea@cn
 geosite:intel@cn
 geosite:itunes@cn

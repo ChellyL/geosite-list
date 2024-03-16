@@ -548,6 +548,7 @@ geosite:icloudprivaterelay
 geosite:identrust
 geosite:ieee
 geosite:ifanr
+geosite:ifast
 geosite:iflytek
 geosite:ihuman
 geosite:iina
@@ -556,6 +557,7 @@ geosite:illusion
 geosite:illusion-nonofficial
 geosite:imagebam
 geosite:imagecurl
+geosite:imageglass
 geosite:imageshack
 geosite:imagetwist
 geosite:imdb
@@ -1029,6 +1031,7 @@ geosite:symantec
 geosite:taboola
 geosite:tagtic-ads
 geosite:taikang
+geosite:tailscale
 geosite:taomee
 geosite:tappx-ads
 geosite:taptap
