@@ -847,6 +847,7 @@ geosite:pikpak
 geosite:pinduoduo
 geosite:pingan
 geosite:pingpe
+geosite:pingsx
 geosite:pinkcore
 geosite:pinterest
 geosite:piratebay
@@ -1043,6 +1044,7 @@ geosite:techtimes
 geosite:ted
 geosite:telegram
 geosite:telekom
+geosite:television-ads
 geosite:tencent
 geosite:tencent-ads
 geosite:tencent-dev
@@ -1189,7 +1191,7 @@ geosite:xhamster
 geosite:xhamster-ads
 geosite:xiaohongshu
 geosite:xiaomi
-geosite:xiaomitv-ads
+geosite:xiaomi-ads
 geosite:ximalaya
 geosite:ximalaya-ads
 geosite:xingkongwuxianmedia

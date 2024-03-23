@@ -152,6 +152,7 @@ geosite:supersonic-ads
 geosite:suruga-ya
 geosite:tagtic-ads
 geosite:tappx-ads
+geosite:television-ads
 geosite:tencent-ads
 geosite:tencent-dev
 geosite:tencent-games
@@ -169,7 +170,7 @@ geosite:uu-chat
 geosite:whatsapp-ads
 geosite:wteam-ads
 geosite:xhamster-ads
-geosite:xiaomitv-ads
+geosite:xiaomi-ads
 geosite:ximalaya-ads
 geosite:yahoo-ads
 geosite:youku-ads

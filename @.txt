@@ -177,6 +177,7 @@ geosite:spotify-ads@ads
 geosite:supersonic-ads@ads
 geosite:tagtic-ads@ads
 geosite:tappx-ads@ads
+geosite:television-ads@ads
 geosite:tencent-ads@ads
 geosite:uberads-ads@ads
 geosite:umeng-ads@ads
@@ -184,7 +185,7 @@ geosite:unity-ads@ads
 geosite:whatsapp-ads@ads
 geosite:wteam-ads@ads
 geosite:xhamster-ads@ads
-geosite:xiaomitv-ads@ads
+geosite:xiaomi-ads@ads
 geosite:ximalaya-ads@ads
 geosite:yahoo-ads@ads
 geosite:youku-ads@ads

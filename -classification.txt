@@ -50,6 +50,7 @@ geosite:spotify-ads
 geosite:supersonic-ads
 geosite:tagtic-ads
 geosite:tappx-ads
+geosite:television-ads
 geosite:tencent-ads
 geosite:uberads-ads
 geosite:umeng-ads
@@ -57,7 +58,7 @@ geosite:unity-ads
 geosite:whatsapp-ads
 geosite:wteam-ads
 geosite:xhamster-ads
-geosite:xiaomitv-ads
+geosite:xiaomi-ads
 geosite:ximalaya-ads
 geosite:yahoo-ads
 geosite:youku-ads
