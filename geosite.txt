@@ -785,7 +785,6 @@ geosite:notion
 geosite:now
 geosite:nowcoder
 geosite:npmjs
-geosite:nubia
 geosite:nudevista
 geosite:nurofen
 geosite:nutaku
@@ -1215,6 +1214,7 @@ geosite:youjizz
 geosite:youku
 geosite:youku-ads
 geosite:youporn
+geosite:youquan
 geosite:youtube
 geosite:youzan
 geosite:yuanfudao
@@ -1239,5 +1239,6 @@ geosite:zhimeishe
 geosite:ziroom
 geosite:zoho
 geosite:zoom
+geosite:zte
 geosite:zuoyebang
 geosite:zynga-ads

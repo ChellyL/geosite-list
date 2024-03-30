@@ -203,4 +203,5 @@ geosite:qcloud@!cn
 geosite:tencent@!cn
 geosite:tiktok@!cn
 geosite:vivo@!cn
+geosite:zte@!cn
 
