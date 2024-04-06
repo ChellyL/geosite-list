@@ -341,6 +341,7 @@ geosite:didi
 geosite:digicert
 geosite:digitalocean
 geosite:digitalplayground
+geosite:dingdatech
 geosite:dingtalk
 geosite:discord
 geosite:discoveryplus
@@ -1024,6 +1025,7 @@ geosite:supersonic-ads
 geosite:surflite
 geosite:suruga-ya
 geosite:svp
+geosite:swag
 geosite:swift
 geosite:swisssign
 geosite:sxl
