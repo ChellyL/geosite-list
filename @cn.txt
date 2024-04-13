@@ -85,6 +85,7 @@ geosite:pearson@cn
 geosite:primevideo@cn
 geosite:qnap@cn
 geosite:qualcomm@cn
+geosite:razer@cn
 geosite:rb@cn
 geosite:reabble@cn
 geosite:riot@cn

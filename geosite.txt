@@ -946,6 +946,7 @@ geosite:secom
 geosite:sectigo
 geosite:segment-ads
 geosite:segmentfault
+geosite:sehuatang
 geosite:sensorsdata-ads
 geosite:setapp
 geosite:setn
