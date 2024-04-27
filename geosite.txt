@@ -56,6 +56,7 @@ geosite:alibaba-ads
 geosite:alibabacloud
 geosite:aliyun
 geosite:aljazeera
+geosite:amap
 geosite:amazon
 geosite:amazon-ads
 geosite:amazontrust
@@ -361,6 +362,7 @@ geosite:doc88
 geosite:docin
 geosite:docker
 geosite:doi
+geosite:dongjiao
 geosite:douban
 geosite:douyu
 geosite:dowjones
@@ -612,6 +614,7 @@ geosite:juejin
 geosite:jushuitan
 geosite:justav
 geosite:justmysocks
+geosite:jutongbao
 geosite:jwplayer
 geosite:kaggle
 geosite:kakao
@@ -1085,6 +1088,7 @@ geosite:tokyo-sports
 geosite:tokyo-toshokan
 geosite:tonec
 geosite:tongcheng
+geosite:tongfang
 geosite:topcoder
 geosite:tor
 geosite:torproject
