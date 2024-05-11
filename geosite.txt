@@ -315,6 +315,7 @@ geosite:csis
 geosite:ctexcel
 geosite:ctrip
 geosite:cugbonline
+geosite:cuinc
 geosite:curseforge
 geosite:cuttly
 geosite:cybertrust
@@ -368,6 +369,7 @@ geosite:douyu
 geosite:dowjones
 geosite:dribbble
 geosite:dropbox
+geosite:drweb
 geosite:dslreports
 geosite:duckduckgo
 geosite:duitang
@@ -849,6 +851,7 @@ geosite:picsee
 geosite:pikpak
 geosite:pinduoduo
 geosite:pingan
+geosite:pingcap
 geosite:pingpe
 geosite:pingsx
 geosite:pinkcore
@@ -993,6 +996,8 @@ geosite:soundcloud
 geosite:soundofhope
 geosite:sourceforge
 geosite:sourcehut
+geosite:spacemail
+geosite:spaceship
 geosite:spacex
 geosite:spankbang
 geosite:speedtest
