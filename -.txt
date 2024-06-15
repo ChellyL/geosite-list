@@ -119,6 +119,7 @@ geosite:jd-ads
 geosite:jetbrains-ai
 geosite:kuaishou-ads
 geosite:kugou-ads
+geosite:lark-global
 geosite:leanplum-ads
 geosite:letv-ads
 geosite:meta-ads

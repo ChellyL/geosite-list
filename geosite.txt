@@ -48,6 +48,7 @@ geosite:agora
 geosite:aiqicha
 geosite:airchina
 geosite:airwick
+geosite:aisiku
 geosite:aixcoder
 geosite:akamai
 geosite:ali213
@@ -142,6 +143,7 @@ geosite:bloomberg
 geosite:bluearchive
 geosite:bluepoch
 geosite:bluepoch-games
+geosite:bluesky
 geosite:blurams
 geosite:bmw
 geosite:boboporn
@@ -426,6 +428,7 @@ geosite:fastly
 geosite:faststone
 geosite:fedora
 geosite:feedly
+geosite:feishu
 geosite:fengxing
 geosite:fflogs
 geosite:figma
@@ -544,6 +547,7 @@ geosite:hulu
 geosite:hunantv-ads
 geosite:huobi
 geosite:hupu
+geosite:hupun
 geosite:hurricaneelectric
 geosite:huya
 geosite:ibm
@@ -625,6 +629,7 @@ geosite:kechuang
 geosite:keep
 geosite:kemono
 geosite:kernel
+geosite:keybase
 geosite:khanacademy
 geosite:kindle
 geosite:kindle4rss
@@ -645,6 +650,7 @@ geosite:kubakuba
 geosite:kubernetes
 geosite:kugou
 geosite:kugou-ads
+geosite:kurogames
 geosite:kyodonews
 geosite:lagou
 geosite:landian
@@ -652,6 +658,7 @@ geosite:lantern
 geosite:lanzou
 geosite:laracasts
 geosite:lark
+geosite:lark-global
 geosite:lastfm
 geosite:launchpad
 geosite:lavteam
@@ -670,6 +677,7 @@ geosite:liepin
 geosite:lifewire
 geosite:lihkg
 geosite:limelight
+geosite:linakesi
 geosite:line
 geosite:linguee
 geosite:linkedin
@@ -683,6 +691,7 @@ geosite:localbitcoins
 geosite:localizejs
 geosite:logitech
 geosite:londonreal
+geosite:longbridge
 geosite:lowiro
 geosite:ltn
 geosite:lysol
@@ -1191,6 +1200,7 @@ geosite:wps
 geosite:wsj
 geosite:wteam-ads
 geosite:wwe
+geosite:wynd
 geosite:x
 geosite:x315
 geosite:xai

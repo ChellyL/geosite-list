@@ -58,6 +58,7 @@ geosite:itunes@cn
 geosite:jetbrains@cn
 geosite:kechuang@cn
 geosite:kindle@cn
+geosite:kurogames@cn
 geosite:linkedin@cn
 geosite:lysol@cn
 geosite:mapbox@cn
@@ -102,6 +103,7 @@ geosite:teamviewer@cn
 geosite:tencent-dev@cn
 geosite:tencent-games@cn
 geosite:tesla@cn
+geosite:test-ipv6@cn
 geosite:thetype@cn
 geosite:tvb@cn
 geosite:ubisoft@cn
