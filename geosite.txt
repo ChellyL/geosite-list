@@ -536,6 +536,7 @@ geosite:hotjar-ads
 geosite:hotstar
 geosite:hoyoverse
 geosite:hp
+geosite:hsbc
 geosite:huanghuagang
 geosite:huawei
 geosite:huawei-dev
