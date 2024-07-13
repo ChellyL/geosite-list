@@ -196,15 +196,26 @@ geosite:zynga-ads@ads
 
 *Category: !cn
 geosite:alibaba@!cn
+geosite:alibabacloud@!cn
 geosite:aliyun@!cn
 geosite:bilibili@!cn
 geosite:boc@!cn
 geosite:bytedance@!cn
+geosite:ccb@!cn
+geosite:chinatelecom@!cn
+geosite:chinaunicom@!cn
 geosite:citic@!cn
+geosite:cmb@!cn
+geosite:ctexcel@!cn
+geosite:ctrip@!cn
+geosite:didi@!cn
+geosite:eastmoney@!cn
 geosite:huaweicloud@!cn
 geosite:icbc@!cn
 geosite:ipip@!cn
 geosite:iqiyi@!cn
+geosite:jd@!cn
+geosite:pingan@!cn
 geosite:qcloud@!cn
 geosite:tencent@!cn
 geosite:tiktok@!cn

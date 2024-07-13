@@ -305,6 +305,7 @@ geosite:colorfulclouds
 geosite:comodo
 geosite:contentful
 geosite:coolapk
+geosite:corel
 geosite:costco
 geosite:coupang
 geosite:coursera
@@ -984,6 +985,7 @@ geosite:sinopec
 geosite:sitepoint
 geosite:skillshare
 geosite:sky
+geosite:skyperfect
 geosite:slack
 geosite:slideshare
 geosite:sling
