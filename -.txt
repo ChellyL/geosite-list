@@ -67,12 +67,14 @@ geosite:category-news-ir
 geosite:category-novel
 geosite:category-ntp
 geosite:category-ntp-cn
+geosite:category-ntp-jp
 geosite:category-orgs
 geosite:category-payment-ir
 geosite:category-porn
 geosite:category-pt
 geosite:category-public-tracker
 geosite:category-remote-control
+geosite:category-ru
 geosite:category-scholar-!cn
 geosite:category-scholar-cn
 geosite:category-scholar-ir

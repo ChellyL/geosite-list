@@ -230,12 +230,14 @@ geosite:category-news-ir
 geosite:category-novel
 geosite:category-ntp
 geosite:category-ntp-cn
+geosite:category-ntp-jp
 geosite:category-orgs
 geosite:category-payment-ir
 geosite:category-porn
 geosite:category-pt
 geosite:category-public-tracker
 geosite:category-remote-control
+geosite:category-ru
 geosite:category-scholar-!cn
 geosite:category-scholar-cn
 geosite:category-scholar-ir
@@ -296,6 +298,7 @@ geosite:cnet
 geosite:cnki
 geosite:cnn
 geosite:code
+geosite:codeberg
 geosite:codecademy
 geosite:codeforces
 geosite:coding
@@ -502,6 +505,7 @@ geosite:gucci
 geosite:guo
 geosite:guokr
 geosite:hacpai
+geosite:haier
 geosite:hainanairlines
 geosite:hamivideo
 geosite:hanyi
@@ -650,6 +654,7 @@ geosite:kuaishou-ads
 geosite:kuaiyikeji
 geosite:kubakuba
 geosite:kubernetes
+geosite:kucoin
 geosite:kugou
 geosite:kugou-ads
 geosite:kurogames
@@ -1193,6 +1198,7 @@ geosite:windy
 geosite:wise
 geosite:wisekey
 geosite:wish
+geosite:wistia
 geosite:wiwide
 geosite:wix
 geosite:wjx
@@ -1242,6 +1248,7 @@ geosite:youporn
 geosite:youquan
 geosite:youtube
 geosite:youzan
+geosite:yuanbei
 geosite:yuanfudao
 geosite:yuewen
 geosite:yuketang

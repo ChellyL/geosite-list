@@ -133,6 +133,10 @@ geosite:category-social-media-!cn
 geosite:geolocation-!cn
 geosite:tld-!cn
 
+* Category: ru
+geosite:category-gov-ru
+geosite:category-ru
+
 * Category: ipfs
 geosite:category-ipfs
 geosite:cloudflare-ipfs

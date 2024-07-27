@@ -215,6 +215,7 @@ geosite:icbc@!cn
 geosite:ipip@!cn
 geosite:iqiyi@!cn
 geosite:jd@!cn
+geosite:oneplus@!cn
 geosite:pingan@!cn
 geosite:qcloud@!cn
 geosite:tencent@!cn
