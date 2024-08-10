@@ -491,6 +491,7 @@ geosite:golang
 geosite:goodreads
 geosite:google
 geosite:google-ads
+geosite:google-gemini
 geosite:google-registry
 geosite:google-registry-tld
 geosite:google-scholar
@@ -542,6 +543,7 @@ geosite:hotstar
 geosite:hoyoverse
 geosite:hp
 geosite:hsbc
+geosite:hsbc-cn
 geosite:huanghuagang
 geosite:huawei
 geosite:huawei-dev
@@ -917,6 +919,7 @@ geosite:quantil
 geosite:quip
 geosite:quora
 geosite:qwant
+geosite:qweather
 geosite:qyyjt
 geosite:rakuten
 geosite:rarbg

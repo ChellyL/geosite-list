@@ -20,5 +20,6 @@ geosite:category-social-media-cn
 geosite:category-wiki-cn
 geosite:cloudflare-cn
 geosite:geolocation-cn
+geosite:hsbc-cn
 geosite:mihoyo-cn
 geosite:tld-cn
