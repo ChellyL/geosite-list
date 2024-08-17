@@ -142,6 +142,10 @@ geosite:category-ru
 geosite:category-ipfs
 geosite:cloudflare-ipfs
 
+* Category: media
+geosite:category-media
+geosite:category-tech-media
+
 * Category: porn
 geosite:category-porn
 geosite:dmm-porn

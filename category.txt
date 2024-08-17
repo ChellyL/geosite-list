@@ -64,6 +64,7 @@ geosite:category-social-media-!cn
 geosite:category-social-media-cn
 geosite:category-social-media-ir
 geosite:category-tech-ir
+geosite:category-tech-media
 geosite:category-travel-ir
 geosite:category-vpnservices
 geosite:category-wiki-cn
