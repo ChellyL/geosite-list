@@ -185,6 +185,7 @@ geosite:category-acg
 geosite:category-ads
 geosite:category-ads-all
 geosite:category-ads-ir
+geosite:category-ai-chat-!cn
 geosite:category-android-app-download
 geosite:category-anticensorship
 geosite:category-bank-cn
@@ -492,6 +493,7 @@ geosite:golang
 geosite:goodreads
 geosite:google
 geosite:google-ads
+geosite:google-deepmind
 geosite:google-gemini
 geosite:google-registry
 geosite:google-registry-tld
@@ -886,6 +888,7 @@ geosite:playstation
 geosite:plutotv
 geosite:pocketcasts
 geosite:pocoiq-ads
+geosite:poe
 geosite:polymer
 geosite:polyv
 geosite:pornhub
