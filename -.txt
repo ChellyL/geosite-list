@@ -23,10 +23,12 @@ geosite:category-ads
 geosite:category-ads-all
 geosite:category-ads-ir
 geosite:category-ai-chat-!cn
+geosite:category-ai-cn
 geosite:category-android-app-download
 geosite:category-anticensorship
 geosite:category-bank-cn
 geosite:category-bank-ir
+geosite:category-bank-jp
 geosite:category-blog-cn
 geosite:category-bourse-ir
 geosite:category-browser-!cn
@@ -45,6 +47,7 @@ geosite:category-education-ir
 geosite:category-enhance-gaming
 geosite:category-enterprise-query-platform-cn
 geosite:category-entertainment
+geosite:category-entertainment-cn
 geosite:category-finance
 geosite:category-food-cn
 geosite:category-forums
@@ -54,7 +57,7 @@ geosite:category-games
 geosite:category-gov-ir
 geosite:category-gov-ru
 geosite:category-hospital-cn
-geosite:category-httpdns
+geosite:category-httpdns-cn
 geosite:category-insurance-ir
 geosite:category-ipfs
 geosite:category-ir
@@ -69,6 +72,7 @@ geosite:category-novel
 geosite:category-ntp
 geosite:category-ntp-cn
 geosite:category-ntp-jp
+geosite:category-olympiad-in-informatics
 geosite:category-orgs
 geosite:category-payment-ir
 geosite:category-porn
@@ -149,6 +153,7 @@ geosite:openx-ads
 geosite:pocoiq-ads
 geosite:pubmatic-ads
 geosite:python-community
+geosite:qihoo360-ads
 geosite:sci-hub
 geosite:segment-ads
 geosite:sensorsdata-ads

@@ -137,6 +137,7 @@ geosite:atom-data-ads@ads
 geosite:baidu-ads@ads
 geosite:bytedance-ads@ads
 geosite:category-ads-all@ads
+geosite:category-httpdns-cn@ads
 geosite:clearbitjs-ads@ads
 geosite:dmm-ads@ads
 geosite:duolingo-ads@ads
@@ -171,6 +172,7 @@ geosite:pikpak@ads
 geosite:pixiv@ads
 geosite:pocoiq-ads@ads
 geosite:pubmatic-ads@ads
+geosite:qihoo360-ads@ads
 geosite:segment-ads@ads
 geosite:sensorsdata-ads@ads
 geosite:sina-ads@ads
@@ -201,6 +203,7 @@ geosite:aliyun@!cn
 geosite:bilibili@!cn
 geosite:boc@!cn
 geosite:bytedance@!cn
+geosite:category-pt@!cn
 geosite:ccb@!cn
 geosite:chinatelecom@!cn
 geosite:chinaunicom@!cn

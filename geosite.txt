@@ -12,7 +12,6 @@ geosite:4chan
 geosite:4paradigm
 geosite:4plebs
 geosite:51job
-geosite:51nod
 geosite:54647
 geosite:58tongcheng
 geosite:5ch
@@ -75,6 +74,7 @@ geosite:ap
 geosite:apa
 geosite:aparat
 geosite:apifox
+geosite:apipost
 geosite:apkcombo
 geosite:apkmirror
 geosite:apkpure
@@ -186,10 +186,12 @@ geosite:category-ads
 geosite:category-ads-all
 geosite:category-ads-ir
 geosite:category-ai-chat-!cn
+geosite:category-ai-cn
 geosite:category-android-app-download
 geosite:category-anticensorship
 geosite:category-bank-cn
 geosite:category-bank-ir
+geosite:category-bank-jp
 geosite:category-blog-cn
 geosite:category-bourse-ir
 geosite:category-browser-!cn
@@ -208,6 +210,7 @@ geosite:category-education-ir
 geosite:category-enhance-gaming
 geosite:category-enterprise-query-platform-cn
 geosite:category-entertainment
+geosite:category-entertainment-cn
 geosite:category-finance
 geosite:category-food-cn
 geosite:category-forums
@@ -217,7 +220,7 @@ geosite:category-games
 geosite:category-gov-ir
 geosite:category-gov-ru
 geosite:category-hospital-cn
-geosite:category-httpdns
+geosite:category-httpdns-cn
 geosite:category-insurance-ir
 geosite:category-ipfs
 geosite:category-ir
@@ -232,6 +235,7 @@ geosite:category-novel
 geosite:category-ntp
 geosite:category-ntp-cn
 geosite:category-ntp-jp
+geosite:category-olympiad-in-informatics
 geosite:category-orgs
 geosite:category-payment-ir
 geosite:category-porn
@@ -912,6 +916,7 @@ geosite:qcc
 geosite:qcloud
 geosite:qichamao
 geosite:qihoo360
+geosite:qihoo360-ads
 geosite:qingcloud
 geosite:qingtingfm
 geosite:qiniu

@@ -43,6 +43,7 @@ geosite:ookla-speedtest-ads
 geosite:openx-ads
 geosite:pocoiq-ads
 geosite:pubmatic-ads
+geosite:qihoo360-ads
 geosite:segment-ads
 geosite:sensorsdata-ads
 geosite:sina-ads

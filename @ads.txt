@@ -1,3 +1,4 @@
+geosite:category-httpdns-cn@ads
 geosite:fqnovel@ads
 geosite:openai@ads
 geosite:pikpak@ads

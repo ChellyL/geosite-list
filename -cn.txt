@@ -1,4 +1,5 @@
 geosite:aws-cn
+geosite:category-ai-cn
 geosite:category-bank-cn
 geosite:category-blog-cn
 geosite:category-collaborate-cn
@@ -6,9 +7,11 @@ geosite:category-dev-cn
 geosite:category-documents-cn
 geosite:category-education-cn
 geosite:category-enterprise-query-platform-cn
+geosite:category-entertainment-cn
 geosite:category-food-cn
 geosite:category-game-accelerator-cn
 geosite:category-hospital-cn
+geosite:category-httpdns-cn
 geosite:category-media-cn
 geosite:category-mooc-cn
 geosite:category-netdisk-cn

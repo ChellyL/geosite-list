@@ -42,6 +42,7 @@ geosite:ookla-speedtest-ads
 geosite:openx-ads
 geosite:pocoiq-ads
 geosite:pubmatic-ads
+geosite:qihoo360-ads
 geosite:segment-ads
 geosite:sensorsdata-ads
 geosite:sina-ads
@@ -79,6 +80,7 @@ geosite:microsoft-pki
 
 * Category: cn
 geosite:aws-cn
+geosite:category-ai-cn
 geosite:category-bank-cn
 geosite:category-blog-cn
 geosite:category-collaborate-cn
@@ -86,9 +88,11 @@ geosite:category-dev-cn
 geosite:category-documents-cn
 geosite:category-education-cn
 geosite:category-enterprise-query-platform-cn
+geosite:category-entertainment-cn
 geosite:category-food-cn
 geosite:category-game-accelerator-cn
 geosite:category-hospital-cn
+geosite:category-httpdns-cn
 geosite:category-media-cn
 geosite:category-mooc-cn
 geosite:category-netdisk-cn
@@ -134,6 +138,10 @@ geosite:category-scholar-!cn
 geosite:category-social-media-!cn
 geosite:geolocation-!cn
 geosite:tld-!cn
+
+* Category: jp
+geosite:category-bank-jp
+geosite:category-ntp-jp
 
 * Category: ru
 geosite:category-gov-ru
