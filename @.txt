@@ -147,6 +147,7 @@ geosite:flurry-ads@ads
 geosite:fqnovel@ads
 geosite:google-ads@ads
 geosite:growingio-ads@ads
+geosite:hetzner@ads
 geosite:hiido-ads@ads
 geosite:hotjar-ads@ads
 geosite:hunantv-ads@ads
