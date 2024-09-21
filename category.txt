@@ -9,6 +9,7 @@ geosite:category-anticensorship
 geosite:category-bank-cn
 geosite:category-bank-ir
 geosite:category-bank-jp
+geosite:category-bank-mm
 geosite:category-blog-cn
 geosite:category-bourse-ir
 geosite:category-browser-!cn
@@ -63,6 +64,7 @@ geosite:category-ru
 geosite:category-scholar-!cn
 geosite:category-scholar-cn
 geosite:category-scholar-ir
+geosite:category-scholar-uk
 geosite:category-securities-cn
 geosite:category-shopping-ir
 geosite:category-social-media-!cn

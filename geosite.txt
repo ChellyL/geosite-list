@@ -192,6 +192,7 @@ geosite:category-anticensorship
 geosite:category-bank-cn
 geosite:category-bank-ir
 geosite:category-bank-jp
+geosite:category-bank-mm
 geosite:category-blog-cn
 geosite:category-bourse-ir
 geosite:category-browser-!cn
@@ -246,6 +247,7 @@ geosite:category-ru
 geosite:category-scholar-!cn
 geosite:category-scholar-cn
 geosite:category-scholar-ir
+geosite:category-scholar-uk
 geosite:category-securities-cn
 geosite:category-shopping-ir
 geosite:category-social-media-!cn
@@ -312,6 +314,7 @@ geosite:coinone
 geosite:collabora
 geosite:colorfulclouds
 geosite:comodo
+geosite:connectivity-check
 geosite:contentful
 geosite:coolapk
 geosite:corel
@@ -499,6 +502,7 @@ geosite:google
 geosite:google-ads
 geosite:google-deepmind
 geosite:google-gemini
+geosite:google-play
 geosite:google-registry
 geosite:google-registry-tld
 geosite:google-scholar
@@ -508,6 +512,7 @@ geosite:goproxy
 geosite:gracg
 geosite:gravatar
 geosite:greatfire
+geosite:gree
 geosite:growingio-ads
 geosite:gucci
 geosite:guo
@@ -745,6 +750,7 @@ geosite:miaopai
 geosite:microsoft
 geosite:microsoft-dev
 geosite:microsoft-pki
+geosite:midea
 geosite:mihoyo
 geosite:mihoyo-cn
 geosite:mikrotik
@@ -1194,6 +1200,7 @@ geosite:wanfang
 geosite:wangsu
 geosite:wantmedia
 geosite:watchout
+geosite:weathercn
 geosite:webex
 geosite:webflow
 geosite:webnovel

@@ -47,6 +47,7 @@ geosite:gigabyte@cn
 geosite:globalsign@cn
 geosite:gog@cn
 geosite:google@cn
+geosite:google-play@cn
 geosite:google-trust-services@cn
 geosite:gucci@cn
 geosite:hketgroup@cn
