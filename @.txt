@@ -111,6 +111,7 @@ geosite:tesla@cn
 geosite:test-ipv6@cn
 geosite:thetype@cn
 geosite:tvb@cn
+geosite:ubiquiti@cn
 geosite:ubisoft@cn
 geosite:vanish@cn
 geosite:veet@cn

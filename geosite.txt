@@ -1152,6 +1152,7 @@ geosite:typography
 geosite:u17
 geosite:uber
 geosite:uberads-ads
+geosite:ubiquiti
 geosite:ubisoft
 geosite:ubuntu
 geosite:ubuntukylin
