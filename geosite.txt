@@ -564,6 +564,7 @@ geosite:hubblephone
 geosite:huffpost
 geosite:hujiang
 geosite:hulu
+geosite:hunantv
 geosite:hunantv-ads
 geosite:huobi
 geosite:hupu
@@ -672,6 +673,7 @@ geosite:kucoin
 geosite:kugou
 geosite:kugou-ads
 geosite:kurogames
+geosite:kuwo
 geosite:kyodonews
 geosite:lagou
 geosite:landian
@@ -1074,6 +1076,7 @@ geosite:swift
 geosite:swisssign
 geosite:sxl
 geosite:symantec
+geosite:synology
 geosite:taboola
 geosite:tagtic-ads
 geosite:taikang

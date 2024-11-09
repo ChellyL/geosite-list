@@ -104,6 +104,7 @@ geosite:starbucks@cn
 geosite:steam@cn
 geosite:strepsils@cn
 geosite:swift@cn
+geosite:synology@cn
 geosite:teamviewer@cn
 geosite:tencent-dev@cn
 geosite:tencent-games@cn
