@@ -45,6 +45,7 @@ geosite:category-ir
 geosite:category-media
 geosite:category-media-cn
 geosite:category-media-ir
+geosite:category-mobile-repair
 geosite:category-mooc-cn
 geosite:category-netdisk-cn
 geosite:category-network-security-cn
@@ -53,6 +54,7 @@ geosite:category-novel
 geosite:category-ntp
 geosite:category-ntp-cn
 geosite:category-ntp-jp
+geosite:category-number-verification-cn
 geosite:category-olympiad-in-informatics
 geosite:category-orgs
 geosite:category-payment-ir

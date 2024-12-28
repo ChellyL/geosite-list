@@ -65,6 +65,7 @@ geosite:category-ir
 geosite:category-media
 geosite:category-media-cn
 geosite:category-media-ir
+geosite:category-mobile-repair
 geosite:category-mooc-cn
 geosite:category-netdisk-cn
 geosite:category-network-security-cn
@@ -73,6 +74,7 @@ geosite:category-novel
 geosite:category-ntp
 geosite:category-ntp-cn
 geosite:category-ntp-jp
+geosite:category-number-verification-cn
 geosite:category-olympiad-in-informatics
 geosite:category-orgs
 geosite:category-payment-ir
@@ -142,6 +144,7 @@ geosite:microsoft-dev
 geosite:microsoft-pki
 geosite:mihoyo-cn
 geosite:mindgeek-porn
+geosite:misskey-universe
 geosite:mixpanel-ads
 geosite:mopub-ads
 geosite:mxplayer-ads
@@ -192,4 +195,5 @@ geosite:ximalaya-ads
 geosite:yahoo-ads
 geosite:youku-ads
 geosite:z-library
+geosite:z3x-team
 geosite:zynga-ads

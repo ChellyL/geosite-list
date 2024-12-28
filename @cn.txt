@@ -94,6 +94,7 @@ geosite:riot@cn
 geosite:samsung@cn
 geosite:sectigo@cn
 geosite:shopee@cn
+geosite:sky@cn
 geosite:sslcom@cn
 geosite:st@cn
 geosite:starbucks@cn

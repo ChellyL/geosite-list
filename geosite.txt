@@ -21,6 +21,7 @@ geosite:8btc
 geosite:928plus
 geosite:9news
 geosite:9to5
+geosite:aamgame
 geosite:abc
 geosite:abema
 geosite:accuweather
@@ -50,6 +51,7 @@ geosite:airwick
 geosite:aisiku
 geosite:aixcoder
 geosite:akamai
+geosite:akiko
 geosite:ali213
 geosite:alibaba
 geosite:alibaba-ads
@@ -155,6 +157,7 @@ geosite:boomerang
 geosite:bootcdn
 geosite:bootcss
 geosite:bootstrap
+geosite:borneoschematics
 geosite:boslife
 geosite:boxun
 geosite:boylove
@@ -228,6 +231,7 @@ geosite:category-ir
 geosite:category-media
 geosite:category-media-cn
 geosite:category-media-ir
+geosite:category-mobile-repair
 geosite:category-mooc-cn
 geosite:category-netdisk-cn
 geosite:category-network-security-cn
@@ -236,6 +240,7 @@ geosite:category-novel
 geosite:category-ntp
 geosite:category-ntp-cn
 geosite:category-ntp-jp
+geosite:category-number-verification-cn
 geosite:category-olympiad-in-informatics
 geosite:category-orgs
 geosite:category-payment-ir
@@ -332,6 +337,7 @@ geosite:ctrip
 geosite:cugbonline
 geosite:cuinc
 geosite:curseforge
+geosite:cursor
 geosite:cuttly
 geosite:cybertrust
 geosite:cygames
@@ -450,6 +456,7 @@ geosite:finish
 geosite:firebase
 geosite:firefox
 geosite:flatpak
+geosite:flibusta
 geosite:flickr
 geosite:flowus
 geosite:flurry-ads
@@ -554,6 +561,7 @@ geosite:hotjar-ads
 geosite:hotstar
 geosite:hoyoverse
 geosite:hp
+geosite:hpe
 geosite:hsbc
 geosite:hsbc-cn
 geosite:huanghuagang
@@ -634,6 +642,7 @@ geosite:jinrishici
 geosite:jinshuju
 geosite:jiyukobo
 geosite:jkf
+geosite:jlc
 geosite:johren
 geosite:jquery
 geosite:jsdelivr
@@ -738,6 +747,7 @@ geosite:mdn
 geosite:meadjohnson
 geosite:mediachinesegroup
 geosite:medium
+geosite:meduza
 geosite:mega
 geosite:meitu
 geosite:meituan
@@ -761,6 +771,8 @@ geosite:mindgeek-porn
 geosite:mini
 geosite:miniso
 geosite:miraheze
+geosite:misskey
+geosite:misskey-universe
 geosite:mit
 geosite:mixpanel-ads
 geosite:mobile01
@@ -797,6 +809,7 @@ geosite:nationalgeographic
 geosite:naver
 geosite:nbcuniversal
 geosite:neowin
+geosite:netcup
 geosite:netease
 geosite:netease-ads
 geosite:netflav
@@ -925,6 +938,7 @@ geosite:qcloud
 geosite:qichamao
 geosite:qihoo360
 geosite:qihoo360-ads
+geosite:qimao
 geosite:qingcloud
 geosite:qingtingfm
 geosite:qiniu
@@ -1020,6 +1034,7 @@ geosite:smzdm
 geosite:snap
 geosite:snapcraft
 geosite:snapp
+geosite:snk
 geosite:snodehome
 geosite:softbank
 geosite:softether
@@ -1067,6 +1082,7 @@ geosite:subscene
 geosite:suishouji
 geosite:sumkoo
 geosite:suning
+geosite:supercell
 geosite:supersonic-ads
 geosite:surflite
 geosite:suruga-ya
@@ -1261,6 +1277,7 @@ geosite:yamibo
 geosite:yandex
 geosite:ycombinator
 geosite:yinxiang
+geosite:ymtc
 geosite:ynet
 geosite:ynoproject
 geosite:yomiuri
@@ -1279,6 +1296,7 @@ geosite:yunfanjiasu
 geosite:yunlaopo
 geosite:yy
 geosite:z-library
+geosite:z3x-team
 geosite:zaobao
 geosite:zb
 geosite:zdns

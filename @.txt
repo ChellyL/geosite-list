@@ -98,6 +98,7 @@ geosite:riot@cn
 geosite:samsung@cn
 geosite:sectigo@cn
 geosite:shopee@cn
+geosite:sky@cn
 geosite:sslcom@cn
 geosite:st@cn
 geosite:starbucks@cn
@@ -225,8 +226,10 @@ geosite:jd@!cn
 geosite:oneplus@!cn
 geosite:pingan@!cn
 geosite:qcloud@!cn
+geosite:sina@!cn
 geosite:tencent@!cn
 geosite:tiktok@!cn
 geosite:vivo@!cn
+geosite:xiaomi@!cn
 geosite:zte@!cn
 
