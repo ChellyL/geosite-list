@@ -966,6 +966,7 @@ geosite:rebrandly
 geosite:reddit
 geosite:redhat
 geosite:redis
+geosite:redotpay
 geosite:redtube
 geosite:remirepo
 geosite:renren
