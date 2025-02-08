@@ -8,6 +8,7 @@ geosite:amazon-ads
 geosite:anon-v
 geosite:apple-ads
 geosite:apple-dev
+geosite:apple-intelligence
 geosite:apple-pki
 geosite:apple-update
 geosite:applovin-ads

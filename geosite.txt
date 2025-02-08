@@ -83,6 +83,7 @@ geosite:apkpure
 geosite:apple
 geosite:apple-ads
 geosite:apple-dev
+geosite:apple-intelligence
 geosite:apple-pki
 geosite:apple-update
 geosite:appledaily
@@ -118,6 +119,7 @@ geosite:baltamatica
 geosite:bamtech
 geosite:bandcamp
 geosite:bandwagonhost
+geosite:bangumi
 geosite:barrons
 geosite:bbc
 geosite:bcy
@@ -520,6 +522,7 @@ geosite:gracg
 geosite:gravatar
 geosite:greatfire
 geosite:gree
+geosite:groq
 geosite:growingio-ads
 geosite:gucci
 geosite:guo
