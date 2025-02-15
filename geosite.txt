@@ -69,6 +69,7 @@ geosite:anaconda
 geosite:anandtech
 geosite:android
 geosite:anime
+geosite:annas-archive
 geosite:anon-v
 geosite:anthropic
 geosite:antutu
@@ -674,6 +675,7 @@ geosite:knovel
 geosite:kodi
 geosite:konachan
 geosite:koolearn
+geosite:kraken
 geosite:ku6
 geosite:kuaikan
 geosite:kuaishou
@@ -1155,6 +1157,7 @@ geosite:tongfang
 geosite:topcoder
 geosite:tor
 geosite:torproject
+geosite:trackernetwork
 geosite:translatewiki
 geosite:trello
 geosite:trustwave

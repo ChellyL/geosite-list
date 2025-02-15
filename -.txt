@@ -5,6 +5,7 @@ geosite:adobe-activation
 geosite:adobe-ads
 geosite:alibaba-ads
 geosite:amazon-ads
+geosite:annas-archive
 geosite:anon-v
 geosite:apple-ads
 geosite:apple-dev
