@@ -3,6 +3,7 @@ geosite:115
 geosite:1337x
 geosite:17zuoye
 geosite:18comic
+geosite:2ch
 geosite:2kgames
 geosite:36kr
 geosite:3dm
@@ -802,6 +803,7 @@ geosite:muji
 geosite:musixmatch
 geosite:muwai
 geosite:mxplayer-ads
+geosite:mxroute
 geosite:mydirtyhobby
 geosite:myfonts
 geosite:myradio
@@ -825,6 +827,7 @@ geosite:newrelic-ads
 geosite:newscorp
 geosite:newsmax
 geosite:nexitally
+geosite:nexo
 geosite:nexon
 geosite:nga
 geosite:nginx
@@ -880,6 +883,7 @@ geosite:oschina
 geosite:osdn
 geosite:osu
 geosite:oup
+geosite:ozon
 geosite:pagecdn
 geosite:panasonic
 geosite:pandanet
