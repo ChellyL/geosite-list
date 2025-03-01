@@ -129,6 +129,7 @@ geosite:bdsmhub
 geosite:beats
 geosite:bestbuy
 geosite:bestore
+geosite:bestv
 geosite:bethesda
 geosite:betterexplained
 geosite:bilibili
@@ -357,6 +358,7 @@ geosite:debian
 geosite:decryptipastore
 geosite:dedao
 geosite:deepin
+geosite:deepseek
 geosite:dell
 geosite:demonoid
 geosite:deribit
@@ -429,6 +431,7 @@ geosite:epicgames
 geosite:epochmediagroup
 geosite:erji
 geosite:erolabs
+geosite:escapefromtarkov
 geosite:espn
 geosite:espressif
 geosite:esri
@@ -499,6 +502,7 @@ geosite:gimy
 geosite:gitbook
 geosite:gitee
 geosite:github
+geosite:github1s
 geosite:gitlab
 geosite:gitv
 geosite:globalsign
@@ -532,6 +536,7 @@ geosite:guokr
 geosite:hacpai
 geosite:haier
 geosite:hainanairlines
+geosite:haitang
 geosite:hamivideo
 geosite:hanyi
 geosite:harpercollins
@@ -575,6 +580,7 @@ geosite:huawei-dev
 geosite:huaweicloud
 geosite:hubblephone
 geosite:huffpost
+geosite:hugecore
 geosite:hujiang
 geosite:hulu
 geosite:hunantv
@@ -584,6 +590,7 @@ geosite:hupu
 geosite:hupun
 geosite:hurricaneelectric
 geosite:huya
+geosite:ibkr
 geosite:ibm
 geosite:icbc
 geosite:icloud
@@ -761,6 +768,7 @@ geosite:meizu
 geosite:messenger
 geosite:meta
 geosite:meta-ads
+geosite:metabrainz
 geosite:metart
 geosite:mfuns
 geosite:miaomiaozhe
@@ -777,6 +785,7 @@ geosite:mindgeek-porn
 geosite:mini
 geosite:miniso
 geosite:miraheze
+geosite:missav
 geosite:misskey
 geosite:misskey-universe
 geosite:mit
@@ -995,6 +1004,7 @@ geosite:ruleoflaw
 geosite:rumble
 geosite:rust
 geosite:ruten
+geosite:rutracker
 geosite:salesforce
 geosite:samsung
 geosite:sankei
@@ -1080,6 +1090,7 @@ geosite:starbucks
 geosite:starfieldtech
 geosite:starplus
 geosite:startpage
+geosite:starworld
 geosite:staticfile
 geosite:steam
 geosite:steamunlocked
@@ -1168,6 +1179,7 @@ geosite:trustwave
 geosite:truyen-hentai
 geosite:tsquare
 geosite:tube8
+geosite:tubi
 geosite:tumblr
 geosite:tutanota
 geosite:tvb
@@ -1230,6 +1242,7 @@ geosite:walmart
 geosite:wanfang
 geosite:wangsu
 geosite:wantmedia
+geosite:wasu
 geosite:watchout
 geosite:weathercn
 geosite:webex
