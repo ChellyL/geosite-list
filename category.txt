@@ -2,7 +2,7 @@ geosite:category-acg
 geosite:category-ads
 geosite:category-ads-all
 geosite:category-ads-ir
-geosite:category-ai-chat-!cn
+geosite:category-ai-!cn
 geosite:category-ai-cn
 geosite:category-android-app-download
 geosite:category-anticensorship
@@ -42,6 +42,7 @@ geosite:category-httpdns-cn
 geosite:category-insurance-ir
 geosite:category-ipfs
 geosite:category-ir
+geosite:category-logistics-cn
 geosite:category-media
 geosite:category-media-cn
 geosite:category-media-ir

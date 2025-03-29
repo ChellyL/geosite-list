@@ -11,6 +11,7 @@ geosite:apple-ads
 geosite:apple-dev
 geosite:apple-intelligence
 geosite:apple-pki
+geosite:apple-tvplus
 geosite:apple-update
 geosite:applovin-ads
 geosite:atom-data-ads
@@ -24,7 +25,7 @@ geosite:category-acg
 geosite:category-ads
 geosite:category-ads-all
 geosite:category-ads-ir
-geosite:category-ai-chat-!cn
+geosite:category-ai-!cn
 geosite:category-ai-cn
 geosite:category-android-app-download
 geosite:category-anticensorship
@@ -64,6 +65,7 @@ geosite:category-httpdns-cn
 geosite:category-insurance-ir
 geosite:category-ipfs
 geosite:category-ir
+geosite:category-logistics-cn
 geosite:category-media
 geosite:category-media-cn
 geosite:category-media-ir
@@ -170,8 +172,10 @@ geosite:sf-express
 geosite:sina-ads
 geosite:sohu-ads
 geosite:spotify-ads
+geosite:sto-express
 geosite:supersonic-ads
 geosite:suruga-ya
+geosite:symantec-pki
 geosite:tagtic-ads
 geosite:tappx-ads
 geosite:television-ads
@@ -189,6 +193,7 @@ geosite:uberads-ads
 geosite:umeng-ads
 geosite:unity-ads
 geosite:uu-chat
+geosite:verisign-pki
 geosite:whatsapp-ads
 geosite:wteam-ads
 geosite:xhamster-ads
@@ -196,6 +201,8 @@ geosite:xiaomi-ads
 geosite:ximalaya-ads
 geosite:yahoo-ads
 geosite:youku-ads
+geosite:yto-express
 geosite:z-library
 geosite:z3x-team
+geosite:zto-express
 geosite:zynga-ads

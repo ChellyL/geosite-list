@@ -12,6 +12,7 @@ geosite:category-food-cn
 geosite:category-game-accelerator-cn
 geosite:category-hospital-cn
 geosite:category-httpdns-cn
+geosite:category-logistics-cn
 geosite:category-media-cn
 geosite:category-mooc-cn
 geosite:category-netdisk-cn

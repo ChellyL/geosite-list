@@ -77,6 +77,8 @@ geosite:tencent-dev
 * Category: pki
 geosite:apple-pki
 geosite:microsoft-pki
+geosite:symantec-pki
+geosite:verisign-pki
 
 * Category: cn
 geosite:aws-cn
@@ -93,6 +95,7 @@ geosite:category-food-cn
 geosite:category-game-accelerator-cn
 geosite:category-hospital-cn
 geosite:category-httpdns-cn
+geosite:category-logistics-cn
 geosite:category-media-cn
 geosite:category-mooc-cn
 geosite:category-netdisk-cn
@@ -133,7 +136,7 @@ geosite:category-tech-ir
 geosite:category-travel-ir
 
 * Category: !cn
-geosite:category-ai-chat-!cn
+geosite:category-ai-!cn
 geosite:category-browser-!cn
 geosite:category-scholar-!cn
 geosite:category-social-media-!cn
@@ -164,4 +167,10 @@ geosite:mindgeek-porn
 * Category: test
 geosite:j-test
 geosite:nat-test
+
+* Category: express
+geosite:sf-express
+geosite:sto-express
+geosite:yto-express
+geosite:zto-express
 
