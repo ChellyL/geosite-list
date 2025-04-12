@@ -26,6 +26,7 @@ geosite:category-ads
 geosite:category-ads-all
 geosite:category-ads-ir
 geosite:category-ai-!cn
+geosite:category-ai-chat-!cn
 geosite:category-ai-cn
 geosite:category-android-app-download
 geosite:category-anticensorship
@@ -96,6 +97,7 @@ geosite:category-shopping-ir
 geosite:category-social-media-!cn
 geosite:category-social-media-cn
 geosite:category-social-media-ir
+geosite:category-speedtest
 geosite:category-tech-ir
 geosite:category-tech-media
 geosite:category-travel-ir

@@ -137,6 +137,7 @@ geosite:category-travel-ir
 
 * Category: !cn
 geosite:category-ai-!cn
+geosite:category-ai-chat-!cn
 geosite:category-browser-!cn
 geosite:category-scholar-!cn
 geosite:category-social-media-!cn
@@ -163,6 +164,10 @@ geosite:category-tech-media
 geosite:category-porn
 geosite:dmm-porn
 geosite:mindgeek-porn
+
+* Category: speedtest
+geosite:category-speedtest
+geosite:ookla-speedtest
 
 * Category: test
 geosite:j-test

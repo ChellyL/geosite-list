@@ -1,4 +1,5 @@
 geosite:category-ai-!cn
+geosite:category-ai-chat-!cn
 geosite:category-browser-!cn
 geosite:category-scholar-!cn
 geosite:category-social-media-!cn
