@@ -28,6 +28,7 @@ geosite:bridgestone@cn
 geosite:calgoncarbon@cn
 geosite:canon@cn
 geosite:category-enhance-gaming@cn
+geosite:category-game-platforms-download@cn
 geosite:category-ntp-cn@cn
 geosite:category-speedtest@cn
 geosite:cisco@cn

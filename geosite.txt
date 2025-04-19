@@ -231,6 +231,7 @@ geosite:category-food-cn
 geosite:category-forums
 geosite:category-forums-ir
 geosite:category-game-accelerator-cn
+geosite:category-game-platforms-download
 geosite:category-games
 geosite:category-gov-ir
 geosite:category-gov-ru
@@ -243,6 +244,7 @@ geosite:category-logistics-cn
 geosite:category-media
 geosite:category-media-cn
 geosite:category-media-ir
+geosite:category-media-ru
 geosite:category-mobile-repair
 geosite:category-mooc-cn
 geosite:category-netdisk-cn

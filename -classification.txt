@@ -144,12 +144,17 @@ geosite:category-social-media-!cn
 geosite:geolocation-!cn
 geosite:tld-!cn
 
+* Category: download
+geosite:category-android-app-download
+geosite:category-game-platforms-download
+
 * Category: jp
 geosite:category-bank-jp
 geosite:category-ntp-jp
 
 * Category: ru
 geosite:category-gov-ru
+geosite:category-media-ru
 geosite:category-ru
 
 * Category: ipfs
