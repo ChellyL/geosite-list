@@ -146,6 +146,7 @@ geosite:bytedance-ads@ads
 geosite:category-ads-all@ads
 geosite:category-httpdns-cn@ads
 geosite:clearbitjs-ads@ads
+geosite:disney@ads
 geosite:dmm-ads@ads
 geosite:duolingo-ads@ads
 geosite:emogi-ads@ads

@@ -222,6 +222,7 @@ geosite:category-documents-cn
 geosite:category-ecommerce
 geosite:category-education-cn
 geosite:category-education-ir
+geosite:category-emby
 geosite:category-enhance-gaming
 geosite:category-enterprise-query-platform-cn
 geosite:category-entertainment
@@ -257,6 +258,7 @@ geosite:category-ntp-jp
 geosite:category-number-verification-cn
 geosite:category-olympiad-in-informatics
 geosite:category-orgs
+geosite:category-password-management
 geosite:category-payment-ir
 geosite:category-porn
 geosite:category-pt
@@ -578,6 +580,7 @@ geosite:homebrew
 geosite:homedepot
 geosite:hongdunwang
 geosite:hongkongpost
+geosite:honor
 geosite:hooligapps
 geosite:hotjar-ads
 geosite:hotstar
@@ -609,6 +612,7 @@ geosite:icbc
 geosite:icloud
 geosite:icloudprivaterelay
 geosite:identrust
+geosite:idg
 geosite:ieee
 geosite:ifanr
 geosite:ifast
@@ -695,6 +699,7 @@ geosite:kindle
 geosite:kindle4rss
 geosite:kingkonglive
 geosite:kingsoft
+geosite:kinopub
 geosite:kkbox
 geosite:kktv
 geosite:knovel
@@ -724,6 +729,7 @@ geosite:laracasts
 geosite:lark
 geosite:lark-global
 geosite:lastfm
+geosite:lastpass
 geosite:launchpad
 geosite:lavteam
 geosite:ldmnq
@@ -758,6 +764,7 @@ geosite:londonreal
 geosite:longbridge
 geosite:lowiro
 geosite:ltn
+geosite:lumion
 geosite:lysol
 geosite:madshi
 geosite:mafengwo
@@ -851,6 +858,7 @@ geosite:netflav
 geosite:netflix
 geosite:netlify
 geosite:neuralink
+geosite:newegg
 geosite:newrelic-ads
 geosite:newscorp
 geosite:newsmax
@@ -1087,6 +1095,7 @@ geosite:soundcloud
 geosite:soundofhope
 geosite:sourceforge
 geosite:sourcehut
+geosite:soyjakparty
 geosite:spacemail
 geosite:spaceship
 geosite:spacex
@@ -1146,6 +1155,7 @@ geosite:target
 geosite:taylorfrancis
 geosite:teambition
 geosite:teamviewer
+geosite:techpowerup
 geosite:techtimes
 geosite:ted
 geosite:telegram
@@ -1230,6 +1240,7 @@ geosite:unionpay
 geosite:unity
 geosite:unity-ads
 geosite:upai
+geosite:usersdrive
 geosite:uu-chat
 geosite:v2ray
 geosite:v8

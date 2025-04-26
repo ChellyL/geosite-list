@@ -49,6 +49,7 @@ geosite:category-documents-cn
 geosite:category-ecommerce
 geosite:category-education-cn
 geosite:category-education-ir
+geosite:category-emby
 geosite:category-enhance-gaming
 geosite:category-enterprise-query-platform-cn
 geosite:category-entertainment
@@ -84,6 +85,7 @@ geosite:category-ntp-jp
 geosite:category-number-verification-cn
 geosite:category-olympiad-in-informatics
 geosite:category-orgs
+geosite:category-password-management
 geosite:category-payment-ir
 geosite:category-porn
 geosite:category-pt

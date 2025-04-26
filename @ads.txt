@@ -1,4 +1,5 @@
 geosite:category-httpdns-cn@ads
+geosite:disney@ads
 geosite:fqnovel@ads
 geosite:hetzner@ads
 geosite:microsoft@ads
