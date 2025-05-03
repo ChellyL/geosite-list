@@ -175,6 +175,7 @@ geosite:brazzers
 geosite:bridgestone
 geosite:brightcove
 geosite:brilliant
+geosite:broadcom
 geosite:btdig
 geosite:bttzyw
 geosite:buymeacoffee
@@ -831,6 +832,7 @@ geosite:movefree
 geosite:moxing
 geosite:mozilla
 geosite:mpv
+geosite:msi
 geosite:msn
 geosite:mucinex
 geosite:mudvod
