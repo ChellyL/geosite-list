@@ -834,6 +834,7 @@ geosite:mozilla
 geosite:mpv
 geosite:msi
 geosite:msn
+geosite:mubi
 geosite:mucinex
 geosite:mudvod
 geosite:muji
