@@ -41,6 +41,7 @@ geosite:durex@cn
 geosite:ebay@cn
 geosite:entrust@cn
 geosite:epicgames@cn
+geosite:eset@cn
 geosite:familymart@cn
 geosite:farfetch@cn
 geosite:fflogs@cn
@@ -72,7 +73,6 @@ geosite:mapbox@cn
 geosite:mastercard@cn
 geosite:mcdonalds@cn
 geosite:meadjohnson@cn
-geosite:microsoft@cn
 geosite:microsoft-dev@cn
 geosite:microsoft-pki@cn
 geosite:mihoyo-cn@cn
@@ -98,7 +98,6 @@ geosite:razer@cn
 geosite:rb@cn
 geosite:reabble@cn
 geosite:riot@cn
-geosite:samsung@cn
 geosite:sectigo@cn
 geosite:shopee@cn
 geosite:sky@cn
@@ -153,6 +152,7 @@ geosite:emogi-ads@ads
 geosite:facebook-ads@ads
 geosite:flurry-ads@ads
 geosite:fqnovel@ads
+geosite:gamersky@ads
 geosite:google-ads@ads
 geosite:growingio-ads@ads
 geosite:hetzner@ads
@@ -167,6 +167,7 @@ geosite:kuaishou-ads@ads
 geosite:kugou-ads@ads
 geosite:leanplum-ads@ads
 geosite:letv-ads@ads
+geosite:microsoft@ads
 geosite:mixpanel-ads@ads
 geosite:mopub-ads@ads
 geosite:mxplayer-ads@ads
@@ -182,6 +183,7 @@ geosite:pixiv@ads
 geosite:pocoiq-ads@ads
 geosite:pubmatic-ads@ads
 geosite:qihoo360-ads@ads
+geosite:samsung@ads
 geosite:segment-ads@ads
 geosite:sensorsdata-ads@ads
 geosite:sina-ads@ads
@@ -214,6 +216,7 @@ geosite:boc@!cn
 geosite:bytedance@!cn
 geosite:category-pt@!cn
 geosite:ccb@!cn
+geosite:chinamobile@!cn
 geosite:chinatelecom@!cn
 geosite:chinaunicom@!cn
 geosite:citic@!cn

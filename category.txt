@@ -26,6 +26,7 @@ geosite:category-documents-cn
 geosite:category-ecommerce
 geosite:category-education-cn
 geosite:category-education-ir
+geosite:category-electronic-cn
 geosite:category-emby
 geosite:category-enhance-gaming
 geosite:category-enterprise-query-platform-cn
@@ -82,5 +83,6 @@ geosite:category-speedtest
 geosite:category-tech-ir
 geosite:category-tech-media
 geosite:category-travel-ir
+geosite:category-voip
 geosite:category-vpnservices
 geosite:category-wiki-cn

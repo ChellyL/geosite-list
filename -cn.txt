@@ -6,6 +6,7 @@ geosite:category-collaborate-cn
 geosite:category-dev-cn
 geosite:category-documents-cn
 geosite:category-education-cn
+geosite:category-electronic-cn
 geosite:category-enterprise-query-platform-cn
 geosite:category-entertainment-cn
 geosite:category-food-cn

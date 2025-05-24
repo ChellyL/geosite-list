@@ -38,6 +38,7 @@ geosite:durex@cn
 geosite:ebay@cn
 geosite:entrust@cn
 geosite:epicgames@cn
+geosite:eset@cn
 geosite:familymart@cn
 geosite:farfetch@cn
 geosite:fflogs@cn

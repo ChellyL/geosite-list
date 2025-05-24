@@ -223,6 +223,7 @@ geosite:category-documents-cn
 geosite:category-ecommerce
 geosite:category-education-cn
 geosite:category-education-ir
+geosite:category-electronic-cn
 geosite:category-emby
 geosite:category-enhance-gaming
 geosite:category-enterprise-query-platform-cn
@@ -279,6 +280,7 @@ geosite:category-speedtest
 geosite:category-tech-ir
 geosite:category-tech-media
 geosite:category-travel-ir
+geosite:category-voip
 geosite:category-vpnservices
 geosite:category-wiki-cn
 geosite:cavporn
@@ -340,6 +342,7 @@ geosite:comodo
 geosite:connectivity-check
 geosite:contentful
 geosite:coolapk
+geosite:copymanga
 geosite:corel
 geosite:costco
 geosite:coupang
@@ -446,6 +449,7 @@ geosite:epochmediagroup
 geosite:erji
 geosite:erolabs
 geosite:escapefromtarkov
+geosite:eset
 geosite:espn
 geosite:espressif
 geosite:esri
@@ -754,6 +758,7 @@ geosite:linguee
 geosite:linkedin
 geosite:linotype
 geosite:linux
+geosite:linuxdo
 geosite:lisiku
 geosite:litv
 geosite:lizhi
@@ -789,6 +794,7 @@ geosite:mediachinesegroup
 geosite:medium
 geosite:meduza
 geosite:mega
+geosite:meipian
 geosite:meitu
 geosite:meituan
 geosite:meizu
@@ -896,6 +902,7 @@ geosite:oculus
 geosite:ogury-ads
 geosite:ok
 geosite:okaapps
+geosite:okjike
 geosite:okx
 geosite:olevod
 geosite:onedrive
@@ -1151,6 +1158,7 @@ geosite:taboola
 geosite:tagtic-ads
 geosite:taikang
 geosite:tailscale
+geosite:talkatone
 geosite:taomee
 geosite:tappx-ads
 geosite:taptap
@@ -1209,6 +1217,7 @@ geosite:torproject
 geosite:trackernetwork
 geosite:translatewiki
 geosite:trello
+geosite:trustwallet
 geosite:trustwave
 geosite:truyen-hentai
 geosite:tsquare
@@ -1272,6 +1281,7 @@ geosite:volmoe
 geosite:volvo
 geosite:voxmedia
 geosite:vpngate
+geosite:vrzwk
 geosite:vultr
 geosite:w3schools
 geosite:walmart
