@@ -86,6 +86,7 @@ geosite:category-ntp-jp
 geosite:category-number-verification-cn
 geosite:category-olympiad-in-informatics
 geosite:category-orgs
+geosite:category-outsource-cn
 geosite:category-password-management
 geosite:category-payment-ir
 geosite:category-porn

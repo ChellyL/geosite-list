@@ -260,6 +260,7 @@ geosite:category-ntp-jp
 geosite:category-number-verification-cn
 geosite:category-olympiad-in-informatics
 geosite:category-orgs
+geosite:category-outsource-cn
 geosite:category-password-management
 geosite:category-payment-ir
 geosite:category-porn
@@ -381,6 +382,7 @@ geosite:deppon
 geosite:deribit
 geosite:dettol
 geosite:deviantart
+geosite:dewu
 geosite:dgtle
 geosite:dida365
 geosite:didi
@@ -853,6 +855,7 @@ geosite:myfonts
 geosite:myradio
 geosite:mytvsuper
 geosite:mzed
+geosite:n26
 geosite:n3ro
 geosite:narwal
 geosite:nat-test
@@ -916,6 +919,7 @@ geosite:openai
 geosite:opencollective
 geosite:openjsfoundation
 geosite:opensourceinsights
+geosite:openspeedtest
 geosite:openstreetmap
 geosite:openweather
 geosite:openwrt
