@@ -39,6 +39,8 @@ geosite:category-forums-ir
 geosite:category-game-accelerator-cn
 geosite:category-game-platforms-download
 geosite:category-games
+geosite:category-games-!cn
+geosite:category-games-cn
 geosite:category-gov-ir
 geosite:category-gov-ru
 geosite:category-hospital-cn

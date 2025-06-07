@@ -94,6 +94,7 @@ geosite:category-enterprise-query-platform-cn
 geosite:category-entertainment-cn
 geosite:category-food-cn
 geosite:category-game-accelerator-cn
+geosite:category-games-cn
 geosite:category-hospital-cn
 geosite:category-httpdns-cn
 geosite:category-logistics-cn
@@ -141,6 +142,7 @@ geosite:category-travel-ir
 geosite:category-ai-!cn
 geosite:category-ai-chat-!cn
 geosite:category-browser-!cn
+geosite:category-games-!cn
 geosite:category-scholar-!cn
 geosite:category-social-media-!cn
 geosite:geolocation-!cn

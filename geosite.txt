@@ -101,6 +101,7 @@ geosite:archlinux
 geosite:arphic
 geosite:artstation
 geosite:asahi
+geosite:asobo
 geosite:asproex
 geosite:asus
 geosite:atlassian
@@ -236,6 +237,8 @@ geosite:category-forums-ir
 geosite:category-game-accelerator-cn
 geosite:category-game-platforms-download
 geosite:category-games
+geosite:category-games-!cn
+geosite:category-games-cn
 geosite:category-gov-ir
 geosite:category-gov-ru
 geosite:category-hospital-cn
@@ -478,6 +481,7 @@ geosite:feedly
 geosite:feishu
 geosite:fengxing
 geosite:fflogs
+geosite:fibank
 geosite:figma
 geosite:filimo
 geosite:finish
@@ -495,6 +499,7 @@ geosite:fonts
 geosite:fontshop
 geosite:fontsinuse
 geosite:forbes
+geosite:forza
 geosite:foundertype
 geosite:fox
 geosite:fqnovel
@@ -973,6 +978,7 @@ geosite:plutotv
 geosite:pocketcasts
 geosite:pocoiq-ads
 geosite:poe
+geosite:polocloud
 geosite:polymer
 geosite:polyv
 geosite:pornhub
@@ -1046,6 +1052,7 @@ geosite:rumble
 geosite:rust
 geosite:ruten
 geosite:rutracker
+geosite:sakurafrp
 geosite:salesforce
 geosite:samsung
 geosite:sankei

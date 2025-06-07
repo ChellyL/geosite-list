@@ -11,6 +11,7 @@ geosite:category-enterprise-query-platform-cn
 geosite:category-entertainment-cn
 geosite:category-food-cn
 geosite:category-game-accelerator-cn
+geosite:category-games-cn
 geosite:category-hospital-cn
 geosite:category-httpdns-cn
 geosite:category-logistics-cn
