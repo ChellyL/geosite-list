@@ -1295,6 +1295,7 @@ geosite:vpngate
 geosite:vrzwk
 geosite:vultr
 geosite:w3schools
+geosite:wallhaven
 geosite:walmart
 geosite:wanfang
 geosite:wangsu
