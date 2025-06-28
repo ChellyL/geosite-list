@@ -176,6 +176,7 @@ geosite:pocoiq-ads
 geosite:pubmatic-ads
 geosite:python-community
 geosite:qihoo360-ads
+geosite:rsshub-3rd
 geosite:sci-hub
 geosite:segment-ads
 geosite:sensorsdata-ads

@@ -1043,6 +1043,7 @@ geosite:roborock
 geosite:rockstar
 geosite:roku
 geosite:rsshub
+geosite:rsshub-3rd
 geosite:rthk
 geosite:ruanmei
 geosite:ruby

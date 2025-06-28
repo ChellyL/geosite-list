@@ -225,6 +225,7 @@ geosite:ctexcel@!cn
 geosite:ctrip@!cn
 geosite:didi@!cn
 geosite:eastmoney@!cn
+geosite:googlefcm@!cn
 geosite:huaweicloud@!cn
 geosite:icbc@!cn
 geosite:ipip@!cn
