@@ -63,7 +63,6 @@ geosite:xiaomi-ads
 geosite:ximalaya-ads
 geosite:yahoo-ads
 geosite:youku-ads
-geosite:zynga-ads
 
 * Category: dev
 geosite:apple-dev

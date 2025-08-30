@@ -60,6 +60,7 @@ geosite:alibaba
 geosite:alibaba-ads
 geosite:alibabacloud
 geosite:aliyun
+geosite:aliyun-drive
 geosite:aljazeera
 geosite:amap
 geosite:amazon
@@ -328,6 +329,7 @@ geosite:cloudinary
 geosite:clubhouse
 geosite:cmb
 geosite:cn
+geosite:cnb
 geosite:cnbc
 geosite:cnbeta
 geosite:cnblogs
@@ -346,6 +348,7 @@ geosite:comodo
 geosite:connectivity-check
 geosite:contentful
 geosite:coolapk
+geosite:coomer
 geosite:copymanga
 geosite:corel
 geosite:costco
@@ -620,6 +623,7 @@ geosite:hurricaneelectric
 geosite:huya
 geosite:ibkr
 geosite:ibm
+geosite:icable
 geosite:icbc
 geosite:icloud
 geosite:icloudprivaterelay
@@ -1401,4 +1405,3 @@ geosite:zoom
 geosite:zte
 geosite:zto-express
 geosite:zuoyebang
-geosite:zynga-ads

@@ -4,6 +4,7 @@ geosite:adjust-ads
 geosite:adobe-activation
 geosite:adobe-ads
 geosite:alibaba-ads
+geosite:aliyun-drive
 geosite:amazon-ads
 geosite:annas-archive
 geosite:anon-v
@@ -217,4 +218,3 @@ geosite:yto-express
 geosite:z-library
 geosite:z3x-team
 geosite:zto-express
-geosite:zynga-ads

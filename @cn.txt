@@ -31,6 +31,7 @@ geosite:category-game-platforms-download@cn
 geosite:category-speedtest@cn
 geosite:cisco@cn
 geosite:clearasil@cn
+geosite:dell@cn
 geosite:dettol@cn
 geosite:digicert@cn
 geosite:duolingo@cn
