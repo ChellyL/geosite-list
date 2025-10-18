@@ -23,7 +23,6 @@ geosite:bluepoch-games@cn
 geosite:bmw@cn
 geosite:booking@cn
 geosite:bridgestone@cn
-geosite:bytedance@cn
 geosite:calgoncarbon@cn
 geosite:canon@cn
 geosite:category-enhance-gaming@cn

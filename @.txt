@@ -224,6 +224,7 @@ geosite:cmb@!cn
 geosite:ctexcel@!cn
 geosite:ctrip@!cn
 geosite:didi@!cn
+geosite:doubao@!cn
 geosite:eastmoney@!cn
 geosite:googlefcm@!cn
 geosite:huaweicloud@!cn
@@ -237,6 +238,7 @@ geosite:qcloud@!cn
 geosite:sina@!cn
 geosite:tencent@!cn
 geosite:tiktok@!cn
+geosite:trae@!cn
 geosite:vivo@!cn
 geosite:xiaomi@!cn
 geosite:zte@!cn
