@@ -65,6 +65,7 @@ geosite:ikea@cn
 geosite:intel@cn
 geosite:itunes@cn
 geosite:jetbrains@cn
+geosite:kaspersky@cn
 geosite:kechuang@cn
 geosite:kindle@cn
 geosite:kurogames@cn
@@ -223,6 +224,8 @@ geosite:citic@!cn
 geosite:cmb@!cn
 geosite:ctexcel@!cn
 geosite:ctrip@!cn
+geosite:deepin@!cn
+geosite:dewu@!cn
 geosite:didi@!cn
 geosite:doubao@!cn
 geosite:eastmoney@!cn

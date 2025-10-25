@@ -31,6 +31,8 @@ geosite:category-ai-chat-!cn
 geosite:category-ai-cn
 geosite:category-android-app-download
 geosite:category-anticensorship
+geosite:category-antivirus
+geosite:category-automobile-cn
 geosite:category-bank-cn
 geosite:category-bank-ir
 geosite:category-bank-jp

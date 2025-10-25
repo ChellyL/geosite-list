@@ -82,6 +82,7 @@ geosite:verisign-pki
 * Category: cn
 geosite:aws-cn
 geosite:category-ai-cn
+geosite:category-automobile-cn
 geosite:category-bank-cn
 geosite:category-blog-cn
 geosite:category-collaborate-cn

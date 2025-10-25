@@ -61,6 +61,7 @@ geosite:ikea@cn
 geosite:intel@cn
 geosite:itunes@cn
 geosite:jetbrains@cn
+geosite:kaspersky@cn
 geosite:kechuang@cn
 geosite:kindle@cn
 geosite:kurogames@cn

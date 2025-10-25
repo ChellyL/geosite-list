@@ -72,6 +72,7 @@ geosite:amp
 geosite:anaconda
 geosite:anandtech
 geosite:android
+geosite:anexia
 geosite:anime
 geosite:annas-archive
 geosite:anon-v
@@ -165,7 +166,6 @@ geosite:booking
 geosite:books
 geosite:boomerang
 geosite:bootcdn
-geosite:bootcss
 geosite:bootstrap
 geosite:borneoschematics
 geosite:boslife
@@ -205,6 +205,8 @@ geosite:category-ai-chat-!cn
 geosite:category-ai-cn
 geosite:category-android-app-download
 geosite:category-anticensorship
+geosite:category-antivirus
+geosite:category-automobile-cn
 geosite:category-bank-cn
 geosite:category-bank-ir
 geosite:category-bank-jp
@@ -416,6 +418,7 @@ geosite:doc88
 geosite:docin
 geosite:docker
 geosite:doi
+geosite:dongchedi
 geosite:dongjiao
 geosite:douban
 geosite:doubao
@@ -440,6 +443,7 @@ geosite:ea
 geosite:eastmoney
 geosite:easylist
 geosite:ebay
+geosite:ebuyer
 geosite:economist
 geosite:edx
 geosite:egghead
@@ -509,6 +513,7 @@ geosite:forza
 geosite:foundertype
 geosite:fox
 geosite:fqnovel
+geosite:framer
 geosite:freecodecamp
 geosite:freenode
 geosite:ft
@@ -709,6 +714,7 @@ geosite:jwplayer
 geosite:kaggle
 geosite:kakao
 geosite:kanzhongguo
+geosite:kaspersky
 geosite:kechuang
 geosite:keep
 geosite:kemono
@@ -789,6 +795,7 @@ geosite:lumion
 geosite:lysol
 geosite:madshi
 geosite:mafengwo
+geosite:mailcom
 geosite:mailru
 geosite:mainichi
 geosite:manhuagui
@@ -1154,6 +1161,7 @@ geosite:steam
 geosite:steamunlocked
 geosite:steemit
 geosite:sto-express
+geosite:straitsx
 geosite:streamable
 geosite:strepsils
 geosite:strikingly
@@ -1312,6 +1320,7 @@ geosite:wangsu
 geosite:wantmedia
 geosite:wasu
 geosite:watchout
+geosite:wbgames
 geosite:weathercn
 geosite:webex
 geosite:webflow
@@ -1352,6 +1361,7 @@ geosite:xdty
 geosite:xedge
 geosite:xhamster
 geosite:xhamster-ads
+geosite:xiaoheihe
 geosite:xiaohongshu
 geosite:xiaomi
 geosite:xiaomi-ads
