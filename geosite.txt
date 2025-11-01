@@ -583,7 +583,9 @@ geosite:haveibeenpwned
 geosite:hbo
 geosite:hcaptcha
 geosite:hellofont
+geosite:hentaichen
 geosite:hentaivn
+geosite:herogame
 geosite:heroku
 geosite:hetzner
 geosite:heytea
@@ -908,6 +910,7 @@ geosite:nintendo
 geosite:nist
 geosite:nixos
 geosite:nodejs
+geosite:nodeseek
 geosite:nordstrom
 geosite:notion
 geosite:now
@@ -1088,6 +1091,7 @@ geosite:segment-ads
 geosite:segmentfault
 geosite:sehuatang
 geosite:sensorsdata-ads
+geosite:sentry
 geosite:setapp
 geosite:setn
 geosite:sf-express
@@ -1353,6 +1357,7 @@ geosite:wwe
 geosite:wynd
 geosite:x
 geosite:x315
+geosite:x5
 geosite:xai
 geosite:xbox
 geosite:xd
