@@ -18,6 +18,7 @@ geosite:applovin-ads
 geosite:atom-data-ads
 geosite:aws-cn
 geosite:baidu-ads
+geosite:bilibili-cdn
 geosite:bilibili-game
 geosite:bluepoch-games
 geosite:bytedance-ads

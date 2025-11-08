@@ -139,6 +139,7 @@ geosite:bestv
 geosite:bethesda
 geosite:betterexplained
 geosite:bilibili
+geosite:bilibili-cdn
 geosite:bilibili-game
 geosite:bilibili2
 geosite:binance
@@ -418,6 +419,7 @@ geosite:doc88
 geosite:docin
 geosite:docker
 geosite:doi
+geosite:dola
 geosite:dongchedi
 geosite:dongjiao
 geosite:douban
@@ -450,6 +452,7 @@ geosite:egghead
 geosite:ehentai
 geosite:electron
 geosite:eleme
+geosite:elevenlabs
 geosite:elsevier
 geosite:embedly
 geosite:embl
@@ -492,6 +495,7 @@ geosite:feishu
 geosite:fengxing
 geosite:fflogs
 geosite:fibank
+geosite:ficbook
 geosite:figma
 geosite:filimo
 geosite:finish
@@ -518,6 +522,7 @@ geosite:freecodecamp
 geosite:freenode
 geosite:ft
 geosite:ftv
+geosite:futu
 geosite:fzdm
 geosite:gamersky
 geosite:gandi
@@ -532,7 +537,9 @@ geosite:gemfury
 geosite:geolocation-!cn
 geosite:geolocation-cn
 geosite:gettyimages
+geosite:getui
 geosite:gfycat
+geosite:ggsel
 geosite:giffgaff
 geosite:gigabyte
 geosite:gimy
@@ -677,6 +684,7 @@ geosite:iqiyi-ads
 geosite:isgd
 geosite:ishumei
 geosite:itchio
+geosite:itiger
 geosite:itunes
 geosite:ixsystems
 geosite:iyf
@@ -1079,6 +1087,7 @@ geosite:sb
 geosite:scala
 geosite:scaleflex
 geosite:scenesource
+geosite:schwab
 geosite:sci
 geosite:sci-hub
 geosite:sciencedirect
@@ -1196,6 +1205,7 @@ geosite:tappx-ads
 geosite:taptap
 geosite:target
 geosite:taylorfrancis
+geosite:tcl
 geosite:teambition
 geosite:teamviewer
 geosite:techpowerup

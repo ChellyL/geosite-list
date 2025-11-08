@@ -213,6 +213,7 @@ geosite:alibaba@!cn
 geosite:alibabacloud@!cn
 geosite:aliyun@!cn
 geosite:bilibili@!cn
+geosite:bilibili-cdn@!cn
 geosite:boc@!cn
 geosite:bytedance@!cn
 geosite:category-pt@!cn
