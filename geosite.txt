@@ -6,11 +6,8 @@ geosite:18comic
 geosite:2ch
 geosite:2kgames
 geosite:36kr
-geosite:3dm
-geosite:3type
 geosite:4399
 geosite:4chan
-geosite:4paradigm
 geosite:4plebs
 geosite:51job
 geosite:54647
@@ -55,7 +52,6 @@ geosite:aisiku
 geosite:aixcoder
 geosite:akamai
 geosite:akiko
-geosite:ali213
 geosite:alibaba
 geosite:alibaba-ads
 geosite:alibabacloud
@@ -77,7 +73,6 @@ geosite:anime
 geosite:annas-archive
 geosite:anon-v
 geosite:anthropic
-geosite:antutu
 geosite:ap
 geosite:apa
 geosite:aparat
@@ -110,7 +105,6 @@ geosite:atlassian
 geosite:atom-data-ads
 geosite:att
 geosite:attwatchtv
-geosite:authy
 geosite:autodesk
 geosite:avaxhome
 geosite:avmoo
@@ -122,7 +116,6 @@ geosite:b3log
 geosite:bahamut
 geosite:baidu
 geosite:baidu-ads
-geosite:baijiayun
 geosite:baltamatica
 geosite:bamtech
 geosite:bandcamp
@@ -185,6 +178,7 @@ geosite:buypass
 geosite:bybit
 geosite:bytedance
 geosite:bytedance-ads
+geosite:bytedance-ai-!cn
 geosite:c-span
 geosite:cabletv
 geosite:cainiao
@@ -193,6 +187,7 @@ geosite:cambridge
 geosite:camwhores
 geosite:canon
 geosite:canonical
+geosite:canva
 geosite:capitalonline
 geosite:cas
 geosite:casimages
@@ -314,7 +309,6 @@ geosite:chinatelecom
 geosite:chinatower
 geosite:chinaunicom
 geosite:chinaz
-geosite:chiphell
 geosite:cisco
 geosite:citic
 geosite:citizenlab
@@ -366,7 +360,6 @@ geosite:csdn
 geosite:csis
 geosite:ctexcel
 geosite:ctrip
-geosite:cugbonline
 geosite:cuinc
 geosite:curseforge
 geosite:cursor
@@ -393,8 +386,6 @@ geosite:deribit
 geosite:dettol
 geosite:deviantart
 geosite:dewu
-geosite:dgtle
-geosite:dida365
 geosite:didi
 geosite:digicert
 geosite:digitalocean
@@ -413,7 +404,6 @@ geosite:dlsite
 geosite:dmm
 geosite:dmm-ads
 geosite:dmm-porn
-geosite:dmzj
 geosite:dnspod
 geosite:doc88
 geosite:docin
@@ -464,7 +454,6 @@ geosite:entrust
 geosite:epicbrowser
 geosite:epicgames
 geosite:epochmediagroup
-geosite:erji
 geosite:erolabs
 geosite:escapefromtarkov
 geosite:eset
@@ -514,7 +503,6 @@ geosite:fontshop
 geosite:fontsinuse
 geosite:forbes
 geosite:forza
-geosite:foundertype
 geosite:fox
 geosite:fqnovel
 geosite:framer
@@ -530,8 +518,6 @@ geosite:ganji
 geosite:gannett
 geosite:garena
 geosite:gateio
-geosite:gcores
-geosite:geekpark
 geosite:geetest
 geosite:gemfury
 geosite:geolocation-!cn
@@ -577,7 +563,6 @@ geosite:growingio-ads
 geosite:gucci
 geosite:guo
 geosite:guokr
-geosite:hacpai
 geosite:haier
 geosite:hainanairlines
 geosite:haitang
@@ -595,7 +580,6 @@ geosite:hentaivn
 geosite:herogame
 geosite:heroku
 geosite:hetzner
-geosite:heytea
 geosite:heyzo
 geosite:hiido-ads
 geosite:hinet
@@ -610,7 +594,6 @@ geosite:hkt
 geosite:hm
 geosite:homebrew
 geosite:homedepot
-geosite:hongdunwang
 geosite:hongkongpost
 geosite:honor
 geosite:hooligapps
@@ -621,7 +604,6 @@ geosite:hp
 geosite:hpe
 geosite:hsbc
 geosite:hsbc-cn
-geosite:hsqh
 geosite:huanghuagang
 geosite:huawei
 geosite:huawei-dev
@@ -658,7 +640,6 @@ geosite:illusion
 geosite:illusion-nonofficial
 geosite:imagebam
 geosite:imagecurl
-geosite:imageglass
 geosite:imageshack
 geosite:imagetwist
 geosite:imdb
@@ -688,7 +669,6 @@ geosite:itiger
 geosite:itunes
 geosite:ixsystems
 geosite:iyf
-geosite:j-test
 geosite:jable
 geosite:japonx
 geosite:java
@@ -705,8 +685,6 @@ geosite:jianshu
 geosite:jibencaozuo
 geosite:jiemian
 geosite:jiguang
-geosite:jinjiang
-geosite:jinrishici
 geosite:jinshuju
 geosite:jiyukobo
 geosite:jkf
@@ -768,7 +746,6 @@ geosite:lastfm
 geosite:lastpass
 geosite:launchpad
 geosite:lavteam
-geosite:ldmnq
 geosite:le
 geosite:leanplum-ads
 geosite:lenovo
@@ -809,7 +786,6 @@ geosite:mailcom
 geosite:mailru
 geosite:mainichi
 geosite:manhuagui
-geosite:manmanbuy
 geosite:manorama
 geosite:manoto
 geosite:maocloud
@@ -835,9 +811,7 @@ geosite:meta
 geosite:meta-ads
 geosite:metabrainz
 geosite:metart
-geosite:mfuns
 geosite:miaomiaozhe
-geosite:miaopai
 geosite:microsoft
 geosite:microsoft-dev
 geosite:microsoft-pki
@@ -869,7 +843,6 @@ geosite:mortein
 geosite:movefree
 geosite:moxing
 geosite:mozilla
-geosite:mpv
 geosite:msi
 geosite:msn
 geosite:mubi
@@ -877,7 +850,6 @@ geosite:mucinex
 geosite:mudvod
 geosite:muji
 geosite:musixmatch
-geosite:muwai
 geosite:mxplayer-ads
 geosite:mxroute
 geosite:mydirtyhobby
@@ -888,7 +860,6 @@ geosite:mzed
 geosite:n26
 geosite:n3ro
 geosite:narwal
-geosite:nat-test
 geosite:nationalgeographic
 geosite:naver
 geosite:nbcuniversal
@@ -996,7 +967,6 @@ geosite:piratebay
 geosite:pixhost
 geosite:pixiv
 geosite:pixnet
-geosite:pkoplink
 geosite:playboy
 geosite:playcover
 geosite:playstation
@@ -1026,7 +996,6 @@ geosite:python
 geosite:python-community
 geosite:qcc
 geosite:qcloud
-geosite:qichamao
 geosite:qihoo360
 geosite:qihoo360-ads
 geosite:qimao
@@ -1042,7 +1011,6 @@ geosite:quip
 geosite:quora
 geosite:qwant
 geosite:qweather
-geosite:qyyjt
 geosite:rakuten
 geosite:rarbg
 geosite:razer
@@ -1065,7 +1033,6 @@ geosite:reurl
 geosite:reuters
 geosite:rferl
 geosite:riot
-geosite:roborock
 geosite:rockstar
 geosite:roku
 geosite:rsshub
@@ -1104,7 +1071,6 @@ geosite:sentry
 geosite:setapp
 geosite:setn
 geosite:sf-express
-geosite:sfacg
 geosite:shadowsockscom
 geosite:shanbay
 geosite:sharethis
@@ -1138,7 +1104,6 @@ geosite:softether
 geosite:sogou
 geosite:sohu
 geosite:sohu-ads
-geosite:solidot
 geosite:sony
 geosite:sonypictures
 geosite:soundcloud
@@ -1158,7 +1123,6 @@ geosite:springer
 geosite:squareup
 geosite:squirrelvpn
 geosite:sslcom
-geosite:sspai
 geosite:ssrcloud
 geosite:st
 geosite:stackexchange
@@ -1219,6 +1183,7 @@ geosite:tencent-ads
 geosite:tencent-dev
 geosite:tencent-games
 geosite:tendcloud
+geosite:terabox
 geosite:termux
 geosite:tesla
 geosite:test
@@ -1242,7 +1207,6 @@ geosite:tidal
 geosite:tidelift
 geosite:tiktok
 geosite:tinyurl
-geosite:tipdm
 geosite:tld-!cn
 geosite:tld-cn
 geosite:tld-opennic
@@ -1366,7 +1330,6 @@ geosite:wteam-ads
 geosite:wwe
 geosite:wynd
 geosite:x
-geosite:x315
 geosite:x5
 geosite:xai
 geosite:xbox
@@ -1387,7 +1350,6 @@ geosite:xingrz
 geosite:xnxx
 geosite:xueersi
 geosite:xueqiu
-geosite:xueyuanjun
 geosite:xunlei
 geosite:xvideos
 geosite:yahoo
@@ -1395,7 +1357,6 @@ geosite:yahoo-ads
 geosite:yamibo
 geosite:yandex
 geosite:ycombinator
-geosite:yinxiang
 geosite:ymtc
 geosite:ynet
 geosite:ynoproject
@@ -1426,9 +1387,7 @@ geosite:zeetv
 geosite:zendesk
 geosite:zeplin
 geosite:zhangtao
-geosite:zhanqi
 geosite:zhihu
-geosite:zhihuishu
 geosite:zhimeishe
 geosite:ziroom
 geosite:zoho

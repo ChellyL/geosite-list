@@ -15,11 +15,8 @@ geosite:att@cn
 geosite:azure@cn
 geosite:beats@cn
 geosite:bestbuy@cn
-geosite:bilibili-game@cn
 geosite:bing@cn
 geosite:bluearchive@cn
-geosite:bluepoch@cn
-geosite:bluepoch-games@cn
 geosite:bmw@cn
 geosite:booking@cn
 geosite:bridgestone@cn
@@ -109,7 +106,6 @@ geosite:swift@cn
 geosite:synology@cn
 geosite:teamviewer@cn
 geosite:tencent-dev@cn
-geosite:tencent-games@cn
 geosite:tesla@cn
 geosite:test-ipv6@cn
 geosite:thetype@cn

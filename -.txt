@@ -22,6 +22,7 @@ geosite:bilibili-cdn
 geosite:bilibili-game
 geosite:bluepoch-games
 geosite:bytedance-ads
+geosite:bytedance-ai-!cn
 geosite:c-span
 geosite:category-acg
 geosite:category-ads
@@ -150,7 +151,6 @@ geosite:inner-active-ads
 geosite:instagram-ads
 geosite:intel-dev
 geosite:iqiyi-ads
-geosite:j-test
 geosite:jd-ads
 geosite:jetbrains-ai
 geosite:kuaishou-ads
@@ -167,7 +167,6 @@ geosite:misskey-universe
 geosite:mixpanel-ads
 geosite:mopub-ads
 geosite:mxplayer-ads
-geosite:nat-test
 geosite:netease-ads
 geosite:newrelic-ads
 geosite:nikkan-gendai
