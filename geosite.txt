@@ -659,6 +659,7 @@ geosite:intel
 geosite:intel-dev
 geosite:intercom
 geosite:intsig
+geosite:intuit
 geosite:ipip
 geosite:iqiyi
 geosite:iqiyi-ads
@@ -1354,7 +1355,6 @@ geosite:xunlei
 geosite:xvideos
 geosite:yahoo
 geosite:yahoo-ads
-geosite:yamibo
 geosite:yandex
 geosite:ycombinator
 geosite:ymtc
