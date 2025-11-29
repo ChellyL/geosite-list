@@ -48,6 +48,7 @@ geosite:category-communication
 geosite:category-companies
 geosite:category-container
 geosite:category-cryptocurrency
+geosite:category-ddns
 geosite:category-dev
 geosite:category-dev-cn
 geosite:category-documents-cn
@@ -74,6 +75,7 @@ geosite:category-gov-ru
 geosite:category-hospital-cn
 geosite:category-httpdns-cn
 geosite:category-insurance-ir
+geosite:category-ip-geo-detect
 geosite:category-ipfs
 geosite:category-ir
 geosite:category-logistics-cn
@@ -117,9 +119,10 @@ geosite:category-travel-ir
 geosite:category-voip
 geosite:category-vpnservices
 geosite:category-wiki-cn
-geosite:clearbitjs-ads
+geosite:clearbit-ads
 geosite:cloudflare-cn
 geosite:cloudflare-ipfs
+geosite:comfy-ui-launcher
 geosite:connectivity-check
 geosite:dmm-ads
 geosite:dmm-porn
@@ -156,7 +159,6 @@ geosite:jetbrains-ai
 geosite:kuaishou-ads
 geosite:kugou-ads
 geosite:lark-global
-geosite:leanplum-ads
 geosite:letv-ads
 geosite:meta-ads
 geosite:microsoft-dev
@@ -164,14 +166,12 @@ geosite:microsoft-pki
 geosite:mihoyo-cn
 geosite:mindgeek-porn
 geosite:misskey-universe
-geosite:mixpanel-ads
 geosite:mopub-ads
 geosite:mxplayer-ads
 geosite:netease-ads
 geosite:newrelic-ads
 geosite:nikkan-gendai
 geosite:ogury-ads
-geosite:onesignal-ads
 geosite:ookla-speedtest
 geosite:ookla-speedtest-ads
 geosite:openx-ads
@@ -210,7 +210,6 @@ geosite:unity-ads
 geosite:uu-chat
 geosite:verisign-pki
 geosite:whatsapp-ads
-geosite:wteam-ads
 geosite:xhamster-ads
 geosite:xiaomi-ads
 geosite:ximalaya-ads

@@ -22,6 +22,7 @@ geosite:category-communication
 geosite:category-companies
 geosite:category-container
 geosite:category-cryptocurrency
+geosite:category-ddns
 geosite:category-dev
 geosite:category-dev-cn
 geosite:category-documents-cn
@@ -48,6 +49,7 @@ geosite:category-gov-ru
 geosite:category-hospital-cn
 geosite:category-httpdns-cn
 geosite:category-insurance-ir
+geosite:category-ip-geo-detect
 geosite:category-ipfs
 geosite:category-ir
 geosite:category-logistics-cn

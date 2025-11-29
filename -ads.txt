@@ -12,7 +12,7 @@ geosite:bytedance-ads
 geosite:category-ads
 geosite:category-ads-all
 geosite:category-ads-ir
-geosite:clearbitjs-ads
+geosite:clearbit-ads
 geosite:dmm-ads
 geosite:duolingo-ads
 geosite:emogi-ads
@@ -29,16 +29,13 @@ geosite:iqiyi-ads
 geosite:jd-ads
 geosite:kuaishou-ads
 geosite:kugou-ads
-geosite:leanplum-ads
 geosite:letv-ads
 geosite:meta-ads
-geosite:mixpanel-ads
 geosite:mopub-ads
 geosite:mxplayer-ads
 geosite:netease-ads
 geosite:newrelic-ads
 geosite:ogury-ads
-geosite:onesignal-ads
 geosite:ookla-speedtest-ads
 geosite:openx-ads
 geosite:pocoiq-ads
@@ -58,7 +55,6 @@ geosite:uberads-ads
 geosite:umeng-ads
 geosite:unity-ads
 geosite:whatsapp-ads
-geosite:wteam-ads
 geosite:xhamster-ads
 geosite:xiaomi-ads
 geosite:ximalaya-ads

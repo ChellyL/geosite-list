@@ -1,3 +1,4 @@
+geosite:bing@ads
 geosite:category-httpdns-cn@ads
 geosite:disney@ads
 geosite:fqnovel@ads
@@ -9,3 +10,4 @@ geosite:pikpak@ads
 geosite:pixiv@ads
 geosite:samsung@ads
 geosite:snap@ads
+geosite:twitter@ads
