@@ -26,6 +26,7 @@ geosite:category-ddns
 geosite:category-dev
 geosite:category-dev-cn
 geosite:category-documents-cn
+geosite:category-doh
 geosite:category-ecommerce
 geosite:category-education-cn
 geosite:category-education-ir

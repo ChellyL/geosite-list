@@ -15,6 +15,7 @@ geosite:58tongcheng
 geosite:5ch
 geosite:6park
 geosite:75team
+geosite:7tv
 geosite:800best
 geosite:8btc
 geosite:928plus
@@ -220,6 +221,7 @@ geosite:category-ddns
 geosite:category-dev
 geosite:category-dev-cn
 geosite:category-documents-cn
+geosite:category-doh
 geosite:category-ecommerce
 geosite:category-education-cn
 geosite:category-education-ir
@@ -437,6 +439,7 @@ geosite:dw
 geosite:dwion
 geosite:dyna
 geosite:dynu
+geosite:dzen
 geosite:ea
 geosite:eastmoney
 geosite:easylist
@@ -450,6 +453,7 @@ geosite:electron
 geosite:eleme
 geosite:elevenlabs
 geosite:elsevier
+geosite:embark
 geosite:embedly
 geosite:embl
 geosite:emogi-ads
@@ -473,6 +477,7 @@ geosite:f-droid
 geosite:facebook
 geosite:facebook-ads
 geosite:facebook-dev
+geosite:faceit
 geosite:falungong
 geosite:familymart
 geosite:fandom
@@ -511,6 +516,7 @@ geosite:forbes
 geosite:forza
 geosite:fox
 geosite:fqnovel
+geosite:fqnovel-ads
 geosite:framer
 geosite:freecodecamp
 geosite:freenode
@@ -569,6 +575,7 @@ geosite:growingio-ads
 geosite:gucci
 geosite:guo
 geosite:guokr
+geosite:habr
 geosite:haier
 geosite:hainanairlines
 geosite:haitang
@@ -790,6 +797,7 @@ geosite:madshi
 geosite:mafengwo
 geosite:mailcom
 geosite:mailru
+geosite:mailru-group
 geosite:mainichi
 geosite:manhuagui
 geosite:manorama
@@ -816,6 +824,7 @@ geosite:messenger
 geosite:meta
 geosite:meta-ads
 geosite:metabrainz
+geosite:metacritic
 geosite:metart
 geosite:miaomiaozhe
 geosite:microsoft
@@ -836,6 +845,7 @@ geosite:misskey-universe
 geosite:mit
 geosite:mobile01
 geosite:mocha
+geosite:modrinth
 geosite:mogujie
 geosite:mojang
 geosite:moji
@@ -914,6 +924,7 @@ geosite:ogury-ads
 geosite:ok
 geosite:okaapps
 geosite:okjike
+geosite:okko
 geosite:okx
 geosite:olevod
 geosite:onedrive
@@ -1052,6 +1063,7 @@ geosite:rumble
 geosite:rust
 geosite:ruten
 geosite:rutracker
+geosite:rutube
 geosite:sakurafrp
 geosite:salesforce
 geosite:samsung
@@ -1184,6 +1196,7 @@ geosite:ted
 geosite:telegram
 geosite:telekom
 geosite:television-ads
+geosite:temp-mail
 geosite:tencent
 geosite:tencent-ads
 geosite:tencent-dev
@@ -1239,6 +1252,7 @@ geosite:tubi
 geosite:tumblr
 geosite:tutanota
 geosite:tvb
+geosite:tvdb
 geosite:tver
 geosite:twca
 geosite:twitch
@@ -1277,6 +1291,7 @@ geosite:verisign
 geosite:verisign-pki
 geosite:verizon
 geosite:vgtime
+geosite:viber
 geosite:vilavpn
 geosite:vim
 geosite:vimeo
@@ -1347,6 +1362,7 @@ geosite:xiaoheihe
 geosite:xiaohongshu
 geosite:xiaomi
 geosite:xiaomi-ads
+geosite:xiaoyuzhou
 geosite:ximalaya
 geosite:ximalaya-ads
 geosite:xingkongwuxianmedia
@@ -1397,6 +1413,7 @@ geosite:zhubajie
 geosite:ziroom
 geosite:zoho
 geosite:zoom
+geosite:zotero
 geosite:zte
 geosite:zto-express
 geosite:zuoyebang

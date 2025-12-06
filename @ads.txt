@@ -1,7 +1,6 @@
 geosite:bing@ads
 geosite:category-httpdns-cn@ads
 geosite:disney@ads
-geosite:fqnovel@ads
 geosite:gamersky@ads
 geosite:hetzner@ads
 geosite:microsoft@ads

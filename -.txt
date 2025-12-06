@@ -52,6 +52,7 @@ geosite:category-ddns
 geosite:category-dev
 geosite:category-dev-cn
 geosite:category-documents-cn
+geosite:category-doh
 geosite:category-ecommerce
 geosite:category-education-cn
 geosite:category-education-ir
@@ -132,6 +133,7 @@ geosite:f-droid
 geosite:facebook-ads
 geosite:facebook-dev
 geosite:flurry-ads
+geosite:fqnovel-ads
 geosite:geolocation-!cn
 geosite:geolocation-cn
 geosite:google-ads
@@ -160,6 +162,7 @@ geosite:kuaishou-ads
 geosite:kugou-ads
 geosite:lark-global
 geosite:letv-ads
+geosite:mailru-group
 geosite:meta-ads
 geosite:microsoft-dev
 geosite:microsoft-pki
@@ -194,6 +197,7 @@ geosite:symantec-pki
 geosite:tagtic-ads
 geosite:tappx-ads
 geosite:television-ads
+geosite:temp-mail
 geosite:tencent-ads
 geosite:tencent-dev
 geosite:tencent-games

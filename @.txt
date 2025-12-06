@@ -149,7 +149,7 @@ geosite:duolingo-ads@ads
 geosite:emogi-ads@ads
 geosite:facebook-ads@ads
 geosite:flurry-ads@ads
-geosite:fqnovel@ads
+geosite:fqnovel-ads@ads
 geosite:gamersky@ads
 geosite:google-ads@ads
 geosite:growingio-ads@ads
@@ -237,5 +237,4 @@ geosite:tencent@!cn
 geosite:tiktok@!cn
 geosite:vivo@!cn
 geosite:xiaomi@!cn
-geosite:zte@!cn
 
