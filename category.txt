@@ -90,6 +90,7 @@ geosite:category-social-media-ir
 geosite:category-speedtest
 geosite:category-tech-ir
 geosite:category-tech-media
+geosite:category-tm
 geosite:category-travel-ir
 geosite:category-voip
 geosite:category-vpnservices

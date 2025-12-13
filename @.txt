@@ -151,6 +151,7 @@ geosite:facebook-ads@ads
 geosite:flurry-ads@ads
 geosite:fqnovel-ads@ads
 geosite:gamersky@ads
+geosite:github-ads@ads
 geosite:google-ads@ads
 geosite:growingio-ads@ads
 geosite:hetzner@ads

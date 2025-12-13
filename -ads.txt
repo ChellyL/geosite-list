@@ -19,6 +19,7 @@ geosite:emogi-ads
 geosite:facebook-ads
 geosite:flurry-ads
 geosite:fqnovel-ads
+geosite:github-ads
 geosite:google-ads
 geosite:growingio-ads
 geosite:hiido-ads

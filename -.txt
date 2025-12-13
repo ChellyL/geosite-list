@@ -116,6 +116,7 @@ geosite:category-social-media-ir
 geosite:category-speedtest
 geosite:category-tech-ir
 geosite:category-tech-media
+geosite:category-tm
 geosite:category-travel-ir
 geosite:category-voip
 geosite:category-vpnservices
@@ -136,6 +137,7 @@ geosite:flurry-ads
 geosite:fqnovel-ads
 geosite:geolocation-!cn
 geosite:geolocation-cn
+geosite:github-ads
 geosite:google-ads
 geosite:google-deepmind
 geosite:google-gemini

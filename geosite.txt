@@ -14,11 +14,11 @@ geosite:54647
 geosite:58tongcheng
 geosite:5ch
 geosite:6park
-geosite:75team
 geosite:7tv
 geosite:800best
 geosite:8btc
 geosite:928plus
+geosite:9game
 geosite:9news
 geosite:9to5
 geosite:aamgame
@@ -117,6 +117,7 @@ geosite:b3log
 geosite:bahamut
 geosite:baidu
 geosite:baidu-ads
+geosite:baishancloud
 geosite:baltamatica
 geosite:bamtech
 geosite:bandcamp
@@ -285,6 +286,7 @@ geosite:category-social-media-ir
 geosite:category-speedtest
 geosite:category-tech-ir
 geosite:category-tech-media
+geosite:category-tm
 geosite:category-travel-ir
 geosite:category-voip
 geosite:category-vpnservices
@@ -544,6 +546,7 @@ geosite:gimy
 geosite:gitbook
 geosite:gitee
 geosite:github
+geosite:github-ads
 geosite:github1s
 geosite:gitlab
 geosite:gitv
@@ -587,7 +590,6 @@ geosite:haskell
 geosite:haveibeenpwned
 geosite:hbo
 geosite:hcaptcha
-geosite:hellofont
 geosite:hentaichen
 geosite:hentaivn
 geosite:herogame
@@ -999,6 +1001,7 @@ geosite:postimages
 geosite:pptv
 geosite:primevideo
 geosite:private
+geosite:projectpoi
 geosite:projectsekai
 geosite:proquest
 geosite:protonmail
