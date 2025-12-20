@@ -5,6 +5,7 @@ geosite:adobe-activation
 geosite:adobe-ads
 geosite:alibaba-ads
 geosite:aliyun-drive
+geosite:amap-ads
 geosite:amazon-ads
 geosite:annas-archive
 geosite:anon-v
@@ -166,8 +167,10 @@ geosite:lark-global
 geosite:letv-ads
 geosite:mailru-group
 geosite:meta-ads
+geosite:microsoft-ads
 geosite:microsoft-dev
 geosite:microsoft-pki
+geosite:mihoyo-ads
 geosite:mihoyo-cn
 geosite:mindgeek-porn
 geosite:misskey-universe
@@ -180,6 +183,7 @@ geosite:ogury-ads
 geosite:ookla-speedtest
 geosite:ookla-speedtest-ads
 geosite:openx-ads
+geosite:picacg-ads
 geosite:pocoiq-ads
 geosite:pubmatic-ads
 geosite:python-community
@@ -218,10 +222,13 @@ geosite:verisign-pki
 geosite:whatsapp-ads
 geosite:xhamster-ads
 geosite:xiaomi-ads
+geosite:xiaomi-ai
 geosite:ximalaya-ads
 geosite:yahoo-ads
 geosite:youku-ads
 geosite:yto-express
 geosite:z-library
 geosite:z3x-team
+geosite:zhihu-ads
 geosite:zto-express
+geosite:zuoyebang-ads

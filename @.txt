@@ -72,6 +72,7 @@ geosite:mapbox@cn
 geosite:mastercard@cn
 geosite:mcdonalds@cn
 geosite:meadjohnson@cn
+geosite:microsoft@cn
 geosite:microsoft-dev@cn
 geosite:microsoft-pki@cn
 geosite:mihoyo-cn@cn
@@ -134,6 +135,7 @@ geosite:adcolony-ads@ads
 geosite:adjust-ads@ads
 geosite:adobe-ads@ads
 geosite:alibaba-ads@ads
+geosite:amap-ads@ads
 geosite:amazon-ads@ads
 geosite:apple-ads@ads
 geosite:applovin-ads@ads
@@ -165,7 +167,8 @@ geosite:jd-ads@ads
 geosite:kuaishou-ads@ads
 geosite:kugou-ads@ads
 geosite:letv-ads@ads
-geosite:microsoft@ads
+geosite:microsoft-ads@ads
+geosite:mihoyo-ads@ads
 geosite:mopub-ads@ads
 geosite:mxplayer-ads@ads
 geosite:netease-ads@ads
@@ -174,6 +177,7 @@ geosite:ogury-ads@ads
 geosite:ookla-speedtest-ads@ads
 geosite:openai@ads
 geosite:openx-ads@ads
+geosite:picacg-ads@ads
 geosite:pikpak@ads
 geosite:pixiv@ads
 geosite:pocoiq-ads@ads
@@ -201,6 +205,8 @@ geosite:xiaomi-ads@ads
 geosite:ximalaya-ads@ads
 geosite:yahoo-ads@ads
 geosite:youku-ads@ads
+geosite:zhihu-ads@ads
+geosite:zuoyebang-ads@ads
 
 *Category: !cn
 geosite:alibaba@!cn

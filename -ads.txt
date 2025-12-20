@@ -3,6 +3,7 @@ geosite:adcolony-ads
 geosite:adjust-ads
 geosite:adobe-ads
 geosite:alibaba-ads
+geosite:amap-ads
 geosite:amazon-ads
 geosite:apple-ads
 geosite:applovin-ads
@@ -33,6 +34,8 @@ geosite:kuaishou-ads
 geosite:kugou-ads
 geosite:letv-ads
 geosite:meta-ads
+geosite:microsoft-ads
+geosite:mihoyo-ads
 geosite:mopub-ads
 geosite:mxplayer-ads
 geosite:netease-ads
@@ -40,6 +43,7 @@ geosite:newrelic-ads
 geosite:ogury-ads
 geosite:ookla-speedtest-ads
 geosite:openx-ads
+geosite:picacg-ads
 geosite:pocoiq-ads
 geosite:pubmatic-ads
 geosite:qihoo360-ads
@@ -62,3 +66,5 @@ geosite:xiaomi-ads
 geosite:ximalaya-ads
 geosite:yahoo-ads
 geosite:youku-ads
+geosite:zhihu-ads
+geosite:zuoyebang-ads

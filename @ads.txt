@@ -3,7 +3,6 @@ geosite:category-httpdns-cn@ads
 geosite:disney@ads
 geosite:gamersky@ads
 geosite:hetzner@ads
-geosite:microsoft@ads
 geosite:openai@ads
 geosite:pikpak@ads
 geosite:pixiv@ads

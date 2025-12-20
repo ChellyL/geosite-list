@@ -60,6 +60,7 @@ geosite:aliyun
 geosite:aliyun-drive
 geosite:aljazeera
 geosite:amap
+geosite:amap-ads
 geosite:amazon
 geosite:amazon-ads
 geosite:amazontrust
@@ -369,6 +370,7 @@ geosite:csdn
 geosite:csis
 geosite:ctexcel
 geosite:ctrip
+geosite:ctyun
 geosite:cuinc
 geosite:curseforge
 geosite:cursor
@@ -830,10 +832,12 @@ geosite:metacritic
 geosite:metart
 geosite:miaomiaozhe
 geosite:microsoft
+geosite:microsoft-ads
 geosite:microsoft-dev
 geosite:microsoft-pki
 geosite:midea
 geosite:mihoyo
+geosite:mihoyo-ads
 geosite:mihoyo-cn
 geosite:mikrotik
 geosite:mindgeek
@@ -854,6 +858,7 @@ geosite:moji
 geosite:momo
 geosite:mongodb
 geosite:monotype
+geosite:moonvy
 geosite:mopub-ads
 geosite:morisawa
 geosite:mortein
@@ -972,6 +977,7 @@ geosite:perplexity
 geosite:pgyer
 geosite:phoenix
 geosite:picacg
+geosite:picacg-ads
 geosite:picsee
 geosite:pikpak
 geosite:pinduoduo
@@ -1337,6 +1343,7 @@ geosite:wikidot
 geosite:wikihow
 geosite:wikimedia
 geosite:windy
+geosite:wink
 geosite:wise
 geosite:wisekey
 geosite:wish
@@ -1365,6 +1372,7 @@ geosite:xiaoheihe
 geosite:xiaohongshu
 geosite:xiaomi
 geosite:xiaomi-ads
+geosite:xiaomi-ai
 geosite:xiaoyuzhou
 geosite:ximalaya
 geosite:ximalaya-ads
@@ -1411,6 +1419,7 @@ geosite:zendesk
 geosite:zeplin
 geosite:zhangtao
 geosite:zhihu
+geosite:zhihu-ads
 geosite:zhimeishe
 geosite:zhubajie
 geosite:ziroom
@@ -1420,3 +1429,4 @@ geosite:zotero
 geosite:zte
 geosite:zto-express
 geosite:zuoyebang
+geosite:zuoyebang-ads
