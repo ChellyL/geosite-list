@@ -45,6 +45,7 @@ geosite:farfetch@cn
 geosite:fflogs@cn
 geosite:finish@cn
 geosite:firebase@cn
+geosite:futu@cn
 geosite:gigabyte@cn
 geosite:globalsign@cn
 geosite:gog@cn

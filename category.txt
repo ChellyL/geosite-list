@@ -94,4 +94,5 @@ geosite:category-tm
 geosite:category-travel-ir
 geosite:category-voip
 geosite:category-vpnservices
+geosite:category-web-archive
 geosite:category-wiki-cn

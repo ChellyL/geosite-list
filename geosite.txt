@@ -96,10 +96,12 @@ geosite:applysquare
 geosite:aptoide
 geosite:archive
 geosite:archiveofourown
+geosite:archivetoday
 geosite:archlinux
 geosite:arphic
 geosite:artstation
 geosite:asahi
+geosite:askdiandian
 geosite:asobo
 geosite:asproex
 geosite:asus
@@ -109,6 +111,7 @@ geosite:att
 geosite:attwatchtv
 geosite:autodesk
 geosite:avaxhome
+geosite:avito
 geosite:avmoo
 geosite:awempire
 geosite:aws
@@ -291,6 +294,7 @@ geosite:category-tm
 geosite:category-travel-ir
 geosite:category-voip
 geosite:category-vpnservices
+geosite:category-web-archive
 geosite:category-wiki-cn
 geosite:cavporn
 geosite:cbs
@@ -390,6 +394,7 @@ geosite:decryptipastore
 geosite:dedao
 geosite:deepin
 geosite:deepseek
+geosite:deezer
 geosite:dell
 geosite:demonoid
 geosite:deppon
@@ -412,6 +417,7 @@ geosite:divar
 geosite:dji
 geosite:dlercloud
 geosite:dlsite
+geosite:dmit
 geosite:dmm
 geosite:dmm-ads
 geosite:dmm-porn
@@ -599,6 +605,7 @@ geosite:heroku
 geosite:hetzner
 geosite:heyzo
 geosite:hiido-ads
+geosite:hikvision
 geosite:hinet
 geosite:hinet-eca
 geosite:hitun
@@ -675,6 +682,7 @@ geosite:instagram-ads
 geosite:intel
 geosite:intel-dev
 geosite:intercom
+geosite:internet-archive
 geosite:intsig
 geosite:intuit
 geosite:ipip
@@ -1317,6 +1325,8 @@ geosite:volmoe
 geosite:volvo
 geosite:voxmedia
 geosite:vpngate
+geosite:vrcdn
+geosite:vrchat
 geosite:vrzwk
 geosite:vultr
 geosite:w3schools
@@ -1330,7 +1340,6 @@ geosite:watchout
 geosite:wbgames
 geosite:weathercn
 geosite:webex
-geosite:webflow
 geosite:webnovel
 geosite:webtype
 geosite:weiphone

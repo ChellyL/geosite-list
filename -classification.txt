@@ -68,6 +68,11 @@ geosite:youku-ads
 geosite:zhihu-ads
 geosite:zuoyebang-ads
 
+* Category: archive
+geosite:annas-archive
+geosite:category-web-archive
+geosite:internet-archive
+
 * Category: dev
 geosite:apple-dev
 geosite:category-dev

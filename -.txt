@@ -121,6 +121,7 @@ geosite:category-tm
 geosite:category-travel-ir
 geosite:category-voip
 geosite:category-vpnservices
+geosite:category-web-archive
 geosite:category-wiki-cn
 geosite:clearbit-ads
 geosite:cloudflare-cn
@@ -158,6 +159,7 @@ geosite:illusion-nonofficial
 geosite:inner-active-ads
 geosite:instagram-ads
 geosite:intel-dev
+geosite:internet-archive
 geosite:iqiyi-ads
 geosite:jd-ads
 geosite:jetbrains-ai
