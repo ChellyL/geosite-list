@@ -94,6 +94,7 @@ geosite:category-ai-cn
 geosite:category-automobile-cn
 geosite:category-bank-cn
 geosite:category-blog-cn
+geosite:category-cdn-cn
 geosite:category-collaborate-cn
 geosite:category-dev-cn
 geosite:category-documents-cn
@@ -134,6 +135,7 @@ geosite:bytedance-ai-!cn
 geosite:category-ai-!cn
 geosite:category-ai-chat-!cn
 geosite:category-browser-!cn
+geosite:category-cdn-!cn
 geosite:category-games-!cn
 geosite:category-scholar-!cn
 geosite:category-social-media-!cn

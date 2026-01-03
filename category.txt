@@ -17,6 +17,8 @@ geosite:category-blog-cn
 geosite:category-bourse-ir
 geosite:category-browser-!cn
 geosite:category-cas
+geosite:category-cdn-!cn
+geosite:category-cdn-cn
 geosite:category-collaborate-cn
 geosite:category-communication
 geosite:category-companies
