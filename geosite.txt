@@ -231,6 +231,7 @@ geosite:category-dev-cn
 geosite:category-documents-cn
 geosite:category-doh
 geosite:category-ecommerce
+geosite:category-ecommerce-ru
 geosite:category-education-cn
 geosite:category-education-ir
 geosite:category-electronic-cn
@@ -239,6 +240,7 @@ geosite:category-enhance-gaming
 geosite:category-enterprise-query-platform-cn
 geosite:category-entertainment
 geosite:category-entertainment-cn
+geosite:category-entertainment-ru
 geosite:category-finance
 geosite:category-food-cn
 geosite:category-forums
@@ -277,9 +279,11 @@ geosite:category-outsource-cn
 geosite:category-password-management
 geosite:category-payment-ir
 geosite:category-porn
+geosite:category-proxy-tunnels
 geosite:category-pt
 geosite:category-public-tracker
 geosite:category-remote-control
+geosite:category-retail-ru
 geosite:category-ru
 geosite:category-scholar-!cn
 geosite:category-scholar-cn
@@ -873,6 +877,7 @@ geosite:moonvy
 geosite:mopub-ads
 geosite:morisawa
 geosite:mortein
+geosite:mosmetro
 geosite:movefree
 geosite:moxing
 geosite:mozilla
@@ -913,6 +918,7 @@ geosite:nexo
 geosite:nexon
 geosite:nga
 geosite:nginx
+geosite:ngrok
 geosite:niconico
 geosite:nike
 geosite:nikkan-gendai
@@ -994,6 +1000,7 @@ geosite:pikpak
 geosite:pinduoduo
 geosite:pingan
 geosite:pingcap
+geosite:pinggy
 geosite:pingpe
 geosite:pingsx
 geosite:pinkcore
@@ -1092,6 +1099,7 @@ geosite:sb
 geosite:scala
 geosite:scaleflex
 geosite:scenesource
+geosite:schoopia
 geosite:schwab
 geosite:sci
 geosite:sci-hub
@@ -1210,6 +1218,7 @@ geosite:taylorfrancis
 geosite:tcl
 geosite:teambition
 geosite:teamviewer
+geosite:technogym
 geosite:techpowerup
 geosite:techtimes
 geosite:ted
@@ -1354,6 +1363,7 @@ geosite:wholefoodsmarket
 geosite:wikidot
 geosite:wikihow
 geosite:wikimedia
+geosite:wildberries
 geosite:windy
 geosite:wink
 geosite:wise

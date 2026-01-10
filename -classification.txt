@@ -169,8 +169,11 @@ geosite:category-bank-jp
 geosite:category-ntp-jp
 
 * Category: ru
+geosite:category-ecommerce-ru
+geosite:category-entertainment-ru
 geosite:category-gov-ru
 geosite:category-media-ru
+geosite:category-retail-ru
 geosite:category-ru
 
 * Category: ipfs

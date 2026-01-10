@@ -57,6 +57,7 @@ geosite:category-dev-cn
 geosite:category-documents-cn
 geosite:category-doh
 geosite:category-ecommerce
+geosite:category-ecommerce-ru
 geosite:category-education-cn
 geosite:category-education-ir
 geosite:category-electronic-cn
@@ -65,6 +66,7 @@ geosite:category-enhance-gaming
 geosite:category-enterprise-query-platform-cn
 geosite:category-entertainment
 geosite:category-entertainment-cn
+geosite:category-entertainment-ru
 geosite:category-finance
 geosite:category-food-cn
 geosite:category-forums
@@ -103,9 +105,11 @@ geosite:category-outsource-cn
 geosite:category-password-management
 geosite:category-payment-ir
 geosite:category-porn
+geosite:category-proxy-tunnels
 geosite:category-pt
 geosite:category-public-tracker
 geosite:category-remote-control
+geosite:category-retail-ru
 geosite:category-ru
 geosite:category-scholar-!cn
 geosite:category-scholar-cn
