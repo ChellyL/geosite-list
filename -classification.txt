@@ -42,7 +42,6 @@ geosite:newrelic-ads
 geosite:ogury-ads
 geosite:ookla-speedtest-ads
 geosite:openx-ads
-geosite:picacg-ads
 geosite:pocoiq-ads
 geosite:pubmatic-ads
 geosite:qihoo360-ads
@@ -65,7 +64,6 @@ geosite:xiaomi-ads
 geosite:ximalaya-ads
 geosite:yahoo-ads
 geosite:youku-ads
-geosite:zhihu-ads
 geosite:zuoyebang-ads
 
 * Category: archive

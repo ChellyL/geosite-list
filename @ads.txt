@@ -1,11 +1,15 @@
 geosite:bing@ads
 geosite:category-httpdns-cn@ads
+geosite:cctv@ads
 geosite:disney@ads
 geosite:gamersky@ads
 geosite:hetzner@ads
 geosite:openai@ads
+geosite:picacg@ads
 geosite:pikpak@ads
 geosite:pixiv@ads
 geosite:samsung@ads
 geosite:snap@ads
+geosite:tendcloud@ads
 geosite:twitter@ads
+geosite:zhihu@ads

@@ -994,7 +994,6 @@ geosite:perplexity
 geosite:pgyer
 geosite:phoenix
 geosite:picacg
-geosite:picacg-ads
 geosite:picsee
 geosite:pikpak
 geosite:pinduoduo
@@ -1181,6 +1180,7 @@ geosite:startpage
 geosite:starworld
 geosite:staticfile
 geosite:steam
+geosite:steaminventoryhelper
 geosite:steamunlocked
 geosite:steemit
 geosite:sto-express
@@ -1441,7 +1441,6 @@ geosite:zendesk
 geosite:zeplin
 geosite:zhangtao
 geosite:zhihu
-geosite:zhihu-ads
 geosite:zhimeishe
 geosite:zhubajie
 geosite:ziroom
