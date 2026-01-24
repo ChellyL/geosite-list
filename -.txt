@@ -198,7 +198,6 @@ geosite:qihoo360-ads
 geosite:rsshub-3rd
 geosite:sci-hub
 geosite:segment-ads
-geosite:sensorsdata-ads
 geosite:sf-express
 geosite:sina-ads
 geosite:sohu-ads
@@ -230,6 +229,7 @@ geosite:whatsapp-ads
 geosite:xhamster-ads
 geosite:xiaomi-ads
 geosite:xiaomi-ai
+geosite:xiaomi-iot
 geosite:ximalaya-ads
 geosite:yahoo-ads
 geosite:youku-ads

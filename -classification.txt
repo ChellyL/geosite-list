@@ -46,7 +46,6 @@ geosite:pocoiq-ads
 geosite:pubmatic-ads
 geosite:qihoo360-ads
 geosite:segment-ads
-geosite:sensorsdata-ads
 geosite:sina-ads
 geosite:sohu-ads
 geosite:spotify-ads

@@ -52,7 +52,6 @@ geosite:gucci@cn
 geosite:hketgroup@cn
 geosite:hm@cn
 geosite:hp@cn
-geosite:huawei-dev@cn
 geosite:icloud@cn
 geosite:ifast@cn
 geosite:ikea@cn
@@ -60,9 +59,7 @@ geosite:intel@cn
 geosite:itunes@cn
 geosite:jetbrains@cn
 geosite:kaspersky@cn
-geosite:kechuang@cn
 geosite:kindle@cn
-geosite:kurogames@cn
 geosite:linkedin@cn
 geosite:lysol@cn
 geosite:mapbox@cn
@@ -106,7 +103,6 @@ geosite:strepsils@cn
 geosite:swift@cn
 geosite:synology@cn
 geosite:teamviewer@cn
-geosite:tencent-dev@cn
 geosite:tesla@cn
 geosite:test-ipv6@cn
 geosite:thetype@cn

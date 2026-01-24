@@ -56,7 +56,6 @@ geosite:gucci@cn
 geosite:hketgroup@cn
 geosite:hm@cn
 geosite:hp@cn
-geosite:huawei-dev@cn
 geosite:icloud@cn
 geosite:ifast@cn
 geosite:ikea@cn
@@ -64,9 +63,7 @@ geosite:intel@cn
 geosite:itunes@cn
 geosite:jetbrains@cn
 geosite:kaspersky@cn
-geosite:kechuang@cn
 geosite:kindle@cn
-geosite:kurogames@cn
 geosite:linkedin@cn
 geosite:lysol@cn
 geosite:mapbox@cn
@@ -110,7 +107,6 @@ geosite:strepsils@cn
 geosite:swift@cn
 geosite:synology@cn
 geosite:teamviewer@cn
-geosite:tencent-dev@cn
 geosite:tesla@cn
 geosite:test-ipv6@cn
 geosite:thetype@cn
@@ -188,7 +184,6 @@ geosite:pubmatic-ads@ads
 geosite:qihoo360-ads@ads
 geosite:samsung@ads
 geosite:segment-ads@ads
-geosite:sensorsdata-ads@ads
 geosite:sina-ads@ads
 geosite:snap@ads
 geosite:sohu-ads@ads
@@ -248,4 +243,12 @@ geosite:tencent@!cn
 geosite:tiktok@!cn
 geosite:vivo@!cn
 geosite:xiaomi@!cn
+
+*Category: -!cn
+geosite:category-bank-cn@-!cn
+geosite:category-dev-cn@-!cn
+geosite:category-entertainment-cn@-!cn
+geosite:category-games-cn@-!cn
+geosite:category-social-media-cn@-!cn
+geosite:geolocation-cn@-!cn
 
