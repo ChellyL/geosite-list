@@ -61,6 +61,7 @@ geosite:jetbrains@cn
 geosite:kaspersky@cn
 geosite:kindle@cn
 geosite:linkedin@cn
+geosite:louisvuitton@cn
 geosite:lysol@cn
 geosite:mapbox@cn
 geosite:mastercard@cn

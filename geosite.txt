@@ -559,6 +559,7 @@ geosite:gitbook
 geosite:gitee
 geosite:github
 geosite:github-ads
+geosite:github-copilot
 geosite:github1s
 geosite:gitlab
 geosite:gitv
@@ -586,6 +587,7 @@ geosite:gravatar
 geosite:greatfire
 geosite:gree
 geosite:groq
+geosite:growingio
 geosite:gucci
 geosite:guo
 geosite:guokr
@@ -802,6 +804,7 @@ geosite:localizejs
 geosite:logitech
 geosite:londonreal
 geosite:longbridge
+geosite:louisvuitton
 geosite:lowiro
 geosite:ltn
 geosite:lumion
@@ -815,6 +818,7 @@ geosite:mainichi
 geosite:manhuagui
 geosite:manorama
 geosite:manoto
+geosite:manus
 geosite:maocloud
 geosite:mapbox
 geosite:marvel
@@ -1043,6 +1047,7 @@ geosite:quip
 geosite:quora
 geosite:qwant
 geosite:qweather
+geosite:radiko
 geosite:rakuten
 geosite:rarbg
 geosite:razer

@@ -139,6 +139,7 @@ geosite:fqnovel-ads
 geosite:geolocation-!cn
 geosite:geolocation-cn
 geosite:github-ads
+geosite:github-copilot
 geosite:google-ads
 geosite:google-deepmind
 geosite:google-gemini
