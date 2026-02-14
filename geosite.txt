@@ -27,7 +27,6 @@ geosite:abema
 geosite:accuweather
 geosite:acer
 geosite:acfun
-geosite:acfun-ads
 geosite:acplay
 geosite:actalis
 geosite:adblock
@@ -39,7 +38,6 @@ geosite:adidas
 geosite:adjust
 geosite:adobe
 geosite:adobe-activation
-geosite:adobe-ads
 geosite:aerogard
 geosite:afdian
 geosite:afp
@@ -53,15 +51,12 @@ geosite:aixcoder
 geosite:akamai
 geosite:akiko
 geosite:alibaba
-geosite:alibaba-ads
 geosite:alibabacloud
 geosite:aliyun
 geosite:aliyun-drive
 geosite:aljazeera
 geosite:amap
-geosite:amap-ads
 geosite:amazon
-geosite:amazon-ads
 geosite:amazontrust
 geosite:amc
 geosite:amd
@@ -83,7 +78,6 @@ geosite:apkcombo
 geosite:apkmirror
 geosite:apkpure
 geosite:apple
-geosite:apple-ads
 geosite:apple-dev
 geosite:apple-intelligence
 geosite:apple-pki
@@ -108,6 +102,7 @@ geosite:att
 geosite:attwatchtv
 geosite:autodesk
 geosite:avaxhome
+geosite:aviasales
 geosite:avito
 geosite:avmoo
 geosite:awempire
@@ -117,7 +112,6 @@ geosite:azure
 geosite:b3log
 geosite:bahamut
 geosite:baidu
-geosite:baidu-ads
 geosite:baishancloud
 geosite:baltamatica
 geosite:bamtech
@@ -182,7 +176,6 @@ geosite:buymeacoffee
 geosite:buypass
 geosite:bybit
 geosite:bytedance
-geosite:bytedance-ads
 geosite:bytedance-ai-!cn
 geosite:c-span
 geosite:cabletv
@@ -394,6 +387,7 @@ geosite:dangdang
 geosite:dart
 geosite:dazn
 geosite:dcard
+geosite:ddmaicai
 geosite:debian
 geosite:decryptipastore
 geosite:dedao
@@ -424,7 +418,6 @@ geosite:dlercloud
 geosite:dlsite
 geosite:dmit
 geosite:dmm
-geosite:dmm-ads
 geosite:dmm-porn
 geosite:dnspod
 geosite:doc88
@@ -446,7 +439,6 @@ geosite:dslreports
 geosite:duckduckgo
 geosite:duitang
 geosite:duolingo
-geosite:duolingo-ads
 geosite:duowan
 geosite:durex
 geosite:duyaoss
@@ -490,7 +482,6 @@ geosite:everbright
 geosite:evernote
 geosite:f-droid
 geosite:facebook
-geosite:facebook-ads
 geosite:facebook-dev
 geosite:faceit
 geosite:falungong
@@ -530,7 +521,6 @@ geosite:forbes
 geosite:forza
 geosite:fox
 geosite:fqnovel
-geosite:fqnovel-ads
 geosite:framer
 geosite:freecodecamp
 geosite:freenode
@@ -538,6 +528,7 @@ geosite:ft
 geosite:ftv
 geosite:futu
 geosite:fzdm
+geosite:gaijin
 geosite:gamersky
 geosite:gandi
 geosite:ganji
@@ -558,7 +549,6 @@ geosite:gimy
 geosite:gitbook
 geosite:gitee
 geosite:github
-geosite:github-ads
 geosite:github-copilot
 geosite:github1s
 geosite:gitlab
@@ -572,7 +562,6 @@ geosite:gog
 geosite:golang
 geosite:goodreads
 geosite:google
-geosite:google-ads
 geosite:google-deepmind
 geosite:google-gemini
 geosite:google-play
@@ -583,6 +572,7 @@ geosite:google-trust-services
 geosite:googlefcm
 geosite:goproxy
 geosite:gracg
+geosite:grapheneos
 geosite:gravatar
 geosite:greatfire
 geosite:gree
@@ -603,6 +593,7 @@ geosite:haskell
 geosite:haveibeenpwned
 geosite:hbo
 geosite:hcaptcha
+geosite:hdrezka
 geosite:hentaichen
 geosite:hentaivn
 geosite:herogame
@@ -642,7 +633,6 @@ geosite:huggingface
 geosite:hujiang
 geosite:hulu
 geosite:hunantv
-geosite:hunantv-ads
 geosite:huobi
 geosite:hupu
 geosite:hupun
@@ -680,7 +670,6 @@ geosite:inoreader
 geosite:inshot
 geosite:insider
 geosite:instagram
-geosite:instagram-ads
 geosite:intel
 geosite:intel-dev
 geosite:intercom
@@ -689,7 +678,6 @@ geosite:intsig
 geosite:intuit
 geosite:ipip
 geosite:iqiyi
-geosite:iqiyi-ads
 geosite:isgd
 geosite:ishumei
 geosite:itchio
@@ -705,7 +693,6 @@ geosite:javcc
 geosite:javdb
 geosite:javwide
 geosite:jd
-geosite:jd-ads
 geosite:jetbrains
 geosite:jetbrains-ai
 geosite:jfrog
@@ -746,6 +733,7 @@ geosite:kkbox
 geosite:kktv
 geosite:knovel
 geosite:kodi
+geosite:kodik
 geosite:konachan
 geosite:koolearn
 geosite:kraken
@@ -753,13 +741,11 @@ geosite:ku6
 geosite:kuaidi100
 geosite:kuaikan
 geosite:kuaishou
-geosite:kuaishou-ads
 geosite:kuaiyikeji
 geosite:kubakuba
 geosite:kubernetes
 geosite:kucoin
 geosite:kugou
-geosite:kugou-ads
 geosite:kurogames
 geosite:kuwo
 geosite:kyodonews
@@ -778,7 +764,6 @@ geosite:le
 geosite:lenovo
 geosite:lethalhardcore
 geosite:letsencrypt
-geosite:letv-ads
 geosite:lg
 geosite:lianjia
 geosite:liberapay
@@ -839,18 +824,15 @@ geosite:meituan
 geosite:meizu
 geosite:messenger
 geosite:meta
-geosite:meta-ads
 geosite:metabrainz
 geosite:metacritic
 geosite:metart
 geosite:miaomiaozhe
 geosite:microsoft
-geosite:microsoft-ads
 geosite:microsoft-dev
 geosite:microsoft-pki
 geosite:midea
 geosite:mihoyo
-geosite:mihoyo-ads
 geosite:mihoyo-cn
 geosite:mikrotik
 geosite:mindgeek
@@ -900,7 +882,6 @@ geosite:nbcuniversal
 geosite:neowin
 geosite:netcup
 geosite:netease
-geosite:netease-ads
 geosite:netflav
 geosite:netflix
 geosite:netlify
@@ -950,7 +931,6 @@ geosite:onedrive
 geosite:onekey
 geosite:oneplus
 geosite:ookla-speedtest
-geosite:ookla-speedtest-ads
 geosite:op
 geosite:openai
 geosite:opencollective
@@ -1033,7 +1013,6 @@ geosite:python-community
 geosite:qcc
 geosite:qcloud
 geosite:qihoo360
-geosite:qihoo360-ads
 geosite:qimao
 geosite:qingcloud
 geosite:qingtingfm
@@ -1120,7 +1099,6 @@ geosite:shorturl
 geosite:showtimeanytime
 geosite:signal
 geosite:sina
-geosite:sina-ads
 geosite:singtaonewscorp
 geosite:sinopec
 geosite:sitepoint
@@ -1142,7 +1120,6 @@ geosite:softbank
 geosite:softether
 geosite:sogou
 geosite:sohu
-geosite:sohu-ads
 geosite:sony
 geosite:sonypictures
 geosite:soundcloud
@@ -1157,7 +1134,6 @@ geosite:spankbang
 geosite:speedtest
 geosite:spiceworks
 geosite:spotify
-geosite:spotify-ads
 geosite:springer
 geosite:squareup
 geosite:squirrelvpn
@@ -1203,6 +1179,7 @@ geosite:synology
 geosite:taboola
 geosite:taikang
 geosite:tailscale
+geosite:take-two
 geosite:talkatone
 geosite:taomee
 geosite:taptap
@@ -1217,10 +1194,8 @@ geosite:techtimes
 geosite:ted
 geosite:telegram
 geosite:telekom
-geosite:television-ads
 geosite:temp-mail
 geosite:tencent
-geosite:tencent-ads
 geosite:tencent-dev
 geosite:tencent-games
 geosite:tendcloud
@@ -1294,7 +1269,6 @@ geosite:udacity
 geosite:udemy
 geosite:udn
 geosite:umeng
-geosite:umeng-ads
 geosite:unionpay
 geosite:unity
 geosite:unitychina
@@ -1350,12 +1324,12 @@ geosite:weiphone
 geosite:wenshushu
 geosite:westerndigital
 geosite:whatsapp
-geosite:whatsapp-ads
 geosite:wholefoodsmarket
 geosite:wikidot
 geosite:wikihow
 geosite:wikimedia
 geosite:wildberries
+geosite:windsurf
 geosite:windy
 geosite:wink
 geosite:wise
@@ -1381,16 +1355,13 @@ geosite:xda
 geosite:xdty
 geosite:xedge
 geosite:xhamster
-geosite:xhamster-ads
 geosite:xiaoheihe
 geosite:xiaohongshu
 geosite:xiaomi
-geosite:xiaomi-ads
 geosite:xiaomi-ai
 geosite:xiaomi-iot
 geosite:xiaoyuzhou
 geosite:ximalaya
-geosite:ximalaya-ads
 geosite:xingkongwuxianmedia
 geosite:xingrz
 geosite:xnxx
@@ -1399,7 +1370,6 @@ geosite:xueqiu
 geosite:xunlei
 geosite:xvideos
 geosite:yahoo
-geosite:yahoo-ads
 geosite:yandex
 geosite:ycombinator
 geosite:ymtc
@@ -1409,7 +1379,6 @@ geosite:yokaverse
 geosite:yomiuri
 geosite:youjizz
 geosite:youku
-geosite:youku-ads
 geosite:youmind
 geosite:youporn
 geosite:youquan
@@ -1444,4 +1413,4 @@ geosite:zotero
 geosite:zte
 geosite:zto-express
 geosite:zuoyebang
-geosite:zuoyebang-ads
+geosite:zynga
