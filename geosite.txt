@@ -4,6 +4,7 @@ geosite:1337x
 geosite:17zuoye
 geosite:18comic
 geosite:2ch
+geosite:2gis
 geosite:2kgames
 geosite:36kr
 geosite:4399
@@ -44,6 +45,7 @@ geosite:afp
 geosite:agilebits
 geosite:agora
 geosite:aiqicha
+geosite:airbnb
 geosite:airchina
 geosite:airwick
 geosite:aisiku
@@ -66,6 +68,7 @@ geosite:anandtech
 geosite:android
 geosite:anexia
 geosite:anime
+geosite:anker
 geosite:annas-archive
 geosite:anon-v
 geosite:anthropic
@@ -205,6 +208,7 @@ geosite:category-bank-cn
 geosite:category-bank-ir
 geosite:category-bank-jp
 geosite:category-bank-mm
+geosite:category-bank-ru
 geosite:category-blog-cn
 geosite:category-bourse-ir
 geosite:category-browser-!cn
@@ -290,6 +294,7 @@ geosite:category-tech-ir
 geosite:category-tech-media
 geosite:category-tm
 geosite:category-travel-ir
+geosite:category-travel-ru
 geosite:category-voip
 geosite:category-vpnservices
 geosite:category-web-archive
@@ -728,6 +733,7 @@ geosite:kindle
 geosite:kindle4rss
 geosite:kingkonglive
 geosite:kingsoft
+geosite:kinopoisk
 geosite:kinopub
 geosite:kkbox
 geosite:kktv
@@ -1226,6 +1232,7 @@ geosite:tinyurl
 geosite:tld-!cn
 geosite:tld-cn
 geosite:tld-opennic
+geosite:tld-ru
 geosite:tmdb
 geosite:tmtpost
 geosite:tokyo-sports
@@ -1377,6 +1384,7 @@ geosite:ynet
 geosite:ynoproject
 geosite:yokaverse
 geosite:yomiuri
+geosite:yostar
 geosite:youjizz
 geosite:youku
 geosite:youmind
@@ -1410,6 +1418,7 @@ geosite:ziroom
 geosite:zoho
 geosite:zoom
 geosite:zotero
+geosite:zscaler
 geosite:zte
 geosite:zto-express
 geosite:zuoyebang

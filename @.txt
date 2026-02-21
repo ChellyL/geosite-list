@@ -125,6 +125,7 @@ geosite:westerndigital@cn
 geosite:woolite@cn
 geosite:xbox@cn
 geosite:yahoo@cn
+geosite:yostar@cn
 geosite:youtube@cn
 
 *Category: ads
@@ -186,6 +187,7 @@ geosite:zuoyebang@ads
 geosite:alibaba@!cn
 geosite:alibabacloud@!cn
 geosite:aliyun@!cn
+geosite:anker@!cn
 geosite:bilibili@!cn
 geosite:bilibili-cdn@!cn
 geosite:boc@!cn

@@ -28,6 +28,7 @@ geosite:category-bank-cn
 geosite:category-bank-ir
 geosite:category-bank-jp
 geosite:category-bank-mm
+geosite:category-bank-ru
 geosite:category-blog-cn
 geosite:category-bourse-ir
 geosite:category-browser-!cn
@@ -113,6 +114,7 @@ geosite:category-tech-ir
 geosite:category-tech-media
 geosite:category-tm
 geosite:category-travel-ir
+geosite:category-travel-ru
 geosite:category-voip
 geosite:category-vpnservices
 geosite:category-web-archive
@@ -165,6 +167,7 @@ geosite:test-ipv6
 geosite:tld-!cn
 geosite:tld-cn
 geosite:tld-opennic
+geosite:tld-ru
 geosite:tokyo-sports
 geosite:tokyo-toshokan
 geosite:truyen-hentai
