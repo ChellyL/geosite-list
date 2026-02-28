@@ -850,6 +850,7 @@ geosite:missav
 geosite:misskey
 geosite:misskey-universe
 geosite:mit
+geosite:mixi
 geosite:mobile01
 geosite:mocha
 geosite:modrinth
