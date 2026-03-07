@@ -295,6 +295,7 @@ geosite:category-tech-media
 geosite:category-tm
 geosite:category-travel-ir
 geosite:category-travel-ru
+geosite:category-urlshortner
 geosite:category-voip
 geosite:category-vpnservices
 geosite:category-web-archive
@@ -658,6 +659,7 @@ geosite:iflytek
 geosite:ihuman
 geosite:iina
 geosite:ikea
+geosite:illgames
 geosite:illusion
 geosite:illusion-nonofficial
 geosite:imagebam
@@ -993,6 +995,7 @@ geosite:pixnet
 geosite:playboy
 geosite:playcover
 geosite:playstation
+geosite:plex
 geosite:plutotv
 geosite:pocketcasts
 geosite:poe
