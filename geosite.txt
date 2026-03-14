@@ -426,8 +426,6 @@ geosite:dmit
 geosite:dmm
 geosite:dmm-porn
 geosite:dnspod
-geosite:doc88
-geosite:docin
 geosite:docker
 geosite:doi
 geosite:dola
@@ -739,7 +737,6 @@ geosite:kinopoisk
 geosite:kinopub
 geosite:kkbox
 geosite:kktv
-geosite:knovel
 geosite:kodi
 geosite:kodik
 geosite:konachan
@@ -911,7 +908,6 @@ geosite:nikke
 geosite:nikkei
 geosite:nintendo
 geosite:nist
-geosite:nixos
 geosite:nodejs
 geosite:nodeseek
 geosite:noip
@@ -956,7 +952,6 @@ geosite:oreilly
 geosite:organicmaps
 geosite:origin
 geosite:oschina
-geosite:osdn
 geosite:osu
 geosite:oup
 geosite:ozon
@@ -1019,7 +1014,6 @@ geosite:pubmatic
 geosite:pugpig
 geosite:purikonejp
 geosite:python
-geosite:python-community
 geosite:qcc
 geosite:qcloud
 geosite:qihoo360
@@ -1053,7 +1047,6 @@ geosite:redhat
 geosite:redis
 geosite:redotpay
 geosite:redtube
-geosite:remirepo
 geosite:renren
 geosite:reurl
 geosite:reuters
@@ -1244,7 +1237,6 @@ geosite:tokyo-toshokan
 geosite:tonec
 geosite:tongcheng
 geosite:tongfang
-geosite:topcoder
 geosite:tor
 geosite:torproject
 geosite:trackernetwork
@@ -1299,7 +1291,6 @@ geosite:verizon
 geosite:vgtime
 geosite:viber
 geosite:vilavpn
-geosite:vim
 geosite:vimeo
 geosite:visa
 geosite:visualarts

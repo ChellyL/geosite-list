@@ -153,7 +153,6 @@ geosite:mindgeek-porn
 geosite:misskey-universe
 geosite:nikkan-gendai
 geosite:ookla-speedtest
-geosite:python-community
 geosite:rsshub-3rd
 geosite:sci-hub
 geosite:sf-express

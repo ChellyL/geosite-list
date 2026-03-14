@@ -24,6 +24,7 @@ geosite:calgoncarbon@cn
 geosite:canon@cn
 geosite:category-enhance-gaming@cn
 geosite:category-game-platforms-download@cn
+geosite:category-ip-geo-detect@cn
 geosite:category-speedtest@cn
 geosite:cisco@cn
 geosite:clearasil@cn
