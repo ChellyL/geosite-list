@@ -1225,6 +1225,7 @@ geosite:tianyancha
 geosite:tidal
 geosite:tidelift
 geosite:tiktok
+geosite:tilda
 geosite:tinyurl
 geosite:tld-!cn
 geosite:tld-cn
