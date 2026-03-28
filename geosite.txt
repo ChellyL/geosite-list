@@ -940,6 +940,7 @@ geosite:op
 geosite:openai
 geosite:opencollective
 geosite:openjsfoundation
+geosite:openrec
 geosite:opensourceinsights
 geosite:openspeedtest
 geosite:openstreetmap
