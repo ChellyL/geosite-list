@@ -78,6 +78,7 @@ geosite:category-media
 geosite:category-media-cn
 geosite:category-media-ir
 geosite:category-media-ru
+geosite:category-medicine-ru
 geosite:category-mobile-repair
 geosite:category-mooc-cn
 geosite:category-netdisk-cn
@@ -130,6 +131,7 @@ geosite:facebook-dev
 geosite:geolocation-!cn
 geosite:geolocation-cn
 geosite:github-copilot
+geosite:gmo-internet
 geosite:google-deepmind
 geosite:google-gemini
 geosite:google-play

@@ -258,6 +258,7 @@ geosite:category-media
 geosite:category-media-cn
 geosite:category-media-ir
 geosite:category-media-ru
+geosite:category-medicine-ru
 geosite:category-mobile-repair
 geosite:category-mooc-cn
 geosite:category-netdisk-cn
@@ -559,7 +560,9 @@ geosite:gitlab
 geosite:gitv
 geosite:globalsign
 geosite:globalvoices
+geosite:globo
 geosite:glyphs
+geosite:gmo-internet
 geosite:godaddy
 geosite:gofundme
 geosite:gog
@@ -1317,6 +1320,7 @@ geosite:walmart
 geosite:wanfang
 geosite:wangsu
 geosite:wantmedia
+geosite:wargaming
 geosite:wasu
 geosite:watchout
 geosite:wbgames
