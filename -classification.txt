@@ -108,6 +108,7 @@ geosite:category-medicine-ru
 geosite:category-retail-ru
 geosite:category-ru
 geosite:category-travel-ru
+geosite:tbank-ru
 geosite:tld-ru
 
 * Category: ipfs

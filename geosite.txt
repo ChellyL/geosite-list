@@ -473,6 +473,7 @@ geosite:eneba
 geosite:enfa
 geosite:entermediadb
 geosite:entrust
+geosite:envato
 geosite:epicbrowser
 geosite:epicgames
 geosite:epochmediagroup
@@ -1076,6 +1077,7 @@ geosite:salesforce
 geosite:samsung
 geosite:sankei
 geosite:sb
+geosite:sber
 geosite:scala
 geosite:scaleflex
 geosite:scenesource
@@ -1192,6 +1194,7 @@ geosite:taomee
 geosite:taptap
 geosite:target
 geosite:taylorfrancis
+geosite:tbank-ru
 geosite:tcl
 geosite:teambition
 geosite:teamviewer

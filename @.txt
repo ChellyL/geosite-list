@@ -98,6 +98,7 @@ geosite:razer@cn
 geosite:rb@cn
 geosite:reabble@cn
 geosite:riot@cn
+geosite:sber@cn
 geosite:sectigo@cn
 geosite:shopee@cn
 geosite:sky@cn
@@ -180,6 +181,7 @@ geosite:unitychina@ads
 geosite:whatsapp@ads
 geosite:xhamster@ads
 geosite:ximalaya@ads
+geosite:yandex@ads
 geosite:youku@ads
 geosite:zhihu@ads
 geosite:zuoyebang@ads

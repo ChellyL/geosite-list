@@ -94,6 +94,7 @@ geosite:rb@cn
 geosite:reabble@cn
 geosite:riot@cn
 geosite:samsung@cn
+geosite:sber@cn
 geosite:sectigo@cn
 geosite:shopee@cn
 geosite:sky@cn

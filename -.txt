@@ -162,6 +162,7 @@ geosite:sto-express
 geosite:suruga-ya
 geosite:symantec-pki
 geosite:take-two
+geosite:tbank-ru
 geosite:temp-mail
 geosite:tencent-dev
 geosite:tencent-games

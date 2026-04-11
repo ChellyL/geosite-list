@@ -44,6 +44,7 @@ geosite:pikpak@ads
 geosite:pixiv@ads
 geosite:qihoo360@ads
 geosite:samsung@ads
+geosite:sber@ads
 geosite:segment@ads
 geosite:sina@ads
 geosite:snap@ads
@@ -66,6 +67,7 @@ geosite:xhamster@ads
 geosite:xiaomi@ads
 geosite:ximalaya@ads
 geosite:yahoo@ads
+geosite:yandex@ads
 geosite:youku@ads
 geosite:youtube@ads
 geosite:zhihu@ads
