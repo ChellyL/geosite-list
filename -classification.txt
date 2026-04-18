@@ -100,6 +100,7 @@ geosite:category-ntp-jp
 
 * Category: ru
 geosite:category-bank-ru
+geosite:category-betting-ru
 geosite:category-ecommerce-ru
 geosite:category-entertainment-ru
 geosite:category-gov-ru
@@ -108,8 +109,10 @@ geosite:category-medicine-ru
 geosite:category-retail-ru
 geosite:category-ru
 geosite:category-travel-ru
+geosite:myoffice-ru
 geosite:tbank-ru
 geosite:tld-ru
+geosite:ucoz-ru
 
 * Category: ipfs
 geosite:category-ipfs

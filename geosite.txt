@@ -125,10 +125,12 @@ geosite:barrons
 geosite:bbc
 geosite:bdsmhub
 geosite:beats
+geosite:beget
 geosite:beisen
 geosite:bestbuy
 geosite:bestore
 geosite:bestv
+geosite:betboom
 geosite:bethesda
 geosite:betterexplained
 geosite:bilibili
@@ -190,6 +192,7 @@ geosite:canon
 geosite:canonical
 geosite:canva
 geosite:capitalonline
+geosite:carrotquest
 geosite:cas
 geosite:casimages
 geosite:catchplay
@@ -209,6 +212,7 @@ geosite:category-bank-ir
 geosite:category-bank-jp
 geosite:category-bank-mm
 geosite:category-bank-ru
+geosite:category-betting-ru
 geosite:category-blog-cn
 geosite:category-bourse-ir
 geosite:category-browser-!cn
@@ -305,6 +309,7 @@ geosite:cavporn
 geosite:cbs
 geosite:ccb
 geosite:cctv
+geosite:cdek
 geosite:cdn77
 geosite:ceno
 geosite:cerebras
@@ -518,6 +523,7 @@ geosite:flibusta
 geosite:flickr
 geosite:flowus
 geosite:flutter
+geosite:fonbet
 geosite:fontawesome
 geosite:fontexplorer
 geosite:fonts
@@ -602,6 +608,7 @@ geosite:haveibeenpwned
 geosite:hbo
 geosite:hcaptcha
 geosite:hdrezka
+geosite:headhunter
 geosite:hentaichen
 geosite:hentaivn
 geosite:herogame
@@ -744,6 +751,7 @@ geosite:kktv
 geosite:kodi
 geosite:kodik
 geosite:konachan
+geosite:kontur
 geosite:koolearn
 geosite:kraken
 geosite:ku6
@@ -779,6 +787,7 @@ geosite:liberapay
 geosite:libgen
 geosite:liepin
 geosite:lifewire
+geosite:ligastavok
 geosite:lihkg
 geosite:limelight
 geosite:linakesi
@@ -805,6 +814,7 @@ geosite:lumion
 geosite:lysol
 geosite:madshi
 geosite:mafengwo
+geosite:magnit
 geosite:mailcom
 geosite:mailru
 geosite:mailru-group
@@ -844,6 +854,7 @@ geosite:midea
 geosite:mihoyo
 geosite:mihoyo-cn
 geosite:mikrotik
+geosite:mindbox
 geosite:mindgeek
 geosite:mindgeek-porn
 geosite:mini
@@ -877,9 +888,11 @@ geosite:mucinex
 geosite:mudvod
 geosite:muji
 geosite:musixmatch
+geosite:mvideo
 geosite:mxroute
 geosite:mydirtyhobby
 geosite:myfonts
+geosite:myoffice-ru
 geosite:myradio
 geosite:mytvsuper
 geosite:mzed
@@ -957,6 +970,7 @@ geosite:oreilly
 geosite:organicmaps
 geosite:origin
 geosite:oschina
+geosite:oskelly
 geosite:osu
 geosite:oup
 geosite:ozon
@@ -1008,6 +1022,7 @@ geosite:postimages
 geosite:pptv
 geosite:primevideo
 geosite:private
+geosite:progress
 geosite:projectpoi
 geosite:projectsekai
 geosite:proquest
@@ -1094,6 +1109,7 @@ geosite:sectigo
 geosite:segment
 geosite:segmentfault
 geosite:sehuatang
+geosite:selectel
 geosite:sentry
 geosite:setapp
 geosite:setn
@@ -1113,6 +1129,7 @@ geosite:sinopec
 geosite:sitepoint
 geosite:skillshare
 geosite:sky
+geosite:skyeng
 geosite:skyperfect
 geosite:slack
 geosite:slideshare
@@ -1129,6 +1146,7 @@ geosite:softbank
 geosite:softether
 geosite:sogou
 geosite:sohu
+geosite:sokolov
 geosite:sony
 geosite:sonypictures
 geosite:soundcloud
@@ -1233,6 +1251,7 @@ geosite:tidal
 geosite:tidelift
 geosite:tiktok
 geosite:tilda
+geosite:timeweb
 geosite:tinyurl
 geosite:tld-!cn
 geosite:tld-cn
@@ -1276,6 +1295,8 @@ geosite:ubuntu
 geosite:ubuntukylin
 geosite:uc
 geosite:ucloud
+geosite:ucoz
+geosite:ucoz-ru
 geosite:udacity
 geosite:udemy
 geosite:udn
@@ -1336,6 +1357,7 @@ geosite:wenshushu
 geosite:westerndigital
 geosite:whatsapp
 geosite:wholefoodsmarket
+geosite:whoosh
 geosite:wikidot
 geosite:wikihow
 geosite:wikimedia
@@ -1343,6 +1365,7 @@ geosite:wildberries
 geosite:windsurf
 geosite:windy
 geosite:wink
+geosite:winline
 geosite:wise
 geosite:wisekey
 geosite:wish

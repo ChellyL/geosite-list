@@ -29,6 +29,7 @@ geosite:category-bank-ir
 geosite:category-bank-jp
 geosite:category-bank-mm
 geosite:category-bank-ru
+geosite:category-betting-ru
 geosite:category-blog-cn
 geosite:category-bourse-ir
 geosite:category-browser-!cn
@@ -153,6 +154,7 @@ geosite:microsoft-pki
 geosite:mihoyo-cn
 geosite:mindgeek-porn
 geosite:misskey-universe
+geosite:myoffice-ru
 geosite:nikkan-gendai
 geosite:ookla-speedtest
 geosite:rsshub-3rd
@@ -174,6 +176,7 @@ geosite:tld-ru
 geosite:tokyo-sports
 geosite:tokyo-toshokan
 geosite:truyen-hentai
+geosite:ucoz-ru
 geosite:uu-chat
 geosite:verisign-pki
 geosite:xiaomi-ai

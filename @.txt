@@ -98,7 +98,6 @@ geosite:razer@cn
 geosite:rb@cn
 geosite:reabble@cn
 geosite:riot@cn
-geosite:sber@cn
 geosite:sectigo@cn
 geosite:shopee@cn
 geosite:sky@cn
@@ -136,6 +135,7 @@ geosite:adjust@ads
 geosite:amap@ads
 geosite:baidu@ads
 geosite:cainiao@ads
+geosite:carrotquest@ads
 geosite:category-ads@ads
 geosite:category-ads-all@ads
 geosite:category-httpdns-cn@ads
@@ -143,6 +143,7 @@ geosite:cctv@ads
 geosite:clearbit@ads
 geosite:disney@ads
 geosite:dmm@ads
+geosite:dzen@ads
 geosite:eleme@ads
 geosite:facebook@ads
 geosite:fqnovel@ads
@@ -152,18 +153,23 @@ geosite:hetzner@ads
 geosite:hoyoverse@ads
 geosite:hunantv@ads
 geosite:instagram@ads
+geosite:kontur@ads
 geosite:kuaishou@ads
 geosite:kugou@ads
 geosite:le@ads
+geosite:mailru-group@ads
+geosite:mindbox@ads
 geosite:ogury@ads
 geosite:ookla-speedtest@ads
 geosite:openai@ads
 geosite:openx@ads
+geosite:ozon@ads
 geosite:picacg@ads
 geosite:pikpak@ads
 geosite:pixiv@ads
 geosite:qihoo360@ads
 geosite:samsung@ads
+geosite:sber@ads
 geosite:segment@ads
 geosite:snap@ads
 geosite:sogou@ads
@@ -178,7 +184,10 @@ geosite:uc@ads
 geosite:umeng@ads
 geosite:unity@ads
 geosite:unitychina@ads
+geosite:vk@ads
 geosite:whatsapp@ads
+geosite:wildberries@ads
+geosite:x5@ads
 geosite:xhamster@ads
 geosite:ximalaya@ads
 geosite:yandex@ads
@@ -211,6 +220,7 @@ geosite:didi@!cn
 geosite:dola@!cn
 geosite:eastmoney@!cn
 geosite:googlefcm@!cn
+geosite:huawei@!cn
 geosite:huaweicloud@!cn
 geosite:icbc@!cn
 geosite:ipip@!cn

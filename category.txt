@@ -14,6 +14,7 @@ geosite:category-bank-ir
 geosite:category-bank-jp
 geosite:category-bank-mm
 geosite:category-bank-ru
+geosite:category-betting-ru
 geosite:category-blog-cn
 geosite:category-bourse-ir
 geosite:category-browser-!cn
