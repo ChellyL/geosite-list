@@ -79,6 +79,7 @@ geosite:category-media
 geosite:category-media-cn
 geosite:category-media-ir
 geosite:category-media-ru
+geosite:category-media-ru-blocked
 geosite:category-medicine-ru
 geosite:category-mobile-repair
 geosite:category-mooc-cn
@@ -129,8 +130,10 @@ geosite:connectivity-check
 geosite:dmm-porn
 geosite:f-droid
 geosite:facebook-dev
+geosite:genotek-ru
 geosite:geolocation-!cn
 geosite:geolocation-cn
+geosite:gismeteo-ru
 geosite:github-copilot
 geosite:gmo-internet
 geosite:google-deepmind
@@ -143,6 +146,7 @@ geosite:google-trust-services
 geosite:hinet-eca
 geosite:hsbc-cn
 geosite:huawei-dev
+geosite:ideco-ru
 geosite:illusion-nonofficial
 geosite:intel-dev
 geosite:internet-archive

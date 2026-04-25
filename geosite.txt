@@ -262,6 +262,7 @@ geosite:category-media
 geosite:category-media-cn
 geosite:category-media-ir
 geosite:category-media-ru
+geosite:category-media-ru-blocked
 geosite:category-medicine-ru
 geosite:category-mobile-repair
 geosite:category-mooc-cn
@@ -367,6 +368,7 @@ geosite:colorfulclouds
 geosite:comfy
 geosite:comfy-ui-launcher
 geosite:comodo
+geosite:comssone
 geosite:connectivity-check
 geosite:contentful
 geosite:coolapk
@@ -549,6 +551,7 @@ geosite:garena
 geosite:gateio
 geosite:geetest
 geosite:gemfury
+geosite:genotek-ru
 geosite:geolocation-!cn
 geosite:geolocation-cn
 geosite:gettyimages
@@ -558,6 +561,7 @@ geosite:ggsel
 geosite:giffgaff
 geosite:gigabyte
 geosite:gimy
+geosite:gismeteo-ru
 geosite:gitbook
 geosite:gitee
 geosite:github
@@ -659,6 +663,7 @@ geosite:icable
 geosite:icbc
 geosite:icloud
 geosite:icloudprivaterelay
+geosite:ideco-ru
 geosite:identrust
 geosite:idg
 geosite:ieee

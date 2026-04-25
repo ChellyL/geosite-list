@@ -64,6 +64,7 @@ geosite:category-media
 geosite:category-media-cn
 geosite:category-media-ir
 geosite:category-media-ru
+geosite:category-media-ru-blocked
 geosite:category-medicine-ru
 geosite:category-mobile-repair
 geosite:category-mooc-cn

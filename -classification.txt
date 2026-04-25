@@ -109,6 +109,9 @@ geosite:category-medicine-ru
 geosite:category-retail-ru
 geosite:category-ru
 geosite:category-travel-ru
+geosite:genotek-ru
+geosite:gismeteo-ru
+geosite:ideco-ru
 geosite:myoffice-ru
 geosite:tbank-ru
 geosite:tld-ru
