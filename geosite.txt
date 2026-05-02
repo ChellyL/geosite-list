@@ -1041,6 +1041,7 @@ geosite:purikonejp
 geosite:python
 geosite:qcc
 geosite:qcloud
+geosite:qianxin
 geosite:qihoo360
 geosite:qimao
 geosite:qingcloud
