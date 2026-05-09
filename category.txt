@@ -68,6 +68,7 @@ geosite:category-media-ru-blocked
 geosite:category-medicine-ru
 geosite:category-mobile-repair
 geosite:category-mooc-cn
+geosite:category-netdisk-!cn
 geosite:category-netdisk-cn
 geosite:category-network-security-cn
 geosite:category-news-ir

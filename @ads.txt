@@ -24,6 +24,7 @@ geosite:facebook@ads
 geosite:fqnovel@ads
 geosite:gamersky@ads
 geosite:github@ads
+geosite:github-copilot@ads
 geosite:google@ads
 geosite:hetzner@ads
 geosite:hoyoverse@ads
@@ -41,6 +42,7 @@ geosite:microsoft@ads
 geosite:mihoyo-cn@ads
 geosite:mindbox@ads
 geosite:msn@ads
+geosite:mts-ru@ads
 geosite:netease@ads
 geosite:ogury@ads
 geosite:ookla-speedtest@ads
@@ -51,6 +53,7 @@ geosite:picacg@ads
 geosite:pikpak@ads
 geosite:pixiv@ads
 geosite:qihoo360@ads
+geosite:rostelecom@ads
 geosite:samsung@ads
 geosite:sber@ads
 geosite:segment@ads

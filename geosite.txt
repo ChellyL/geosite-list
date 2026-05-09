@@ -266,6 +266,7 @@ geosite:category-media-ru-blocked
 geosite:category-medicine-ru
 geosite:category-mobile-repair
 geosite:category-mooc-cn
+geosite:category-netdisk-!cn
 geosite:category-netdisk-cn
 geosite:category-network-security-cn
 geosite:category-news-ir
@@ -481,6 +482,7 @@ geosite:enfa
 geosite:entermediadb
 geosite:entrust
 geosite:envato
+geosite:envybox
 geosite:epicbrowser
 geosite:epicgames
 geosite:epochmediagroup
@@ -561,7 +563,7 @@ geosite:ggsel
 geosite:giffgaff
 geosite:gigabyte
 geosite:gimy
-geosite:gismeteo-ru
+geosite:gismeteo
 geosite:gitbook
 geosite:gitee
 geosite:github
@@ -595,6 +597,7 @@ geosite:gravatar
 geosite:greatfire
 geosite:gree
 geosite:groq
+geosite:group-ib
 geosite:growingio
 geosite:gucci
 geosite:guo
@@ -842,6 +845,7 @@ geosite:mediachinesegroup
 geosite:medium
 geosite:meduza
 geosite:mega
+geosite:megafon
 geosite:meipian
 geosite:meitu
 geosite:meituan
@@ -888,6 +892,7 @@ geosite:moxing
 geosite:mozilla
 geosite:msi
 geosite:msn
+geosite:mts-ru
 geosite:mubi
 geosite:mucinex
 geosite:mudvod
@@ -1081,6 +1086,7 @@ geosite:riot
 geosite:roblox
 geosite:rockstar
 geosite:roku
+geosite:rostelecom
 geosite:rsshub
 geosite:rsshub-3rd
 geosite:rthk
@@ -1209,6 +1215,7 @@ geosite:sxl
 geosite:symantec
 geosite:symantec-pki
 geosite:synology
+geosite:t2-ru
 geosite:taboola
 geosite:taikang
 geosite:tailscale
@@ -1288,6 +1295,7 @@ geosite:tvb
 geosite:tvdb
 geosite:tver
 geosite:twca
+geosite:twilio
 geosite:twitch
 geosite:twitter
 geosite:typekit
