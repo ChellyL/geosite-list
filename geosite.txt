@@ -326,6 +326,7 @@ geosite:chegg
 geosite:chinabroadnet
 geosite:chinamobile
 geosite:chinanews
+geosite:chinapost
 geosite:chinapower
 geosite:chinaso
 geosite:chinatelecom
@@ -928,6 +929,7 @@ geosite:nexon
 geosite:nga
 geosite:nginx
 geosite:ngrok
+geosite:nicegram
 geosite:niconico
 geosite:nike
 geosite:nikkan-gendai
@@ -982,6 +984,7 @@ geosite:origin
 geosite:oschina
 geosite:oskelly
 geosite:osu
+geosite:otpbank
 geosite:oup
 geosite:ozon
 geosite:pagecdn
@@ -1062,6 +1065,7 @@ geosite:quora
 geosite:qwant
 geosite:qweather
 geosite:radiko
+geosite:raiffeisenbank
 geosite:rakuten
 geosite:rarbg
 geosite:razer
@@ -1310,7 +1314,6 @@ geosite:ubuntukylin
 geosite:uc
 geosite:ucloud
 geosite:ucoz
-geosite:ucoz-ru
 geosite:udacity
 geosite:udemy
 geosite:udn

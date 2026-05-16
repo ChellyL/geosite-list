@@ -22,6 +22,7 @@ geosite:booking@cn
 geosite:bridgestone@cn
 geosite:calgoncarbon@cn
 geosite:canon@cn
+geosite:category-companies@cn
 geosite:category-enhance-gaming@cn
 geosite:category-game-platforms-download@cn
 geosite:category-ip-geo-detect@cn

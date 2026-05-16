@@ -183,7 +183,6 @@ geosite:tld-ru
 geosite:tokyo-sports
 geosite:tokyo-toshokan
 geosite:truyen-hentai
-geosite:ucoz-ru
 geosite:uu-chat
 geosite:verisign-pki
 geosite:xiaomi-ai

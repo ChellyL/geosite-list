@@ -11,6 +11,7 @@ geosite:bing@ads
 geosite:bytedance@ads
 geosite:cainiao@ads
 geosite:carrotquest@ads
+geosite:category-food-cn@ads
 geosite:category-httpdns-cn@ads
 geosite:category-ru@ads
 geosite:cctv@ads
@@ -44,6 +45,7 @@ geosite:mindbox@ads
 geosite:msn@ads
 geosite:mts-ru@ads
 geosite:netease@ads
+geosite:nicegram@ads
 geosite:ogury@ads
 geosite:ookla-speedtest@ads
 geosite:openai@ads
