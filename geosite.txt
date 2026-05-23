@@ -297,6 +297,7 @@ geosite:category-social-media-!cn
 geosite:category-social-media-cn
 geosite:category-social-media-ir
 geosite:category-speedtest
+geosite:category-stun
 geosite:category-tech-ir
 geosite:category-tech-media
 geosite:category-tm
@@ -760,6 +761,7 @@ geosite:kktv
 geosite:kodi
 geosite:kodik
 geosite:konachan
+geosite:konami
 geosite:kontur
 geosite:koolearn
 geosite:kraken
@@ -1232,6 +1234,7 @@ geosite:taylorfrancis
 geosite:tbank-ru
 geosite:tcl
 geosite:teambition
+geosite:teamspeak
 geosite:teamviewer
 geosite:technogym
 geosite:techpowerup

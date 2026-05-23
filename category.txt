@@ -99,6 +99,7 @@ geosite:category-social-media-!cn
 geosite:category-social-media-cn
 geosite:category-social-media-ir
 geosite:category-speedtest
+geosite:category-stun
 geosite:category-tech-ir
 geosite:category-tech-media
 geosite:category-tm
