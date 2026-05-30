@@ -163,6 +163,7 @@ geosite:kugou@ads
 geosite:le@ads
 geosite:mailru-group@ads
 geosite:mindbox@ads
+geosite:mozilla@ads
 geosite:mts-ru@ads
 geosite:nicegram@ads
 geosite:ogury@ads

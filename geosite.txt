@@ -890,6 +890,7 @@ geosite:moonvy
 geosite:morisawa
 geosite:mortein
 geosite:mosmetro
+geosite:motorola
 geosite:movefree
 geosite:moxing
 geosite:mozilla
@@ -1324,6 +1325,7 @@ geosite:umeng
 geosite:unionpay
 geosite:unity
 geosite:unitychina
+geosite:uoliv
 geosite:upai
 geosite:usersdrive
 geosite:uu-chat
