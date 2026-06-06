@@ -6,6 +6,7 @@ geosite:aliyun@ads
 geosite:amap@ads
 geosite:amazon@ads
 geosite:apple@ads
+geosite:avito@ads
 geosite:baidu@ads
 geosite:bing@ads
 geosite:bytedance@ads
@@ -69,6 +70,7 @@ geosite:supersonic@ads
 geosite:tcl@ads
 geosite:tencent@ads
 geosite:tencent-dev@ads
+geosite:tencent-tme@ads
 geosite:tendcloud@ads
 geosite:tiktok@ads
 geosite:twitter@ads

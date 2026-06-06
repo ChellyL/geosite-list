@@ -19,7 +19,6 @@ geosite:7tv
 geosite:800best
 geosite:8btc
 geosite:928plus
-geosite:9game
 geosite:9news
 geosite:9to5
 geosite:aamgame
@@ -54,9 +53,11 @@ geosite:akamai
 geosite:akiko
 geosite:alibaba
 geosite:alibabacloud
+geosite:aligames
 geosite:aliyun
 geosite:aliyun-drive
 geosite:aljazeera
+geosite:alphabet
 geosite:amap
 geosite:amazon
 geosite:amazontrust
@@ -627,6 +628,7 @@ geosite:heyzo
 geosite:hikvision
 geosite:hinet
 geosite:hinet-eca
+geosite:hisense
 geosite:hitun
 geosite:hkbn
 geosite:hkedcity
@@ -1093,9 +1095,11 @@ geosite:riot
 geosite:roblox
 geosite:rockstar
 geosite:roku
+geosite:rossiyasegodnya
 geosite:rostelecom
 geosite:rsshub
 geosite:rsshub-3rd
+geosite:rt
 geosite:rthk
 geosite:ruanmei
 geosite:ruby
@@ -1141,6 +1145,7 @@ geosite:shopee
 geosite:shopify
 geosite:shorturl
 geosite:showtimeanytime
+geosite:shuqi
 geosite:signal
 geosite:sina
 geosite:singtaonewscorp
@@ -1247,6 +1252,7 @@ geosite:temp-mail
 geosite:tencent
 geosite:tencent-dev
 geosite:tencent-games
+geosite:tencent-tme
 geosite:tendcloud
 geosite:terabox
 geosite:termux

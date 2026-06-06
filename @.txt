@@ -135,6 +135,7 @@ geosite:youtube@cn
 geosite:acfun@ads
 geosite:adjust@ads
 geosite:amap@ads
+geosite:avito@ads
 geosite:baidu@ads
 geosite:cainiao@ads
 geosite:carrotquest@ads
@@ -186,6 +187,7 @@ geosite:spotify@ads
 geosite:supersonic@ads
 geosite:tcl@ads
 geosite:tencent-dev@ads
+geosite:tencent-tme@ads
 geosite:tendcloud@ads
 geosite:twitter@ads
 geosite:uc@ads
@@ -199,7 +201,6 @@ geosite:x5@ads
 geosite:xhamster@ads
 geosite:ximalaya@ads
 geosite:yandex@ads
-geosite:youku@ads
 geosite:zhihu@ads
 geosite:zuoyebang@ads
 
@@ -246,6 +247,7 @@ geosite:vivo@!cn
 geosite:webnovel@!cn
 geosite:xiaohongshu@!cn
 geosite:xiaomi@!cn
+geosite:youku@!cn
 
 *Category: -!cn
 geosite:category-bank-cn@-!cn

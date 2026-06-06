@@ -176,6 +176,7 @@ geosite:tbank-ru
 geosite:temp-mail
 geosite:tencent-dev
 geosite:tencent-games
+geosite:tencent-tme
 geosite:test-ipv6
 geosite:tld-!cn
 geosite:tld-cn
