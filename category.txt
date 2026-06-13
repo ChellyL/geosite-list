@@ -91,6 +91,7 @@ geosite:category-retail-ru
 geosite:category-ru
 geosite:category-scholar-!cn
 geosite:category-scholar-cn
+geosite:category-scholar-hk
 geosite:category-scholar-ir
 geosite:category-scholar-uk
 geosite:category-securities-cn

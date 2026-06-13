@@ -34,6 +34,7 @@ geosite:category-speedtest@cn
 geosite:cisco@cn
 geosite:clearasil@cn
 geosite:cloudflare-cn@cn
+geosite:connectivity-check@cn
 geosite:dell@cn
 geosite:dettol@cn
 geosite:digicert@cn
@@ -235,6 +236,7 @@ geosite:icbc@!cn
 geosite:ipip@!cn
 geosite:iqiyi@!cn
 geosite:jd@!cn
+geosite:kurogames@!cn
 geosite:netease@!cn
 geosite:oneplus@!cn
 geosite:pingan@!cn

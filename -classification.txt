@@ -131,6 +131,10 @@ geosite:category-porn
 geosite:dmm-porn
 geosite:mindgeek-porn
 
+* Category: hk
+geosite:category-scholar-hk
+geosite:cityu-hk
+
 * Category: speedtest
 geosite:category-speedtest
 geosite:ookla-speedtest

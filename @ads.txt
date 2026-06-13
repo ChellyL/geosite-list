@@ -38,6 +38,7 @@ geosite:jd@ads
 geosite:kontur@ads
 geosite:kuaishou@ads
 geosite:kugou@ads
+geosite:kurogames@ads
 geosite:le@ads
 geosite:mailru-group@ads
 geosite:microsoft@ads

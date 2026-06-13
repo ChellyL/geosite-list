@@ -106,6 +106,7 @@ geosite:category-retail-ru
 geosite:category-ru
 geosite:category-scholar-!cn
 geosite:category-scholar-cn
+geosite:category-scholar-hk
 geosite:category-scholar-ir
 geosite:category-scholar-uk
 geosite:category-securities-cn
@@ -125,6 +126,7 @@ geosite:category-voip
 geosite:category-vpnservices
 geosite:category-web-archive
 geosite:category-wiki-cn
+geosite:cityu-hk
 geosite:cloudflare-cn
 geosite:cloudflare-ipfs
 geosite:comfy-ui-launcher

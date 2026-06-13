@@ -290,6 +290,7 @@ geosite:category-retail-ru
 geosite:category-ru
 geosite:category-scholar-!cn
 geosite:category-scholar-cn
+geosite:category-scholar-hk
 geosite:category-scholar-ir
 geosite:category-scholar-uk
 geosite:category-securities-cn
@@ -338,6 +339,7 @@ geosite:chinaz
 geosite:cisco
 geosite:citic
 geosite:citizenlab
+geosite:cityu-hk
 geosite:ciweimao
 geosite:ck101
 geosite:clarivate
@@ -391,6 +393,7 @@ geosite:csis
 geosite:ctexcel
 geosite:ctrip
 geosite:ctyun
+geosite:cuhk
 geosite:cuinc
 geosite:curseforge
 geosite:cursor
@@ -426,6 +429,7 @@ geosite:digitalplayground
 geosite:dingdatech
 geosite:dingtalk
 geosite:discord
+geosite:discourse
 geosite:discoveryplus
 geosite:discuz
 geosite:disney
@@ -469,6 +473,7 @@ geosite:easylist
 geosite:ebay
 geosite:ebuyer
 geosite:economist
+geosite:eduhk
 geosite:edx
 geosite:egghead
 geosite:ehentai
@@ -549,6 +554,7 @@ geosite:futu
 geosite:fzdm
 geosite:gaijin
 geosite:gamersky
+geosite:gamesplanet
 geosite:gandi
 geosite:ganji
 geosite:gannett
@@ -631,11 +637,14 @@ geosite:hinet-eca
 geosite:hisense
 geosite:hitun
 geosite:hkbn
+geosite:hkbu
 geosite:hkedcity
 geosite:hketgroup
 geosite:hkgolden
 geosite:hkopentv
 geosite:hkt
+geosite:hku
+geosite:hkust
 geosite:hm
 geosite:homebrew
 geosite:homedepot
@@ -658,6 +667,7 @@ geosite:hugecore
 geosite:huggingface
 geosite:hujiang
 geosite:hulu
+geosite:humblebundle
 geosite:hunantv
 geosite:huobi
 geosite:hupu
@@ -801,6 +811,7 @@ geosite:libgen
 geosite:liepin
 geosite:lifewire
 geosite:ligastavok
+geosite:lighter
 geosite:lihkg
 geosite:limelight
 geosite:linakesi
@@ -812,6 +823,7 @@ geosite:linux
 geosite:linuxdo
 geosite:lisiku
 geosite:litv
+geosite:livejournal
 geosite:liveperson
 geosite:lizhi
 geosite:lkcoffee
@@ -934,6 +946,7 @@ geosite:nexon
 geosite:nga
 geosite:nginx
 geosite:ngrok
+geosite:nhk
 geosite:nicegram
 geosite:niconico
 geosite:nike
@@ -1033,6 +1046,7 @@ geosite:pocketcasts
 geosite:poe
 geosite:polocloud
 geosite:polymer
+geosite:polyu
 geosite:polyv
 geosite:pornhub
 geosite:pornpros
@@ -1328,6 +1342,7 @@ geosite:udacity
 geosite:udemy
 geosite:udn
 geosite:umeng
+geosite:unext
 geosite:unionpay
 geosite:unity
 geosite:unitychina
@@ -1427,6 +1442,7 @@ geosite:ximalaya
 geosite:xingkongwuxianmedia
 geosite:xingrz
 geosite:xnxx
+geosite:xtom
 geosite:xueersi
 geosite:xueqiu
 geosite:xunlei
