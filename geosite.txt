@@ -223,6 +223,7 @@ geosite:category-cdn-cn
 geosite:category-collaborate-cn
 geosite:category-communication
 geosite:category-companies
+geosite:category-consent-management
 geosite:category-container
 geosite:category-cryptocurrency
 geosite:category-ddns
@@ -947,6 +948,7 @@ geosite:nga
 geosite:nginx
 geosite:ngrok
 geosite:nhk
+geosite:nic-ru
 geosite:nicegram
 geosite:niconico
 geosite:nike
@@ -1101,6 +1103,7 @@ geosite:redhat
 geosite:redis
 geosite:redotpay
 geosite:redtube
+geosite:regru
 geosite:renren
 geosite:reurl
 geosite:reuters
@@ -1124,6 +1127,7 @@ geosite:rust
 geosite:ruten
 geosite:rutracker
 geosite:rutube
+geosite:safepal
 geosite:sakurafrp
 geosite:salesforce
 geosite:samsung
@@ -1243,6 +1247,7 @@ geosite:symantec-pki
 geosite:synology
 geosite:t2-ru
 geosite:taboola
+geosite:taihe
 geosite:taikang
 geosite:tailscale
 geosite:take-two

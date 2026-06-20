@@ -114,9 +114,14 @@ geosite:genotek-ru
 geosite:ideco-ru
 geosite:mts-ru
 geosite:myoffice-ru
+geosite:nic-ru
 geosite:t2-ru
 geosite:tbank-ru
 geosite:tld-ru
+
+* Category: management
+geosite:category-consent-management
+geosite:category-password-management
 
 * Category: ipfs
 geosite:category-ipfs

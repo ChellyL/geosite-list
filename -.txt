@@ -39,6 +39,7 @@ geosite:category-cdn-cn
 geosite:category-collaborate-cn
 geosite:category-communication
 geosite:category-companies
+geosite:category-consent-management
 geosite:category-container
 geosite:category-cryptocurrency
 geosite:category-ddns
@@ -164,6 +165,7 @@ geosite:mindgeek-porn
 geosite:misskey-universe
 geosite:mts-ru
 geosite:myoffice-ru
+geosite:nic-ru
 geosite:nikkan-gendai
 geosite:ookla-speedtest
 geosite:rsshub-3rd

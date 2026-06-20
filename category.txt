@@ -24,6 +24,7 @@ geosite:category-cdn-cn
 geosite:category-collaborate-cn
 geosite:category-communication
 geosite:category-companies
+geosite:category-consent-management
 geosite:category-container
 geosite:category-cryptocurrency
 geosite:category-ddns
