@@ -4,6 +4,7 @@ geosite:adobe@cn
 geosite:aerogard@cn
 geosite:airwick@cn
 geosite:akamai@cn
+geosite:alibabacloud@cn
 geosite:amazon@cn
 geosite:amd@cn
 geosite:amp@cn
@@ -71,7 +72,6 @@ geosite:mcdonalds@cn
 geosite:meadjohnson@cn
 geosite:microsoft@cn
 geosite:microsoft-dev@cn
-geosite:microsoft-pki@cn
 geosite:miniso@cn
 geosite:mortein@cn
 geosite:movefree@cn

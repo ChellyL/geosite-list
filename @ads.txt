@@ -27,6 +27,7 @@ geosite:fqnovel@ads
 geosite:gamersky@ads
 geosite:github@ads
 geosite:github-copilot@ads
+geosite:gog@ads
 geosite:google@ads
 geosite:hetzner@ads
 geosite:hoyoverse@ads

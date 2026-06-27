@@ -76,7 +76,6 @@ geosite:mcdonalds@cn
 geosite:meadjohnson@cn
 geosite:microsoft@cn
 geosite:microsoft-dev@cn
-geosite:microsoft-pki@cn
 geosite:mihoyo-cn@cn
 geosite:miniso@cn
 geosite:mortein@cn
@@ -100,6 +99,7 @@ geosite:razer@cn
 geosite:rb@cn
 geosite:reabble@cn
 geosite:riot@cn
+geosite:samsung@cn
 geosite:sectigo@cn
 geosite:shopee@cn
 geosite:sky@cn
@@ -177,7 +177,6 @@ geosite:pikpak@ads
 geosite:pixiv@ads
 geosite:qihoo360@ads
 geosite:rostelecom@ads
-geosite:samsung@ads
 geosite:sber@ads
 geosite:segment@ads
 geosite:snap@ads
