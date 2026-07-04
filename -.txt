@@ -168,6 +168,7 @@ geosite:myoffice-ru
 geosite:nic-ru
 geosite:nikkan-gendai
 geosite:ookla-speedtest
+geosite:positive-technologies
 geosite:rsshub-3rd
 geosite:sci-hub
 geosite:sf-express

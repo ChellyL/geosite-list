@@ -1053,6 +1053,7 @@ geosite:polyu
 geosite:polyv
 geosite:pornhub
 geosite:pornpros
+geosite:positive-technologies
 geosite:postimages
 geosite:pptv
 geosite:primevideo
@@ -1153,6 +1154,7 @@ geosite:segmentfault
 geosite:sehuatang
 geosite:selectel
 geosite:sentry
+geosite:servicepipe
 geosite:setapp
 geosite:setn
 geosite:sf-express
