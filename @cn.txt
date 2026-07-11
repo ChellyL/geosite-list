@@ -10,7 +10,9 @@ geosite:amd@cn
 geosite:amp@cn
 geosite:apple@cn
 geosite:apple-dev@cn
+geosite:apple-music@cn
 geosite:apple-pki@cn
+geosite:apple-podcasts@cn
 geosite:asus@cn
 geosite:att@cn
 geosite:azure@cn

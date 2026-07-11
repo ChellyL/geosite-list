@@ -4,7 +4,9 @@ geosite:annas-archive
 geosite:anon-v
 geosite:apple-dev
 geosite:apple-intelligence
+geosite:apple-music
 geosite:apple-pki
+geosite:apple-podcasts
 geosite:apple-tvplus
 geosite:apple-update
 geosite:aws-cn
@@ -20,6 +22,7 @@ geosite:category-ads-ir
 geosite:category-ai-!cn
 geosite:category-ai-chat-!cn
 geosite:category-ai-cn
+geosite:category-ai-ru
 geosite:category-android-app-download
 geosite:category-anticensorship
 geosite:category-antivirus

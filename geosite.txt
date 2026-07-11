@@ -83,7 +83,9 @@ geosite:apkpure
 geosite:apple
 geosite:apple-dev
 geosite:apple-intelligence
+geosite:apple-music
 geosite:apple-pki
+geosite:apple-podcasts
 geosite:apple-tvplus
 geosite:apple-update
 geosite:appledaily
@@ -104,6 +106,7 @@ geosite:atlassian
 geosite:att
 geosite:attwatchtv
 geosite:autodesk
+geosite:aux
 geosite:avaxhome
 geosite:aviasales
 geosite:avito
@@ -128,6 +131,7 @@ geosite:beats
 geosite:beget
 geosite:beisen
 geosite:bestbuy
+geosite:bestchange
 geosite:bestore
 geosite:bestv
 geosite:betboom
@@ -203,6 +207,7 @@ geosite:category-ads-ir
 geosite:category-ai-!cn
 geosite:category-ai-chat-!cn
 geosite:category-ai-cn
+geosite:category-ai-ru
 geosite:category-android-app-download
 geosite:category-anticensorship
 geosite:category-antivirus
@@ -321,6 +326,7 @@ geosite:cerebras
 geosite:cern
 geosite:certinomis
 geosite:certum
+geosite:changyou
 geosite:chaoxing
 geosite:chatango
 geosite:chatwhores
@@ -535,6 +541,7 @@ geosite:flatpak
 geosite:flibusta
 geosite:flickr
 geosite:flowus
+geosite:flowwow
 geosite:flutter
 geosite:fonbet
 geosite:fontawesome
@@ -551,6 +558,7 @@ geosite:freecodecamp
 geosite:freenode
 geosite:ft
 geosite:ftv
+geosite:funpay
 geosite:futu
 geosite:fzdm
 geosite:gaijin
@@ -1014,6 +1022,7 @@ geosite:paofuyun
 geosite:paskoocheh
 geosite:pastebin
 geosite:patreon
+geosite:pawchive
 geosite:paypal
 geosite:pbs
 geosite:pccw

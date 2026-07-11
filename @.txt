@@ -10,7 +10,9 @@ geosite:amd@cn
 geosite:amp@cn
 geosite:apple@cn
 geosite:apple-dev@cn
+geosite:apple-music@cn
 geosite:apple-pki@cn
+geosite:apple-podcasts@cn
 geosite:asus@cn
 geosite:att@cn
 geosite:aws-cn@cn
@@ -208,6 +210,7 @@ geosite:alibaba@!cn
 geosite:alibabacloud@!cn
 geosite:aliyun@!cn
 geosite:anker@!cn
+geosite:aux@!cn
 geosite:bilibili@!cn
 geosite:bilibili-cdn@!cn
 geosite:boc@!cn

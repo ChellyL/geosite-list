@@ -91,15 +91,8 @@ geosite:category-social-media-ir
 geosite:category-tech-ir
 geosite:category-travel-ir
 
-* Category: download
-geosite:category-android-app-download
-geosite:category-game-platforms-download
-
-* Category: jp
-geosite:category-bank-jp
-geosite:category-ntp-jp
-
 * Category: ru
+geosite:category-ai-ru
 geosite:category-bank-ru
 geosite:category-betting-ru
 geosite:category-ecommerce-ru
@@ -118,6 +111,14 @@ geosite:nic-ru
 geosite:t2-ru
 geosite:tbank-ru
 geosite:tld-ru
+
+* Category: download
+geosite:category-android-app-download
+geosite:category-game-platforms-download
+
+* Category: jp
+geosite:category-bank-jp
+geosite:category-ntp-jp
 
 * Category: management
 geosite:category-consent-management
