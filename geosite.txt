@@ -106,7 +106,7 @@ geosite:atlassian
 geosite:att
 geosite:attwatchtv
 geosite:autodesk
-geosite:aux
+geosite:auxgroup
 geosite:avaxhome
 geosite:aviasales
 geosite:avito
@@ -771,6 +771,7 @@ geosite:kemono
 geosite:kernel
 geosite:keybase
 geosite:khanacademy
+geosite:kick
 geosite:kindle
 geosite:kindle4rss
 geosite:kingkonglive
@@ -822,6 +823,7 @@ geosite:lifewire
 geosite:ligastavok
 geosite:lighter
 geosite:lihkg
+geosite:likee
 geosite:limelight
 geosite:linakesi
 geosite:line

@@ -45,6 +45,7 @@ geosite:mailru-group@ads
 geosite:microsoft@ads
 geosite:mihoyo-cn@ads
 geosite:mindbox@ads
+geosite:moji@ads
 geosite:mozilla@ads
 geosite:msn@ads
 geosite:mts-ru@ads

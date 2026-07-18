@@ -166,6 +166,7 @@ geosite:kugou@ads
 geosite:le@ads
 geosite:mailru-group@ads
 geosite:mindbox@ads
+geosite:moji@ads
 geosite:mozilla@ads
 geosite:mts-ru@ads
 geosite:nicegram@ads
@@ -210,7 +211,7 @@ geosite:alibaba@!cn
 geosite:alibabacloud@!cn
 geosite:aliyun@!cn
 geosite:anker@!cn
-geosite:aux@!cn
+geosite:auxgroup@!cn
 geosite:bilibili@!cn
 geosite:bilibili-cdn@!cn
 geosite:boc@!cn
@@ -230,6 +231,8 @@ geosite:dewu@!cn
 geosite:didi@!cn
 geosite:dola@!cn
 geosite:eastmoney@!cn
+geosite:espressif@!cn
+geosite:geolocation-!cn@!cn
 geosite:googlefcm@!cn
 geosite:huawei@!cn
 geosite:huaweicloud@!cn
@@ -255,6 +258,7 @@ geosite:youku@!cn
 *Category: -!cn
 geosite:category-bank-cn@-!cn
 geosite:category-dev-cn@-!cn
+geosite:category-electronic-cn@-!cn
 geosite:category-entertainment-cn@-!cn
 geosite:category-games-cn@-!cn
 geosite:category-social-media-cn@-!cn
