@@ -550,6 +550,7 @@ geosite:fonts
 geosite:fontshop
 geosite:fontsinuse
 geosite:forbes
+geosite:formula1
 geosite:forza
 geosite:fox
 geosite:fqnovel
@@ -1117,6 +1118,7 @@ geosite:redis
 geosite:redotpay
 geosite:redtube
 geosite:regru
+geosite:remnawave
 geosite:renren
 geosite:reurl
 geosite:reuters
@@ -1392,6 +1394,7 @@ geosite:vk
 geosite:vmware
 geosite:voanews
 geosite:vodafone
+geosite:vokino
 geosite:volcengine
 geosite:volmoe
 geosite:volvo
