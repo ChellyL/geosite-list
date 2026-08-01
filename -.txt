@@ -54,6 +54,7 @@ geosite:category-ecommerce
 geosite:category-ecommerce-ru
 geosite:category-education-cn
 geosite:category-education-ir
+geosite:category-education-ru
 geosite:category-electronic-cn
 geosite:category-emby
 geosite:category-enhance-gaming
@@ -65,6 +66,7 @@ geosite:category-finance
 geosite:category-food-cn
 geosite:category-forums
 geosite:category-forums-ir
+geosite:category-forums-ru
 geosite:category-game-accelerator-cn
 geosite:category-game-platforms-download
 geosite:category-games
@@ -122,6 +124,7 @@ geosite:category-speedtest
 geosite:category-stun
 geosite:category-tech-ir
 geosite:category-tech-media
+geosite:category-tech-media-ru
 geosite:category-tm
 geosite:category-travel-ir
 geosite:category-travel-ru
@@ -171,6 +174,7 @@ geosite:myoffice-ru
 geosite:nic-ru
 geosite:nikkan-gendai
 geosite:ookla-speedtest
+geosite:overclockers-ru
 geosite:positive-technologies
 geosite:rsshub-3rd
 geosite:sci-hub

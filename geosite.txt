@@ -9,6 +9,7 @@ geosite:2kgames
 geosite:36kr
 geosite:4399
 geosite:4chan
+geosite:4pda
 geosite:4plebs
 geosite:51job
 geosite:54647
@@ -106,6 +107,7 @@ geosite:atlassian
 geosite:att
 geosite:attwatchtv
 geosite:autodesk
+geosite:autoru
 geosite:auxgroup
 geosite:avaxhome
 geosite:aviasales
@@ -239,6 +241,7 @@ geosite:category-ecommerce
 geosite:category-ecommerce-ru
 geosite:category-education-cn
 geosite:category-education-ir
+geosite:category-education-ru
 geosite:category-electronic-cn
 geosite:category-emby
 geosite:category-enhance-gaming
@@ -250,6 +253,7 @@ geosite:category-finance
 geosite:category-food-cn
 geosite:category-forums
 geosite:category-forums-ir
+geosite:category-forums-ru
 geosite:category-game-accelerator-cn
 geosite:category-game-platforms-download
 geosite:category-games
@@ -307,6 +311,7 @@ geosite:category-speedtest
 geosite:category-stun
 geosite:category-tech-ir
 geosite:category-tech-media
+geosite:category-tech-media-ru
 geosite:category-tm
 geosite:category-travel-ir
 geosite:category-travel-ru
@@ -332,6 +337,7 @@ geosite:chatango
 geosite:chatwhores
 geosite:cheetahmobile
 geosite:chegg
+geosite:chesscom
 geosite:chinabroadnet
 geosite:chinamobile
 geosite:chinanews
@@ -342,6 +348,7 @@ geosite:chinatelecom
 geosite:chinatower
 geosite:chinaunicom
 geosite:chinaz
+geosite:cian
 geosite:cisco
 geosite:citic
 geosite:citizenlab
@@ -731,6 +738,7 @@ geosite:ishumei
 geosite:itchio
 geosite:itiger
 geosite:itunes
+geosite:ixbt
 geosite:ixsystems
 geosite:iyf
 geosite:jable
@@ -857,6 +865,7 @@ geosite:mailru
 geosite:mailru-group
 geosite:mainichi
 geosite:manhuagui
+geosite:manhuaren
 geosite:manorama
 geosite:manoto
 geosite:manus
@@ -943,6 +952,7 @@ geosite:nationalgeographic
 geosite:naver
 geosite:nbcuniversal
 geosite:neowin
+geosite:netcraze
 geosite:netcup
 geosite:netease
 geosite:netflav
@@ -1017,6 +1027,7 @@ geosite:oskelly
 geosite:osu
 geosite:otpbank
 geosite:oup
+geosite:overclockers-ru
 geosite:ozon
 geosite:pagecdn
 geosite:panasonic
