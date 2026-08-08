@@ -36,6 +36,7 @@ geosite:connectivity-check@cn
 geosite:dell@cn
 geosite:dettol@cn
 geosite:digicert@cn
+geosite:disney@cn
 geosite:duolingo@cn
 geosite:durex@cn
 geosite:ebay@cn

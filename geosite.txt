@@ -550,6 +550,8 @@ geosite:flickr
 geosite:flowus
 geosite:flowwow
 geosite:flutter
+geosite:flyio
+geosite:focuschina
 geosite:fonbet
 geosite:fontawesome
 geosite:fontexplorer
@@ -658,7 +660,6 @@ geosite:hkbu
 geosite:hkedcity
 geosite:hketgroup
 geosite:hkgolden
-geosite:hkopentv
 geosite:hkt
 geosite:hku
 geosite:hkust
@@ -1216,6 +1217,7 @@ geosite:softether
 geosite:sogou
 geosite:sohu
 geosite:sokolov
+geosite:sonemic
 geosite:sony
 geosite:sonypictures
 geosite:soundcloud

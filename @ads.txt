@@ -1,3 +1,4 @@
+geosite:36kr@ads
 geosite:acfun@ads
 geosite:adjust@ads
 geosite:adobe@ads
