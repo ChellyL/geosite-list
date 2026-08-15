@@ -29,6 +29,8 @@ geosite:accuweather
 geosite:acer
 geosite:acfun
 geosite:actalis
+geosite:activision
+geosite:activision-blizzard
 geosite:adblock
 geosite:adblockplus
 geosite:addthis
@@ -979,6 +981,7 @@ geosite:nikke
 geosite:nikkei
 geosite:nintendo
 geosite:nist
+geosite:nixos
 geosite:nodejs
 geosite:nodeseek
 geosite:noip

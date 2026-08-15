@@ -1,3 +1,4 @@
+geosite:activision-blizzard
 geosite:adobe-activation
 geosite:aliyun-drive
 geosite:annas-archive
