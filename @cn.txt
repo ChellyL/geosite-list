@@ -6,7 +6,6 @@ geosite:airwick@cn
 geosite:akamai@cn
 geosite:alibabacloud@cn
 geosite:amazon@cn
-geosite:amd@cn
 geosite:amp@cn
 geosite:apple@cn
 geosite:apple-dev@cn
@@ -114,7 +113,6 @@ geosite:test-ipv6@cn
 geosite:thetype@cn
 geosite:tvb@cn
 geosite:ubiquiti@cn
-geosite:ubisoft@cn
 geosite:vanish@cn
 geosite:veet@cn
 geosite:visa@cn

@@ -986,6 +986,7 @@ geosite:nodejs
 geosite:nodeseek
 geosite:noip
 geosite:nordstrom
+geosite:nordvpn
 geosite:notion
 geosite:now
 geosite:nowcoder
@@ -1367,7 +1368,6 @@ geosite:twitter
 geosite:typekit
 geosite:typenetwork
 geosite:typography
-geosite:u17
 geosite:uber
 geosite:ubiquiti
 geosite:ubisoft
