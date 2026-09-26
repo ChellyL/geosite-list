@@ -6,6 +6,7 @@ geosite:airwick@cn
 geosite:akamai@cn
 geosite:alibabacloud@cn
 geosite:amazon@cn
+geosite:amd@cn
 geosite:amp@cn
 geosite:apple@cn
 geosite:apple-dev@cn

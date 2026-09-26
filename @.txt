@@ -80,6 +80,7 @@ geosite:aerogard@cn
 geosite:airwick@cn
 geosite:akamai@cn
 geosite:amazon@cn
+geosite:amd@cn
 geosite:amp@cn
 geosite:apple@cn
 geosite:apple-dev@cn

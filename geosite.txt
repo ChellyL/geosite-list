@@ -567,6 +567,7 @@ geosite:forza
 geosite:fox
 geosite:fqnovel
 geosite:framer
+geosite:freebuff
 geosite:freecodecamp
 geosite:freenode
 geosite:ft
@@ -970,6 +971,7 @@ geosite:newsmax
 geosite:nexitally
 geosite:nexo
 geosite:nexon
+geosite:nexusmods
 geosite:nga
 geosite:nginx
 geosite:ngrok
@@ -1211,6 +1213,7 @@ geosite:slack
 geosite:slideshare
 geosite:sling
 geosite:smartone
+geosite:smena
 geosite:smtiaojiaoshi
 geosite:smzdm
 geosite:snap
