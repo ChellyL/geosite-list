@@ -27,8 +27,6 @@ geosite:eleme@ads
 geosite:facebook@ads
 geosite:fqnovel@ads
 geosite:gamersky@ads
-geosite:github@ads
-geosite:github-copilot@ads
 geosite:gog@ads
 geosite:google@ads
 geosite:hetzner@ads
@@ -65,6 +63,7 @@ geosite:qihoo360@ads
 geosite:rostelecom@ads
 geosite:samsung@ads
 geosite:sber@ads
+geosite:sberbank@ads
 geosite:segment@ads
 geosite:sina@ads
 geosite:snap@ads
@@ -84,7 +83,6 @@ geosite:umeng@ads
 geosite:unity@ads
 geosite:unitychina@ads
 geosite:vk@ads
-geosite:whatsapp@ads
 geosite:wildberries@ads
 geosite:x5@ads
 geosite:xhamster@ads

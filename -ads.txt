@@ -1,3 +1,4 @@
 geosite:category-ads
 geosite:category-ads-all
+geosite:category-ads-and-telemetry
 geosite:category-ads-ir

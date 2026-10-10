@@ -20,8 +20,6 @@ geosite:eleme@ads
 geosite:facebook@ads
 geosite:fqnovel@ads
 geosite:gamersky@ads
-geosite:github@ads
-geosite:github-copilot@ads
 geosite:hetzner@ads
 geosite:hoyoverse@ads
 geosite:hunantv@ads
@@ -47,6 +45,7 @@ geosite:pixiv@ads
 geosite:qihoo360@ads
 geosite:rostelecom@ads
 geosite:sber@ads
+geosite:sberbank@ads
 geosite:segment@ads
 geosite:snap@ads
 geosite:sogou@ads
@@ -63,12 +62,10 @@ geosite:umeng@ads
 geosite:unity@ads
 geosite:unitychina@ads
 geosite:vk@ads
-geosite:whatsapp@ads
 geosite:wildberries@ads
 geosite:x5@ads
 geosite:xhamster@ads
 geosite:ximalaya@ads
-geosite:yandex@ads
 geosite:zhihu@ads
 geosite:zuoyebang@ads
 
@@ -204,6 +201,7 @@ geosite:westerndigital@cn
 geosite:woolite@cn
 geosite:xbox@cn
 geosite:yahoo@cn
+geosite:yandex@cn
 geosite:yostar@cn
 geosite:youtube@cn
 
@@ -265,4 +263,9 @@ geosite:category-entertainment-cn@-!cn
 geosite:category-games-cn@-!cn
 geosite:category-social-media-cn@-!cn
 geosite:geolocation-cn@-!cn
+
+*Category: telemetry
+geosite:category-telemetry@telemetry
+geosite:github@telemetry
+geosite:github-copilot@telemetry
 

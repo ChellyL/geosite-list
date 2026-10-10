@@ -125,5 +125,6 @@ geosite:westerndigital@cn
 geosite:woolite@cn
 geosite:xbox@cn
 geosite:yahoo@cn
+geosite:yandex@cn
 geosite:yostar@cn
 geosite:youtube@cn

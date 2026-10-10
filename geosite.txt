@@ -208,6 +208,7 @@ geosite:catchplay
 geosite:category-acg
 geosite:category-ads
 geosite:category-ads-all
+geosite:category-ads-and-telemetry
 geosite:category-ads-ir
 geosite:category-ai-!cn
 geosite:category-ai-chat-!cn
@@ -315,6 +316,7 @@ geosite:category-stun
 geosite:category-tech-ir
 geosite:category-tech-media
 geosite:category-tech-media-ru
+geosite:category-telemetry
 geosite:category-tm
 geosite:category-travel-ir
 geosite:category-travel-ru
@@ -1169,6 +1171,7 @@ geosite:samsung
 geosite:sankei
 geosite:sb
 geosite:sber
+geosite:sberbank
 geosite:scala
 geosite:scaleflex
 geosite:scenesource

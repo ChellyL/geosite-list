@@ -73,6 +73,10 @@ geosite:category-social-media-!cn
 geosite:geolocation-!cn
 geosite:tld-!cn
 
+* Category: telemetry
+geosite:category-ads-and-telemetry
+geosite:category-telemetry
+
 * Category: ir
 geosite:category-ads-ir
 geosite:category-bank-ir
