@@ -151,6 +151,7 @@ geosite:bing
 geosite:bitauto
 geosite:bitflyer
 geosite:bitly
+geosite:bitrix
 geosite:bitsquare
 geosite:bitwarden
 geosite:bjyouth
@@ -254,6 +255,7 @@ geosite:category-entertainment
 geosite:category-entertainment-cn
 geosite:category-entertainment-ru
 geosite:category-finance
+geosite:category-flight-simulator
 geosite:category-food-cn
 geosite:category-forums
 geosite:category-forums-ir
@@ -331,6 +333,7 @@ geosite:ccb
 geosite:cctv
 geosite:cdek
 geosite:cdn77
+geosite:cdprojekt
 geosite:ceno
 geosite:cerebras
 geosite:cern
@@ -475,6 +478,7 @@ geosite:dribbble
 geosite:dropbox
 geosite:drweb
 geosite:dslreports
+geosite:dsn-host
 geosite:duckduckgo
 geosite:duitang
 geosite:duolingo
@@ -529,6 +533,7 @@ geosite:faceit
 geosite:falungong
 geosite:familymart
 geosite:fandom
+geosite:fanfiction
 geosite:fans66
 geosite:fansta
 geosite:farfetch
@@ -555,6 +560,7 @@ geosite:flickr
 geosite:flowus
 geosite:flowwow
 geosite:flutter
+geosite:fluxer
 geosite:flyio
 geosite:focuschina
 geosite:fonbet
@@ -1401,6 +1407,7 @@ geosite:v8
 geosite:vancl
 geosite:vanish
 geosite:vaptcha
+geosite:vatsim
 geosite:veet
 geosite:vercel
 geosite:verisign

@@ -65,6 +65,7 @@ geosite:category-entertainment
 geosite:category-entertainment-cn
 geosite:category-entertainment-ru
 geosite:category-finance
+geosite:category-flight-simulator
 geosite:category-food-cn
 geosite:category-forums
 geosite:category-forums-ir
@@ -142,6 +143,7 @@ geosite:cloudflare-ipfs
 geosite:comfy-ui-launcher
 geosite:connectivity-check
 geosite:dmm-porn
+geosite:dsn-host
 geosite:f-droid
 geosite:facebook-dev
 geosite:genotek-ru
