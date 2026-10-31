@@ -1,12 +1,7 @@
 *Category: ads
 geosite:36kr@ads
-geosite:acfun@ads
 geosite:adjust@ads
-geosite:amap@ads
-geosite:amplitude@ads
-geosite:avito@ads
 geosite:baidu@ads
-geosite:cainiao@ads
 geosite:carrotquest@ads
 geosite:category-ads@ads
 geosite:category-ads-all@ads
@@ -15,16 +10,11 @@ geosite:category-ru@ads
 geosite:cctv@ads
 geosite:clearbit@ads
 geosite:dmm@ads
-geosite:dzen@ads
-geosite:eleme@ads
 geosite:facebook@ads
 geosite:fqnovel@ads
 geosite:gamersky@ads
-geosite:hetzner@ads
-geosite:hoyoverse@ads
 geosite:hunantv@ads
 geosite:instagram@ads
-geosite:kontur@ads
 geosite:kuaishou@ads
 geosite:kugou@ads
 geosite:le@ads
@@ -36,14 +26,11 @@ geosite:mts-ru@ads
 geosite:nicegram@ads
 geosite:ogury@ads
 geosite:ookla-speedtest@ads
-geosite:openai@ads
 geosite:openx@ads
 geosite:ozon@ads
 geosite:picacg@ads
-geosite:pikpak@ads
 geosite:pixiv@ads
 geosite:qihoo360@ads
-geosite:rostelecom@ads
 geosite:sber@ads
 geosite:sberbank@ads
 geosite:segment@ads
@@ -53,20 +40,16 @@ geosite:sohu@ads
 geosite:spotify@ads
 geosite:supersonic@ads
 geosite:tcl@ads
-geosite:tencent-dev@ads
 geosite:tencent-tme@ads
 geosite:tendcloud@ads
 geosite:twitter@ads
 geosite:uc@ads
 geosite:umeng@ads
-geosite:unity@ads
 geosite:unitychina@ads
 geosite:vk@ads
 geosite:wildberries@ads
 geosite:x5@ads
-geosite:xhamster@ads
 geosite:ximalaya@ads
-geosite:zhihu@ads
 geosite:zuoyebang@ads
 
 *Category: cn
@@ -122,7 +105,6 @@ geosite:familymart@cn
 geosite:farfetch@cn
 geosite:fflogs@cn
 geosite:finish@cn
-geosite:firebase@cn
 geosite:gigabyte@cn
 geosite:globalsign@cn
 geosite:gog@cn
@@ -148,7 +130,6 @@ geosite:mapbox@cn
 geosite:mastercard@cn
 geosite:mcdonalds@cn
 geosite:meadjohnson@cn
-geosite:microsoft@cn
 geosite:microsoft-dev@cn
 geosite:mihoyo-cn@cn
 geosite:miniso@cn
@@ -205,6 +186,25 @@ geosite:yandex@cn
 geosite:yostar@cn
 geosite:youtube@cn
 
+*Category: ads @telemetry
+geosite:acfun@ads @telemetry
+geosite:amap@ads @telemetry
+geosite:amplitude@ads @telemetry
+geosite:avito@ads @telemetry
+geosite:cainiao@ads @telemetry
+geosite:dzen@ads @telemetry
+geosite:eleme@ads @telemetry
+geosite:hetzner@ads @telemetry
+geosite:hoyoverse@ads @telemetry
+geosite:kontur@ads @telemetry
+geosite:openai@ads @telemetry
+geosite:pikpak@ads @telemetry
+geosite:rostelecom@ads @telemetry
+geosite:tencent-dev@ads @telemetry
+geosite:unity@ads @telemetry
+geosite:xhamster@ads @telemetry
+geosite:zhihu@ads @telemetry
+
 *Category: !cn
 geosite:airchina@!cn
 geosite:alibaba@!cn
@@ -215,7 +215,6 @@ geosite:auxgroup@!cn
 geosite:bilibili@!cn
 geosite:bilibili-cdn@!cn
 geosite:boc@!cn
-geosite:bytedance@!cn
 geosite:bytedance-ai-!cn@!cn
 geosite:category-pt@!cn
 geosite:ccb@!cn
@@ -255,6 +254,18 @@ geosite:xiaohongshu@!cn
 geosite:xiaomi@!cn
 geosite:youku@!cn
 
+*Category: telemetry
+geosite:bytedance@telemetry
+geosite:category-telemetry@telemetry
+geosite:cloudflare@telemetry
+geosite:github@telemetry
+geosite:github-copilot@telemetry
+geosite:meitu@telemetry
+geosite:microsoft@telemetry
+geosite:osu@telemetry
+geosite:shuqi@telemetry
+geosite:volcengine@telemetry
+
 *Category: -!cn
 geosite:category-bank-cn@-!cn
 geosite:category-dev-cn@-!cn
@@ -264,8 +275,6 @@ geosite:category-games-cn@-!cn
 geosite:category-social-media-cn@-!cn
 geosite:geolocation-cn@-!cn
 
-*Category: telemetry
-geosite:category-telemetry@telemetry
-geosite:github@telemetry
-geosite:github-copilot@telemetry
+*Category: cn @telemetry
+geosite:firebase@cn @telemetry
 

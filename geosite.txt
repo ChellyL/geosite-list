@@ -840,6 +840,7 @@ geosite:lg
 geosite:lianjia
 geosite:liberapay
 geosite:libgen
+geosite:librewolf
 geosite:liepin
 geosite:lifewire
 geosite:ligastavok
