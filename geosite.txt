@@ -1100,6 +1100,7 @@ geosite:pptv
 geosite:primevideo
 geosite:private
 geosite:progress
+geosite:projectmoon
 geosite:projectpoi
 geosite:projectsekai
 geosite:proquest
@@ -1450,6 +1451,7 @@ geosite:watchout
 geosite:wbgames
 geosite:weathercn
 geosite:webex
+geosite:webflow
 geosite:webnovel
 geosite:webtype
 geosite:weiphone

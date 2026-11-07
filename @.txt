@@ -247,6 +247,7 @@ geosite:qcloud@!cn
 geosite:sina@!cn
 geosite:taptap@!cn
 geosite:tencent@!cn
+geosite:tencent-games@!cn
 geosite:tiktok@!cn
 geosite:vivo@!cn
 geosite:webnovel@!cn
@@ -255,6 +256,7 @@ geosite:xiaomi@!cn
 geosite:youku@!cn
 
 *Category: telemetry
+geosite:anthropic@telemetry
 geosite:bytedance@telemetry
 geosite:category-telemetry@telemetry
 geosite:cloudflare@telemetry
