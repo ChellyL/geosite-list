@@ -632,6 +632,7 @@ geosite:google-trust-services
 geosite:googlefcm
 geosite:goproxy
 geosite:gracg
+geosite:grafanalabs
 geosite:grapheneos
 geosite:gravatar
 geosite:greatfire
